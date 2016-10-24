@@ -1,6 +1,6 @@
 \documentclass[]{article}
 
-\usepackage[english]{babel} 
+\usepackage[ngerman]{babel} 
 %\usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 
@@ -35,14 +35,14 @@
 
 % Bibliography
 \usepackage[authordate,notes,backend=biber,isbn=false,annotation,firstinits=true,defernumbers=true,sorting=ydnt]{biblatex-chicago}
-\addbibresource{bibliography.en.bib}
+\addbibresource{bibliography.de.bib}
 \DeclareFieldFormat{labelnumberwidth}{}
 \setlength{\biblabelsep}{0pt}
 \DeclareFieldFormat{annotation}{{#1}}
 
 \begin{document}
 
-\title{List of Publications}
+\title{Schriftenverzeichnis}
 \author{Stefan Groth}
 \date{Version: \href{https://github.com/sgroth/bibliography}{\gfiGetCommitAbr}, \gfiGetYear--\gfiGetMonth--\gfiGetDay}
 
@@ -50,12 +50,12 @@
 
 \nocite{*} % includes all entries from my personal bibliography
 
-\printbibliography[keyword=submitted,title={Submitted for Publication}]
-\printbibliography[type=unpublished,keyword=inpreparation,title={Publications in Preparation}]
-\printbibliography[type=book,notkeyword=submitted,notkeyword=inpreparation,keyword=monography,title={Monographies}]
-\printbibliography[type=book,notkeyword=submitted,notkeyword=inpreparation,keyword=editedvolume,title={Edited Volumes}]
-\printbibliography[type=article,notkeyword=submitted,notkeyword=inpreparation,title={Journal Articles}]
-\printbibliography[type=incollection,notkeyword=submitted,notkeyword=inpreparation,title={Contributions to Edited Volumes}]
-\printbibliography[type=review,notkeyword=submitted,notkeyword=inpreparation,title={Reviews}]
+\printbibliography[keyword=submitted,title={Eingereichte Beitr\"age}]
+\printbibliography[type=unpublished,keyword=inpreparation,title={Beitr\"age in Vorbereitung}]
+\printbibliography[type=book,notkeyword=submitted,notkeyword=inpreparation,keyword=monography,title={Monographien}]
+\printbibliography[type=book,notkeyword=submitted,notkeyword=inpreparation,keyword=editedvolume,title={Herausgeberschaften}]
+\printbibliography[type=article,notkeyword=submitted,notkeyword=inpreparation,title={Zeitschriftenaufs\"atze}]
+\printbibliography[type=incollection,notkeyword=submitted,notkeyword=inpreparation,title={Aufs\"atze in Sammelb\"anden}]
+\printbibliography[type=review,notkeyword=submitted,notkeyword=inpreparation,title={Rezensionen}]
 
 \end{document}
