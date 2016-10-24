@@ -7,8 +7,7 @@
 *.log 
 *.tmp 
 *.xref 
-*.pdx 
-*.pdf 
+*.pdx  
 *.pnd 
 *.bbl 
 *.bcf 
@@ -30,3 +29,7 @@
 *.tps 
 *blx.bib 
 *.run.xml
+
+# Ignore the resulting PDF # 
+########################### 
+*.pdf
