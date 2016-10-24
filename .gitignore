@@ -12,6 +12,8 @@
 *.bbl 
 *.bcf 
 *.auto 
+*.fls
+*.log
 *.blg 
 *.dvi 
 *.glo 
