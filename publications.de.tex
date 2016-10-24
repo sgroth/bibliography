@@ -1,21 +1,17 @@
+% !TEX TS-program = pdflatexmk
 \documentclass[]{article}
 
 \usepackage[ngerman]{babel} 
-%\usepackage[T1]{fontenc}
+\usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 
 % Fonts and Typography
 \usepackage[osf]{ebgaramond} % Garamond for rm
 \usepackage[osf]{sourcesanspro} % SourceSansPro for ss
 \usepackage[scale=1]{sourcecodepro} % SourceCodePro for tt
-
 \usepackage{microtype}
-\usepackage{sectsty}
-%\allsectionsfont{\normalfont\sffamily}
-
 \usepackage[autostyle=true,german=quotes]{csquotes}
 \usepackage[colorlinks, urlcolor=magenta]{hyperref}
-
 \renewcommand\UrlFont{\color{magenta}\rmfamily}
 
 % Version Control
@@ -27,9 +23,6 @@
 \renewcommand{\headrulewidth}{0pt}
 \fancyhead{}
 \fancyfoot{}
-\lhead{}
-\rhead{}
-\lfoot{}
 \rfoot{\thepage}
 \lfoot{\textcolor{gray}{Version: \gfiGetCommitAbr, \gfiGetYear--\gfiGetMonth--\gfiGetDay, \gfiGetAuthorName}} % adds version control information
 
@@ -50,6 +43,7 @@
 
 \nocite{*} % includes all entries from my personal bibliography
 
+% Print segmented bibliographies
 \printbibliography[keyword=submitted,title={Eingereichte Beitr\"age}]
 \printbibliography[type=unpublished,keyword=inpreparation,title={Beitr\"age in Vorbereitung}]
 \printbibliography[type=book,notkeyword=submitted,notkeyword=inpreparation,keyword=monography,title={Monographien}]
