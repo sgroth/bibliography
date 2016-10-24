@@ -1,0 +1,44 @@
+\documentclass{article}
+\usepackage[ngerman]{babel} 
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+% Fonts
+\usepackage[osf]{ebgaramond} % rm
+\usepackage[]{sourcesanspro} % ss
+\usepackage[scale=0.9]{sourcecodepro} % tt
+
+%\usepackage{sectsty}
+%\allsectionsfont{\normalfont\sffamily}
+%\usepackage{ragged2e}
+
+\usepackage[autostyle=true,german=quotes]{csquotes}
+\usepackage[colorlinks, urlcolor = {blue}]{hyperref}
+\urlstyle{rm}
+
+%\usepackage[anythingbreaks]{breakurl}
+
+% Bibliography
+\usepackage[authordate,notes,backend=biber,isbn=false,annotation,firstinits=true,defernumbers=true,sorting=ydnt]{biblatex-chicago}
+\addbibresource{bibliography.bib}
+\DeclareFieldFormat{labelnumberwidth}{}
+\setlength{\biblabelsep}{0pt}
+\DeclareFieldFormat{annotation}{{#1}}
+
+\begin{document}
+\title{List of Publications\,/\,Schriftenverzeichnis}
+\author{Stefan Groth}
+\date{2016-10-24 VC \tt{00101011}}
+\maketitle
+\nocite{*}
+
+\sloppy
+\printbibliography[keyword=submitted,title={Submitted for Publication}]
+\printbibliography[type=unpublished,keyword=inpreparation,title={Publications in Preparation}]
+\printbibliography[type=book,notkeyword=submitted,notkeyword=inpreparation,keyword=monography,title={Monographies}]
+\printbibliography[type=book,notkeyword=submitted,notkeyword=inpreparation,keyword=editedvolume,title={Edited Volumes}]
+\printbibliography[type=article,notkeyword=submitted,notkeyword=inpreparation,title={Journal Articles}]
+\printbibliography[type=incollection,notkeyword=submitted,notkeyword=inpreparation,title={Contributions to Edited Volumes}]
+\printbibliography[type=review,notkeyword=submitted,notkeyword=inpreparation,title={Reviews}]
+
+\end{document}
