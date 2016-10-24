@@ -57,6 +57,113 @@
       \field{title}{Implicit Ethics: Normative Claims to Culture in Multilateral Negotiations}
       \keyw{inpreparation}
     \endentry
+    \entry{Groth:0000aa}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=cda2ac43bda571fe985cb90aefa5453d}{%
+           family={Groth},
+           familyi={G\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=182c2fa1b7f6492f6d053329d8e4eeff}{%
+           family={Schwell},
+           familyi={S\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=537585aa8a2e49224ff888d12a12f239}{%
+           family={Eisch-Angus},
+           familyi={E\bibinithyphendelim A\bibinitperiod},
+           given={Katharina},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Panama Verlag}%
+      }
+      \strng{namehash}{cda2ac43bda571fe985cb90aefa5453d}
+      \strng{fullhash}{cda2ac43bda571fe985cb90aefa5453d}
+      \strng{authornamehash}{cda2ac43bda571fe985cb90aefa5453d}
+      \strng{authorfullhash}{cda2ac43bda571fe985cb90aefa5453d}
+      \strng{editornamehash}{92db2713d542ac6ac4295a8295bc1d1d}
+      \strng{editorfullhash}{92db2713d542ac6ac4295a8295bc1d1d}
+      \field{sortinit}{9}
+      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Accepted for Publication}
+      \field{booktitle}{Alltag der Unsicherheit}
+      \field{title}{\enquote{Kein sichereres Mittel existirt zur Abwehr von allem Lupengesindel}: Zur Technisierung und Legitimierung von Sicherheits- und Kontrollregimen um 1900}
+      \keyw{submitted}
+    \endentry
+    \entry{Groth:0000ab}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=cda2ac43bda571fe985cb90aefa5453d}{%
+           family={Groth},
+           familyi={G\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{cda2ac43bda571fe985cb90aefa5453d}
+      \strng{fullhash}{cda2ac43bda571fe985cb90aefa5453d}
+      \strng{authornamehash}{cda2ac43bda571fe985cb90aefa5453d}
+      \strng{authorfullhash}{cda2ac43bda571fe985cb90aefa5453d}
+      \field{sortinit}{9}
+      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Submitted for Publication}
+      \field{title}{Subjektiver Sinn, objektive Indikatoren? Zum Verhältnis von Wahrnehmung und Vermessung im freizeitsportlichen Rennradsport. Beitrag für den DGV-Tagungs\-band \enquote{Kulturen der Sinne}, Zürich, Juli 2015}
+      \keyw{submitted}
+    \endentry
+    \entry{Groth:2017aa}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=cda2ac43bda571fe985cb90aefa5453d}{%
+           family={Groth},
+           familyi={G\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d5df0ee8a04a1065c90fafdd6a3ea140}{%
+           family={Bendix},
+           familyi={B\bibinitperiod},
+           given={Regina\bibnamedelima F.},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=78b1ef84963d229ad6746f7e78828ef5}{%
+           family={Geismar},
+           familyi={G\bibinitperiod},
+           given={Haidy},
+           giveni={H\bibinitperiod}}}%
+        {{hash=6572edc1a62c746a663dcdb31b5f07ff}{%
+           family={Anderson},
+           familyi={A\bibinitperiod},
+           given={Jane},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{636216bb0f4097e36dfbaf0069ba540b}
+      \strng{fullhash}{636216bb0f4097e36dfbaf0069ba540b}
+      \strng{authornamehash}{636216bb0f4097e36dfbaf0069ba540b}
+      \strng{authorfullhash}{636216bb0f4097e36dfbaf0069ba540b}
+      \strng{editornamehash}{6ff1001bfe571867ff158b4ed3f646e0}
+      \strng{editorfullhash}{6ff1001bfe571867ff158b4ed3f646e0}
+      \field{sortinit}{9}
+      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Accepted for Publication}
+      \field{booktitle}{The Routledge Companion to Cultural Property}
+      \field{title}{Culture as a Flexible Concept for the Legitimation of Policies in the EU}
+      \keyw{submitted}
+    \endentry
     \entry{Groth:0000af}{unpublished}{}
       \name{author}{2}{}{%
         {{hash=cda2ac43bda571fe985cb90aefa5453d}{%
@@ -80,6 +187,31 @@
       \field{labeltitlesource}{title}
       \field{title}{Sport and the Senses: A Perspective from European Ethnology}
       \keyw{inpreparation}
+    \endentry
+    \entry{Krahn:0000aa}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=051d43fe33c8db8b6aafc3070e84409b}{%
+           family={Krahn},
+           familyi={K\bibinitperiod},
+           given={Yonca},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=cda2ac43bda571fe985cb90aefa5453d}{%
+           family={Groth},
+           familyi={G\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{4bf9ee55bb64880dde5dec7e94001442}
+      \strng{fullhash}{4bf9ee55bb64880dde5dec7e94001442}
+      \strng{authornamehash}{4bf9ee55bb64880dde5dec7e94001442}
+      \strng{authorfullhash}{4bf9ee55bb64880dde5dec7e94001442}
+      \field{sortinit}{9}
+      \field{sortinithash}{5a7694b2c36c7534b22948c31e4b7920}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{annotation}{Submitted for Publication}
+      \field{title}{Sport und Sinne: Eine Hinführung. Beitrag für den DGV-Tagungs\-band \enquote{Kulturen der Sinne}, Zürich, Juli 2015}
+      \keyw{submitted}
     \endentry
     \entry{Groth:2016aa}{incollection}{}
       \name{author}{1}{}{%
@@ -152,7 +284,7 @@
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{annotation}{Accepted for Publication / Zur Publikation angenommen}
+      \field{annotation}{Accepted for Publication}
       \field{journaltitle}{Rheinisch-Westfälische Zeitschrift für Volkskunde}
       \field{title}{EU/Kultur: Zu Flexibilität und Kohärenz des Kulturbegriffes im Rahmen europäischer Kulturpolitik}
       \field{volume}{61}
@@ -177,9 +309,9 @@
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{annotation}{Accepted for Publication / Zur Publikation angenommen}
+      \field{annotation}{Accepted for Publication}
       \field{journaltitle}{Rheinisch-Westfälische Zeitschrift für Volkskunde.}
-      \field{title}{Review of / Rezension von \emph{Fair Trade: Eine global-lokale Geschichte am Beispiel des Kaffees}, by / von R. Quaas}
+      \field{title}{Review of \emph{Fair Trade: Eine global-lokale Geschichte am Beispiel des Kaffees}, by R. Quaas}
       \field{volume}{61}
       \field{year}{2016}
       \field{pages}{359\bibrangedash 361}
@@ -202,9 +334,9 @@
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{annotation}{Accepted for Publication / Zur Publikation angenommen}
+      \field{annotation}{Accepted for Publication}
       \field{journaltitle}{Journal of American Folklore}
-      \field{title}{Review of / Rezension von \emph{UNESCO on the Ground: Local Perspectives on Intangible Cultural Heritage}, edited by / herausgegeben von M. D. Foster, L. Gilman}
+      \field{title}{Review of \emph{UNESCO on the Ground: Local Perspectives on Intangible Cultural Heritage}, edited by M. D. Foster, L. Gilman}
       \field{year}{2016}
       \keyw{submitted}
     \endentry
@@ -229,7 +361,7 @@
       \field{sortinithash}{8343b463aacf48517c044b4d2c9c45ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{annotation}{Accepted for Publication / Zur Publikation angenommen}
+      \field{annotation}{Accepted for Publication}
       \field{journaltitle}{Rheinisch-Westfälische Zeitschrift für Volkskunde}
       \field{title}{Kulturelle Repräsentationen von \enquote{Region} in der gouvernementalen und kompetitiven Entwicklung ländlicher Räume}
       \field{volume}{61}
@@ -319,7 +451,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{H-Soz-Kult}
-      \field{title}{Review of / Rezension von \emph{Reiseziel: immaterielles Kulturerbe. Ein interdisziplinärer Dialog}, edited by / herausgegeben von M.-A. Camp, S. Eggmann, B. Taufer}
+      \field{title}{Review of \emph{Reiseziel: immaterielles Kulturerbe. Ein interdisziplinärer Dialog}, edited by M.-A. Camp, S. Eggmann, B. Taufer}
       \field{volume}{09/2015}
       \field{year}{2015}
       \verb{file}
@@ -705,7 +837,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Folklore Research Reviews}
-      \field{title}{Review of / Rezension von \emph{Treasured Possessions: Indigenous Interventions into Cultural and Intellectual Property}, by / von H. Geismar}
+      \field{title}{Review of \emph{Treasured Possessions: Indigenous Interventions into Cultural and Intellectual Property}, by H. Geismar}
       \field{volume}{10/2014}
       \field{year}{2014}
       \verb{url}
@@ -822,7 +954,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Österreichische Zeitschrift für Volkskunde}
       \field{number}{1--2}
-      \field{title}{Review of / Rezension von \emph{Erb.gut? Kulturelles Erbe zwischen Wissenschaft und Gesellschaft}, edited by / herausgegeben von K. C. Berger, M. Schindler, I. Schneider}
+      \field{title}{Review of \emph{Erb.gut? Kulturelles Erbe zwischen Wissenschaft und Gesellschaft}, edited by K. C. Berger, M. Schindler, I. Schneider}
       \field{volume}{115}
       \field{year}{2012}
       \field{pages}{218\bibrangedash 223}
@@ -877,7 +1009,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Kulturen}
-      \field{title}{Review of / Rezension von \emph{The Anthropology of Moralities}, edited by / herausgegeben von M. Heintz}
+      \field{title}{Review of \emph{The Anthropology of Moralities}, edited by M. Heintz}
       \field{volume}{2/2011}
       \field{year}{2011}
       \field{pages}{59\bibrangedash 62}
@@ -1027,142 +1159,6 @@
       \field{year}{2009}
       \field{pages}{33\bibrangedash 39}
       \range{pages}{7}
-    \endentry
-    \entry{Groth:0000aa}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=cda2ac43bda571fe985cb90aefa5453d}{%
-           family={Groth},
-           familyi={G\bibinitperiod},
-           given={Stefan},
-           giveni={S\bibinitperiod}}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=182c2fa1b7f6492f6d053329d8e4eeff}{%
-           family={Schwell},
-           familyi={S\bibinitperiod},
-           given={Alexandra},
-           giveni={A\bibinitperiod}}}%
-        {{hash=537585aa8a2e49224ff888d12a12f239}{%
-           family={Eisch-Angus},
-           familyi={E\bibinithyphendelim A\bibinitperiod},
-           given={Katharina},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Berlin}%
-      }
-      \list{publisher}{1}{%
-        {Panama Verlag}%
-      }
-      \strng{namehash}{cda2ac43bda571fe985cb90aefa5453d}
-      \strng{fullhash}{cda2ac43bda571fe985cb90aefa5453d}
-      \strng{authornamehash}{cda2ac43bda571fe985cb90aefa5453d}
-      \strng{authorfullhash}{cda2ac43bda571fe985cb90aefa5453d}
-      \strng{editornamehash}{92db2713d542ac6ac4295a8295bc1d1d}
-      \strng{editorfullhash}{92db2713d542ac6ac4295a8295bc1d1d}
-      \field{sortinit}{3}
-      \field{sortinithash}{7e21a31d9ef6ddc352701d4fa590bfbc}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{annotation}{Accepted for Publication / Zur Publikation angenommen}
-      \field{booktitle}{Alltag der Unsicherheit}
-      \field{title}{\enquote{Kein sichereres Mittel existirt zur Abwehr von allem Lupengesindel}: Zur Technisierung und Legitimierung von Sicherheits- und Kontrollregimen um 1900}
-      \field{year}{n.d.}
-      \keyw{submitted}
-    \endentry
-    \entry{Groth:0000ab}{incollection}{}
-      \name{author}{1}{}{%
-        {{hash=cda2ac43bda571fe985cb90aefa5453d}{%
-           family={Groth},
-           familyi={G\bibinitperiod},
-           given={Stefan},
-           giveni={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{cda2ac43bda571fe985cb90aefa5453d}
-      \strng{fullhash}{cda2ac43bda571fe985cb90aefa5453d}
-      \strng{authornamehash}{cda2ac43bda571fe985cb90aefa5453d}
-      \strng{authorfullhash}{cda2ac43bda571fe985cb90aefa5453d}
-      \field{sortinit}{3}
-      \field{sortinithash}{7e21a31d9ef6ddc352701d4fa590bfbc}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{annotation}{Submitted for Publication / Zur Publikation eingereicht}
-      \field{title}{Subjektiver Sinn, objektive Indikatoren? Zum Verhältnis von Wahrnehmung und Vermessung im freizeitsportlichen Rennradsport. Beitrag für den DGV-Tagungs\-band \enquote{Kulturen der Sinne}, Zürich, Juli 2015}
-      \field{year}{n.d.}
-      \keyw{submitted}
-    \endentry
-    \entry{Groth:2017aa}{incollection}{}
-      \name{author}{2}{}{%
-        {{hash=cda2ac43bda571fe985cb90aefa5453d}{%
-           family={Groth},
-           familyi={G\bibinitperiod},
-           given={Stefan},
-           giveni={S\bibinitperiod}}}%
-        {{hash=d5df0ee8a04a1065c90fafdd6a3ea140}{%
-           family={Bendix},
-           familyi={B\bibinitperiod},
-           given={Regina\bibnamedelima F.},
-           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=78b1ef84963d229ad6746f7e78828ef5}{%
-           family={Geismar},
-           familyi={G\bibinitperiod},
-           given={Haidy},
-           giveni={H\bibinitperiod}}}%
-        {{hash=6572edc1a62c746a663dcdb31b5f07ff}{%
-           family={Anderson},
-           familyi={A\bibinitperiod},
-           given={Jane},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {London}%
-      }
-      \list{publisher}{1}{%
-        {Routledge}%
-      }
-      \strng{namehash}{636216bb0f4097e36dfbaf0069ba540b}
-      \strng{fullhash}{636216bb0f4097e36dfbaf0069ba540b}
-      \strng{authornamehash}{636216bb0f4097e36dfbaf0069ba540b}
-      \strng{authorfullhash}{636216bb0f4097e36dfbaf0069ba540b}
-      \strng{editornamehash}{6ff1001bfe571867ff158b4ed3f646e0}
-      \strng{editorfullhash}{6ff1001bfe571867ff158b4ed3f646e0}
-      \field{sortinit}{3}
-      \field{sortinithash}{7e21a31d9ef6ddc352701d4fa590bfbc}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{annotation}{Accepted for Publication / Zur Publikation angenommen}
-      \field{booktitle}{The Routledge Companion to Cultural Property}
-      \field{title}{Culture as a Flexible Concept for the Legitimation of Policies in the EU}
-      \field{year}{n.d.}
-      \keyw{submitted}
-    \endentry
-    \entry{Krahn:0000aa}{incollection}{}
-      \name{author}{2}{}{%
-        {{hash=051d43fe33c8db8b6aafc3070e84409b}{%
-           family={Krahn},
-           familyi={K\bibinitperiod},
-           given={Yonca},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=cda2ac43bda571fe985cb90aefa5453d}{%
-           family={Groth},
-           familyi={G\bibinitperiod},
-           given={Stefan},
-           giveni={S\bibinitperiod}}}%
-      }
-      \strng{namehash}{4bf9ee55bb64880dde5dec7e94001442}
-      \strng{fullhash}{4bf9ee55bb64880dde5dec7e94001442}
-      \strng{authornamehash}{4bf9ee55bb64880dde5dec7e94001442}
-      \strng{authorfullhash}{4bf9ee55bb64880dde5dec7e94001442}
-      \field{sortinit}{3}
-      \field{sortinithash}{7e21a31d9ef6ddc352701d4fa590bfbc}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{annotation}{Submitted for Publication / Zur Publikation eingereicht}
-      \field{title}{Sport und Sinne: Eine Hinführung. Beitrag für den DGV-Tagungs\-band \enquote{Kulturen der Sinne}, Zürich, Juli 2015}
-      \field{year}{n.d.}
-      \keyw{submitted}
     \endentry
   \endsortlist
 \endrefsection

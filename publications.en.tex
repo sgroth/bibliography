@@ -1,11 +1,8 @@
-\documentclass[dvipsnames]{article}
+\documentclass[]{article}
 
-\usepackage[ngerman]{babel} 
+\usepackage[english]{babel} 
 %\usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
-
-% Version Control
-\usepackage[]{gitinfo2}
 
 % Fonts and Typography
 \usepackage[osf]{ebgaramond} % Garamond for rm
@@ -17,20 +14,24 @@
 %\allsectionsfont{\normalfont\sffamily}
 
 \usepackage[autostyle=true,german=quotes]{csquotes}
-\usepackage[colorlinks, urlcolor = {Magenta}]{hyperref}
-\urlstyle{rm}
+\usepackage[colorlinks, urlcolor=magenta]{hyperref}
 
-%\usepackage{fancyhdr}
-%\pagestyle{fancy}
+\renewcommand\UrlFont{\color{magenta}\rmfamily}
 
-%\fancyhead{}
-%\fancyfoot{}
+% Version Control
+\usepackage{gitfile-info}
 
-%\renewcommand{\headrulewidth}{0pt}
-
-%\rhead{\footnotesize{\tt{\textcolor{gray}{Version Control:} \textcolor{Cyan}{\gitAuthorDate \gitAbbrevHash}}}}
-
-%\usepackage[anythingbreaks]{breakurl}
+% Headers and Footers
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead{}
+\fancyfoot{}
+\lhead{}
+\rhead{}
+\lfoot{}
+\rfoot{\thepage}
+\lfoot{\textcolor{gray}{Version: \gfiGetCommitAbr, \gfiGetYear--\gfiGetMonth--\gfiGetDay, \gfiGetAuthorName}} % adds version control information
 
 % Bibliography
 \usepackage[authordate,notes,backend=biber,isbn=false,annotation,firstinits=true,defernumbers=true,sorting=ydnt]{biblatex-chicago}
@@ -40,17 +41,15 @@
 \DeclareFieldFormat{annotation}{{#1}}
 
 \begin{document}
-\title{List of Publications\,/\,Schriftenverzeichnis}
+
+\title{List of Publications}
 \author{Stefan Groth}
-\date{Date: \gitAuthorDate}
+\date{Version: \href{https://github.com/sgroth/bibliography}{\gfiGetCommitAbr}, \gfiGetYear--\gfiGetMonth--\gfiGetDay}
+
 \maketitle
-\nocite{*}
 
-% Add Version Control Information
-\footnotesize{\tt{\textcolor{gray}{Version Control:} \textcolor{Cyan}{\gitAuthorDate \gitAbbrevHash}}}
+\nocite{*} % includes all entries from my personal bibliography
 
-
-%\sloppy
 \printbibliography[keyword=submitted,title={Submitted for Publication}]
 \printbibliography[type=unpublished,keyword=inpreparation,title={Publications in Preparation}]
 \printbibliography[type=book,notkeyword=submitted,notkeyword=inpreparation,keyword=monography,title={Monographies}]
