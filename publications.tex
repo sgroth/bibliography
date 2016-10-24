@@ -1,20 +1,34 @@
-\documentclass{article}
+\documentclass[dvipsnames]{article}
+
 \usepackage[ngerman]{babel} 
-\usepackage[T1]{fontenc}
+%\usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 
-% Fonts
-\usepackage[osf]{ebgaramond} % rm
-\usepackage[]{sourcesanspro} % ss
-\usepackage[scale=0.9]{sourcecodepro} % tt
+% Version Control
+\usepackage[]{gitinfo2}
 
-%\usepackage{sectsty}
+% Fonts and Typography
+\usepackage[osf]{ebgaramond} % Garamond for rm
+\usepackage[osf]{sourcesanspro} % SourceSansPro for ss
+\usepackage[scale=1]{sourcecodepro} % SourceCodePro for tt
+
+\usepackage{microtype}
+\usepackage{sectsty}
 %\allsectionsfont{\normalfont\sffamily}
-%\usepackage{ragged2e}
 
 \usepackage[autostyle=true,german=quotes]{csquotes}
-\usepackage[colorlinks, urlcolor = {blue}]{hyperref}
+\usepackage[colorlinks, urlcolor = {Magenta}]{hyperref}
 \urlstyle{rm}
+
+%\usepackage{fancyhdr}
+%\pagestyle{fancy}
+
+%\fancyhead{}
+%\fancyfoot{}
+
+%\renewcommand{\headrulewidth}{0pt}
+
+%\rhead{\footnotesize{\tt{\textcolor{gray}{Version Control:} \textcolor{Cyan}{\gitAuthorDate \gitAbbrevHash}}}}
 
 %\usepackage[anythingbreaks]{breakurl}
 
@@ -28,11 +42,15 @@
 \begin{document}
 \title{List of Publications\,/\,Schriftenverzeichnis}
 \author{Stefan Groth}
-\date{2016-10-24 VC \tt{00101011}}
+\date{Date: \gitAuthorDate}
 \maketitle
 \nocite{*}
 
-\sloppy
+% Add Version Control Information
+\footnotesize{\tt{\textcolor{gray}{Version Control:} \textcolor{Cyan}{\gitAuthorDate \gitAbbrevHash}}}
+
+
+%\sloppy
 \printbibliography[keyword=submitted,title={Submitted for Publication}]
 \printbibliography[type=unpublished,keyword=inpreparation,title={Publications in Preparation}]
 \printbibliography[type=book,notkeyword=submitted,notkeyword=inpreparation,keyword=monography,title={Monographies}]

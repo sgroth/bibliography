@@ -1,0 +1,21 @@
+[0] Config.pm:354> INFO - This is Biber 2.6
+[0] Config.pm:357> INFO - Logfile is 'publications.blg'
+[48] biber-darwin:302> INFO - === Mon Oct 24, 2016, 14:58:20
+[83] Biber.pm:359> INFO - Reading 'publications.bcf'
+[219] Biber.pm:820> INFO - Using all citekeys in bib section 0
+[231] Biber.pm:3658> INFO - Processing section 0
+[249] Biber.pm:3828> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[253] bibtex.pm:1425> INFO - Decoding LaTeX character macros into UTF-8
+[259] bibtex.pm:1282> INFO - Found BibTeX data source 'bibliography.bib'
+[283] Utils.pm:164> WARN - year field 'n.d.' in entry 'Krahn:0000aa' is not an integer - this will probably not sort properly.
+[292] Utils.pm:164> WARN - year field 'n.d.' in entry 'Groth:2017aa' is not an integer - this will probably not sort properly.
+[311] Utils.pm:164> WARN - year field 'n.d.' in entry 'Groth:0000aa' is not an integer - this will probably not sort properly.
+[313] Utils.pm:164> WARN - year field 'n.d.' in entry 'Groth:0000ab' is not an integer - this will probably not sort properly.
+[350] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[350] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[351] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'level = 4' with 'level = 2'
+[351] Biber.pm:3487> INFO - Sorting list 'ydnt/global/' of type 'entry' with scheme 'ydnt' and locale 'de-DE'
+[351] Biber.pm:3493> INFO - No sort tailoring available for locale 'de-DE'
+[380] bbl.pm:597> INFO - Writing 'publications.bbl' with encoding 'UTF-8'
+[385] bbl.pm:701> INFO - Output to publications.bbl
+[385] Biber.pm:109> INFO - WARNINGS: 4
