@@ -13,3 +13,4 @@ German and English BibTeX bibliographies of my publications, continuously update
 ## To-Do
 * Create `Makefile` to automatically execute the workflow and clean up the working directory
 * Add option to create Markdown versions (currently done via [citeproc-ruby](https://github.com/inukshuk/citeproc-ruby) and [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) for my [website](https://www.stefangroth.com/publications))
+* Implement il8n-support to prevent duplicate versions (English, German) 
