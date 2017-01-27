@@ -36,7 +36,7 @@ if len(sys.argv) <= 1:
     # write in the help file
     for fl in commFiles:
         flname, flext = os.path.splitext(fl)
-        if flext == '.tex':
+        if flext == '.bib':
             rawdate = int(git.log('-1', fl,
                         pretty='format:"%at"').split('"')[1])
             date = [time.strftime("%d. %B %Y %H:%M", time.localtime(rawdate)),
