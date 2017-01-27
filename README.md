@@ -1,5 +1,7 @@
 # Bibliography
-German and English BibTeX bibliographies of my publications, continuously updated. Includes TeX-files for German and English lists of publications, including version control information via [`gitfile-info`](https://www.ctan.org/pkg/gitfile-info?lang=de).
+German and English BibTeX bibliographies of my publications, continuously updated. Includes TeX-files for German and English lists of publications, including version control information via [`gitfile-info`](https://www.ctan.org/pkg/gitfile-info?lang=de). 
+
+`gitfile-info` is monkey patched to check for version control information of the `.bib`-files (and not the `.tex`-files).
 
 ## Workflow for LaTeX-files
 1. Update German and English bib-files

@@ -36,6 +36,7 @@ if len(sys.argv) <= 1:
     # write in the help file
     for fl in commFiles:
         flname, flext = os.path.splitext(fl)
+        flfirst, flsep, flsecond = flname.rpartition(".")
         if flext == '.bib':
             rawdate = int(git.log('-1', fl,
                         pretty='format:"%at"').split('"')[1])
@@ -49,7 +50,7 @@ if len(sys.argv) <= 1:
                       git.log('-1', fl, pretty='format:"%ae"').split('"')[1]]
             commit = [git.log('-1', fl, pretty='format:"%H"').split('"')[1],
                       git.log('-1', fl, pretty='format:"%h"').split('"')[1]]
-            f = codecs.open(flname+".gfi", "w", encoding="utf-8")
+            f = codecs.open("publications"+flsep+flsecond+".gfi", "w", encoding="utf-8")
             f.write("% gitfile-info control file\n")
             f.write("\\gfiSetDate{" + date[1] + "}{" + date[2] + "}{" + date[3]
                     + "}{" + date[4] + "}{" + date[5] + "}{" + date[0] + "}\n")
