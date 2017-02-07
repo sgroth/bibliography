@@ -36,7 +36,7 @@ if len(sys.argv) <= 1:
     # write in the help file
     for fl in commFiles:
         flname, flext = os.path.splitext(fl)
-        flfirst, flsep, flsecond = flname.rpartition(".")
+        # flfirst, flsep, flsecond = flname.rpartition(".")
         if flext == '.bib':
             rawdate = int(git.log('-1', fl,
                         pretty='format:"%at"').split('"')[1])
@@ -50,13 +50,20 @@ if len(sys.argv) <= 1:
                       git.log('-1', fl, pretty='format:"%ae"').split('"')[1]]
             commit = [git.log('-1', fl, pretty='format:"%H"').split('"')[1],
                       git.log('-1', fl, pretty='format:"%h"').split('"')[1]]
-            f = codecs.open("publications"+flsep+flsecond+".gfi", "w", encoding="utf-8")
+            f = codecs.open("publications.de.gfi", "w", encoding="utf-8")
             f.write("% gitfile-info control file\n")
             f.write("\\gfiSetDate{" + date[1] + "}{" + date[2] + "}{" + date[3]
                     + "}{" + date[4] + "}{" + date[5] + "}{" + date[0] + "}\n")
             f.write("\\gfiSetAuthor{" + author[0] + "}{" + author[1] + "}\n")
             f.write("\\gfiSetCommit{" + commit[0] + "}{" + commit[1] + "}")
             f.close
+            g = codecs.open("publications.en.gfi", "w", encoding="utf-8")
+            g.write("% gitfile-info control file\n")
+            g.write("\\gfiSetDate{" + date[1] + "}{" + date[2] + "}{" + date[3]
+                    + "}{" + date[4] + "}{" + date[5] + "}{" + date[0] + "}\n")
+            g.write("\\gfiSetAuthor{" + author[0] + "}{" + author[1] + "}\n")
+            g.write("\\gfiSetCommit{" + commit[0] + "}{" + commit[1] + "}")
+            g.close
 else:
     # get the specific file, read date/author/commit and
     # write the help file

@@ -1,10 +1,10 @@
 # Bibliography
-German and English BibTeX bibliographies of my publications, continuously updated. Includes TeX-files for German and English lists of publications, including version control information via [`gitfile-info`](https://www.ctan.org/pkg/gitfile-info?lang=de). 
+BibTeX bibliography of my publications, continuously updated. Includes TeX-files for German and English lists of publications, including version control information via [`gitfile-info`](https://www.ctan.org/pkg/gitfile-info?lang=de). 
 
-`gitfile-info` is monkey patched to check for version control information of the `.bib`-files (and not the `.tex`-files).
+`gitfile-info` is monkey patched to check for version control information of the `.bib`-file (and not the `.tex`-files).
 
 ## Workflow for LaTeX-files
-1. Update German and English bib-files
+1. Update bib-file
 2. Commit and sync changes
 3. Run `pythonw gfi-run.py` in working directory to get and store version number
 4. Run `pdflatexmk` to typeset list of publications
