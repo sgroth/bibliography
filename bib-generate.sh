@@ -6,11 +6,14 @@ git commit -m "updated bib data"
 git push origin master
 # get vc info (pythonw)
 pythonw gfi-run.py
-# delete contents of pdf
+# delete contents of pdf and markdown
+rm -rf markdown
 rm -rf pdf
 # mkdir
 mkdir pdf
 chmod 777 pdf
+mkdir markdown
+chmod 777 markdown
 # create en.bib and replace strings
 cp sgroth-bibliography.bib sgroth-bibliography.en.bib
 sed -i '' -e 's/Zur[[:space:]]Publikation[[:space:]]eingereicht/Submitted for publication/g; s/Rezension[[:space:]]von/Review of/g; s/herausgegeben[[:space:]]von/edited by/g; s/} von/} by/g; s/Im[[:space:]]Druck/In print/g; s/Sondernummer/special issue/g' sgroth-bibliography.en.bib
