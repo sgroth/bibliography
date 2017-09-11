@@ -18,7 +18,7 @@ latexmk -pdf publications.de.tex
 # move pdf to subdirectory
 mv publications.de.pdf pdf/
 # add and commit to git (PDF result)
-git add pdf/publications.de.pdf
+git add *
 git commit -m "updated PDF version"
 # sync with git
 git push origin master
