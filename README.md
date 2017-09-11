@@ -4,7 +4,7 @@ BibTeX bibliography of my publications, continuously updated. Includes TeX-files
 `gitfile-info` is monkey patched to check for version control information of the `.bib`-file (and not the `.tex`-files).
 
 ## Workflow for LaTeX-files
-* Run `generate bib-generate.sh` (currently only German version)
+* Run `generate bib-generate.sh`
 
 or
 
@@ -17,4 +17,4 @@ or
 ## To-Do
 * ~~Create `Makefile` to automatically execute the workflow~~ (switched to shell script)
 * Add option to create Markdown versions (currently done via [citeproc-ruby](https://github.com/inukshuk/citeproc-ruby) and [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) for my [website](https://www.stefangroth.com/publications))
-* Implement i18n-support to prevent duplicate versions (English, German) 
+* ~~Implement i18n-support to prevent duplicate versions (English, German)~~ 
