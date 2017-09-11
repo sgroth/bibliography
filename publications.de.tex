@@ -10,11 +10,18 @@
 % Fonts and Typography
 \usepackage[osf]{ebgaramond} % Garamond for rm
 \usepackage[osf]{sourcesanspro} % SourceSansPro for ss
-\usepackage[scale=1]{sourcecodepro} % SourceCodePro for tt
+\usepackage[scaled=0.9]{beramono} % SourceCodePro for tt
 \usepackage{microtype}
 \usepackage[autostyle=true,german=quotes]{csquotes}
-\usepackage[colorlinks, urlcolor=magenta]{hyperref}
-\renewcommand\UrlFont{\color{magenta}\rmfamily}
+\usepackage[dvipsnames]{xcolor}
+\usepackage[]{hyperref}
+\renewcommand\UrlFont{\rmfamily}
+
+\hypersetup{
+  colorlinks=true,
+  urlcolor=JungleGreen
+}
+
 
 % Version Control
 \usepackage{gitfile-info}
@@ -26,7 +33,7 @@
 \fancyhead{}
 \fancyfoot{}
 \rfoot{\thepage}
-\lfoot{\textcolor{gray}{Version: \gfiGetCommitAbr, \gfiGetYear--\gfiGetMonth--\gfiGetDay, \footnotesize{\texttt{\href{https://github.com/sgroth/bibliography}{https://github.com/sgroth/bibliography}}}}} % adds version control information
+\lfoot{\textcolor{gray}{{\footnotesize\texttt{Version \gfiGetCommitAbr, \gfiGetYear--\gfiGetMonth--\gfiGetDay, \href{https://github.com/sgroth/bibliography}{https://github.com/sgroth/bibliography}}}}} % adds version control information
 
 % Bibliography
 \usepackage[authordate,notes,backend=biber,isbn=false,annotation,firstinits=true,defernumbers=true,sorting=ydnt]{biblatex-chicago}
@@ -34,9 +41,6 @@
 \DeclareFieldFormat{labelnumberwidth}{}
 \setlength{\biblabelsep}{0pt}
 \DeclareFieldFormat{annotation}{{#1}}
-\AtEveryBibitem{%
-  \clearfield{note}%
-}
 
 \begin{document}
 
