@@ -4,13 +4,17 @@ BibTeX bibliography of my publications, continuously updated. Includes TeX-files
 `gitfile-info` is monkey patched to check for version control information of the `.bib`-file (and not the `.tex`-files).
 
 ## Workflow for LaTeX-files
+* Run `generate bib-generate.sh` (currently only German version)
+
+or
+
 1. Update bib-file
 2. Commit and sync changes
 3. Run `pythonw gfi-run.py` in working directory to get and store version number
 4. Run `pdflatexmk` to typeset list of publications
-5. Upload PDF files to server ([http://stefangroth.com/data/publications.en.pdf](http://stefangroth.com/data/publications.en.pdf) and [http://stefangroth.com/data/publications.de.pdf](http://stefangroth.com/data/publications.de.pdf))
+5. Upload PDF files to server (or use the files stored on [GitHub](https://www.github.com))
 
 ## To-Do
-* Create `Makefile` to automatically execute the workflow and clean up the working directory
+* ~~Create `Makefile` to automatically execute the workflow and clean up the working directory~~ (switched to shell script)
 * Add option to create Markdown versions (currently done via [citeproc-ruby](https://github.com/inukshuk/citeproc-ruby) and [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) for my [website](https://www.stefangroth.com/publications))
 * Implement i18n-support to prevent duplicate versions (English, German) 
