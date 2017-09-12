@@ -38,6 +38,7 @@
 % Bibliography
 \usepackage[authordate,notes,backend=biber,isbn=false,annotation,firstinits=true,defernumbers=true,sorting=ydnt]{biblatex-chicago}
 \addbibresource{sgroth-bibliography.bib}
+%\addbibresource{sgroth-unpublished.bib}
 \DeclareFieldFormat{labelnumberwidth}{}
 \setlength{\biblabelsep}{0pt}
 \DeclareFieldFormat{annotation}{{#1}}
@@ -54,10 +55,11 @@
 
 % Print segmented bibliographies
 \printbibliography[keyword=submitted,title={Eingereichte Beitr\"age}]
-\printbibliography[keyword=inpreparation,title={Beitr\"age in Vorbereitung}]
+\printbibliography[keyword=inpreparation,notkeyword=provisional,title={Beitr\"age in Vorbereitung}]
+\printbibliography[keyword=provisional,title={Provisional}]
 \printbibliography[type=book,notkeyword=submitted,notkeyword=inpreparation,notkeyword=miszelle,keyword=monography,title={Monographien}]
 \printbibliography[type=book,notkeyword=submitted,notkeyword=inpreparation,notkeyword=miszelle,keyword=editedvolume,title={Herausgeberschaften}]
-%\printbibliography[keyword=specialissue,title={Sondernummern von Zeitschriften}]
+\printbibliography[keyword=specialissue,notkeyword=inpreparation,title={Sondernummern von Zeitschriften}]
 \printbibliography[type=article,notkeyword=submitted,notkeyword=inpreparation,notkeyword=miszelle,title={Zeitschriftenaufs\"atze}]
 \printbibliography[type=incollection,notkeyword=submitted,notkeyword=inpreparation,notkeyword=miszelle,title={Aufs\"atze in Sammelb\"anden}]
 \printbibliography[keyword=miszelle,notkeyword=inpreparation,title={Miszellen}]

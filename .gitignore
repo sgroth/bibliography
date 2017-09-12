@@ -1,5 +1,8 @@
 # Created by https://www.gitignore.io/api/latex
 
+## Provisional bib-entries
+sgroth-unpublished.bib
+
 ### LaTeX ###
 ## Core latex/pdflatex auxiliary files:
 *.aux
