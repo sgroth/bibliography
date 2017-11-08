@@ -19,9 +19,8 @@
 
 \hypersetup{
   colorlinks=true,
-  urlcolor=JungleGreen
+  urlcolor=RoyalBlue
 }
-
 
 % Version Control
 \usepackage{gitfile-info}
@@ -38,7 +37,7 @@
 % Bibliography
 \usepackage[authordate,notes,backend=biber,isbn=false,annotation,firstinits=true,defernumbers=true,sorting=ydnt]{biblatex-chicago}
 \addbibresource{sgroth-bibliography.bib}
-%\addbibresource{sgroth-unpublished.bib}
+% \addbibresource{sgroth-unpublished.bib}
 \DeclareFieldFormat{labelnumberwidth}{}
 \setlength{\biblabelsep}{0pt}
 \DeclareFieldFormat{annotation}{{#1}}
@@ -56,7 +55,7 @@
 % Print segmented bibliographies
 \printbibliography[keyword=submitted,title={Eingereichte Beitr\"age}]
 \printbibliography[keyword=inpreparation,notkeyword=provisional,title={Beitr\"age in Vorbereitung}]
-\printbibliography[keyword=provisional,title={Provisional}]
+\printbibliography[keyword=provisional,title={Provisional}] % Section to test provisional entries
 \printbibliography[type=book,notkeyword=submitted,notkeyword=inpreparation,notkeyword=miszelle,keyword=monography,title={Monographien}]
 \printbibliography[type=book,notkeyword=submitted,notkeyword=inpreparation,notkeyword=miszelle,keyword=editedvolume,title={Herausgeberschaften}]
 \printbibliography[keyword=specialissue,notkeyword=inpreparation,title={Sondernummern von Zeitschriften}]
