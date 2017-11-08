@@ -4,7 +4,7 @@ BibTeX bibliography of my publications, continuously updated. Includes TeX-files
 `gitfile-info` is monkey patched to check for version control information of the `.bib`-file (and not the `.tex`-files).
 
 ## Workflow for LaTeX-files
-* Run `generate bib-generate.sh`
+* Run `sh bib-generate.sh`
 
 or
 
