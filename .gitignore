@@ -3,6 +3,10 @@
 ## Provisional bib-entries
 sgroth-unpublished.bib
 
+## Sublime files
+*.sublime-project
+*.sublime-workspace
+
 ### LaTeX ###
 ## Core latex/pdflatex auxiliary files:
 *.aux
