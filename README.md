@@ -16,5 +16,6 @@ or
 
 ## To-Do
 * ~~Create `Makefile` to automatically execute the workflow~~ (switched to shell script)
-* Add option to create Markdown versions (currently done via [citeproc-ruby](https://github.com/inukshuk/citeproc-ruby) and [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) for my [website](https://www.stefangroth.com/publications))
+* ~~Add option to create Markdown versions (currently done via [citeproc-ruby](https://github.com/inukshuk/citeproc-ruby) and [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) for my [website](https://www.stefangroth.com/publications))~~
+* Change sort order for markdown version to: newest to oldest
 * ~~Implement i18n-support to prevent duplicate versions (English, German)~~ (switched to temporary English version of the bibliography and using `sed` to replace a number of special strings) 
