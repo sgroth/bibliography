@@ -20,20 +20,12 @@ bib = BibTeX.open('sgroth-bibliography.bib').convert(:latex2,:latex)
 # Create a new processor with the desired style, # format, and locale.
 cp = CiteProc::Processor.new style: 'chicago-author-date', format: 'text', locale: 'de'
 
-# sortorder = cp.engine.style.bibliography > 'sort' > 'key'
-# 
-# puts sortorder
-# 
-# sortorder[:sort] = 'descending'
-# 
-# puts sortorder
-
-# <key macro="contributors"/>
-# <key variable="issued" sort="descending"/>
-# <key variable="title"/>"/
+sortorder = cp.engine.style.bibliography > 'sort' > 'year'
+puts sortorder
+sortorder = 'descending'
+puts sortorder
 
 cp.import bib.to_citeproc
-
 
 # Process entries with keyword "submitted"
 submitted = bib['@*[keywords=submitted]'].map do |e|

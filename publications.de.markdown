@@ -2,19 +2,21 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2017-12-23
+Version: 2018-1-30
 
 ## Eingereichte Beiträge
 * Groth, Stefan. 2017. „Kein sichereres Mittel existirt zur Abwehr von allem Lumpengesindel: Zur Technisierung und Legitimierung von Sicherheits- und Kontrollregimen um 1900“. In Der Alltag der (Un)Sicherheit. Kulturwissenschaftlich-ethnographische Perspektiven auf die Sicherheitsgesellschaft, herausgegeben von Alexandra Schwell und Katharina Eisch-Angus. Berlin: Panama Verlag.  
-* Groth, Stefan, und Yonca Krahn. 2017. „Sensing Athletes: Sensory Dimensions of Recreational Endurance Sports“. Journal of Ethnology and Folkloristics 11 (2).  
-* Groth, Stefan. 2018. „Einfache Formen, komplexe Prozesse. Sprichwörter und Redewendungen in multilateralen Verhandlungen“. Herausgegeben von Silke Meyer. Fabula: Zeitschrift für Erzählforschung 59 (1-2).  
+* ———. 2018. „Einfache Formen, komplexe Prozesse. Sprichwörter und Redewendungen in multilateralen Verhandlungen“. Herausgegeben von Silke Meyer. Fabula: Zeitschrift für Erzählforschung 59 (1-2).  
 * ———. 2018. „Entstehungskontext, Materialität und Sprachspezifik. Elemente einer empirisch-kulturwissenschaftlichen Quellenkritik von Dokumenten in politischen Prozessen“. Schweizerisches Archiv für Volkskunde 114 (1).  
 * ———. o. J. „Of Good Averages and Happy Mediums: Normative Orientations towards an Average in Urban Housing“.  
-* ———. o. J. „Rezension von European Products. Making and Unmaking Heritage in Cyprus von G. Welz“. Social Anthropology.
+* ———. o. J. „Rezension von European Products. Making and Unmaking Heritage in Cyprus von G. Welz“. Social Anthropology.  
+* ———. o. J. „Rezension von Die Not der Anderen. Kulturwissenschaftliche Perspektiven auf Aushandlungen globaler Armut am Beispiel des Fairen Handels von L. Winterberg“. Rheinisch-Westfälische Zeitschrift für Volkskunde.  
+* ———. o. J. „Konkurrenz um die Mitte?“ In Wettbewerb und Konkurrenz, herausgegeben von Markus Tauschek. Waxmann.  
+* ———. o. J. „Implicit Ethics. The Voicing of Normative Claims in Multilateral Negotiations“.  
+* ———. o. J. „Makro-Trends als Forschungsthema? Europäisch-ethnologische Themenbegrenzung am Beispiel der Mitte“. In Wie kann man nur dazu forschen? Themenpolitik in der Europäischen Ethnologie, herausgegeben von Timo Heimerdinger und Marion Näser-Lather.
 
 ## Beiträge in Vorbereitung
-* Esguerra, Alejandro, Katja Freistein, und Stefan Groth. o. J. „Micro to Macro. On Generalizing from Communicative Approaches Towards International Institutions“.  
-* Groth, Stefan. o. J. Normative Dimensionen kulturellen Erbes. Bd. 14. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press.  
+* ———. o. J. Normative Dimensionen kulturellen Erbes. Bd. 14. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press.  
 * Groth, Stefan, und Christian Ritter, Hrsg. o. J. „Zusammenarbeiten. Praktiken der Koordination und Kooperation in kollaborativen Prozessen“. Bielefeld: Transcript.
 
 ## Monographien
@@ -34,7 +36,8 @@ Version: 2017-12-23
 * ———. 2014. „Quantified Cyclists and Stratified Motives: Explorations into Age-Group Road Cycling as Cultural Performance“. Ethnologia Europaea 44 (1): 38–56.  
 * ———. 2015. „Common Ground and Missing Links: German Volkskunde and Language“. Anthropological Journal of European Cultures 24 (1): 24–41. doi:10.3167/ajec.2015.240103.  
 * ———. 2016. „EU/Kultur: Zu Flexibilität und Kohärenz des Kulturbegriffes im Rahmen europäischer Kulturpolitik“. Rheinisch-Westfälische Zeitschrift für Volkskunde 61: 227–46.  
-* Groth, Stefan, und Ove Sutter. 2016. „Kulturelle Repräsentationen von Region in der gouvernementalen und kompetitiven Entwicklung ländlicher Räume“. Rheinisch-Westfälische Zeitschrift für Volkskunde 61: 247–67.
+* Groth, Stefan, und Ove Sutter. 2016. „Kulturelle Repräsentationen von Region in der gouvernementalen und kompetitiven Entwicklung ländlicher Räume“. Rheinisch-Westfälische Zeitschrift für Volkskunde 61: 247–67.  
+* Groth, Stefan, und Yonca Krahn. 2017. „Sensing Athletes: Sensory Dimensions of Recreational Endurance Sports“. Journal of Ethnology and Folkloristics 11 (2): 3–23. doi:10.1515/jef-2017-0011.
 
 ## Aufsätze in Sammelbänden
 * Groth, Stefan. 2010. „Perspektiven der Differenzierung: Multiple Ausdeutungen von traditionellem Wissen indigener Gemeinschaften in WIPO-Verhandlungen“. In Die Konstituierung von Cultural Property: Forschungsperspektiven, herausgegeben von Regina F. Bendix, Kilian Bizer, und Stefan Groth, 177–95. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press. http://resolver.sub.uni-goettingen.de/purl?isbn-978-3-941875-61-6.  
