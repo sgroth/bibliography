@@ -2,26 +2,22 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2018-3-20
+Version: 2018-3-27
 
 ## Eingereichte Beiträge
-* Groth, Stefan. 2018. „Kein sichereres Mittel existirt zur Abwehr von allem Lumpengesindel: Zur Entwicklung von Sicherheits- und Kontrollkonstellationen um 1900“. In Der Alltag der (Un)Sicherheit. Kulturwissenschaftlich-ethnographische Perspektiven auf die Sicherheitsgesellschaft, herausgegeben von Alexandra Schwell und Katharina Eisch-Angus, 36–62. Berlin: Panama Verlag.  
+* Groth, Stefan. 2018. „Kein sichereres Mittel existirt zur Abwehr von allem Lumpengesindel: Zur Entwicklung von Sicherheits- und Kontrollkonstellationen um 1900“. In Der Alltag der (Un)Sicherheit. Kulturwissenschaftlich-ethnographische Perspektiven auf die Sicherheitsgesellschaft, herausgegeben von Alexandra Schwell und Katharina Eisch-Angus, 36–63. Berlin: Panama Verlag.  
 * ———. 2018. „Einfache Formen, komplexe Prozesse. Sprichwörter und Redewendungen in multilateralen Verhandlungen“. Herausgegeben von Silke Meyer. Fabula: Zeitschrift für Erzählforschung 59 (1-2).  
 * ———. 2018. „Entstehungskontext, Materialität und Sprachspezifik. Elemente einer empirisch-kulturwissenschaftlichen Quellenkritik von Dokumenten in politischen Prozessen“. Schweizerisches Archiv für Volkskunde 114 (1).  
 * ———, Hrsg. o. J. „Narrative Culture“.  
 * ———. o. J. „Of Good Averages and Happy Mediums: Orientations towards an Average in Urban Housing“.  
 * ———. o. J. „Political Narratives / Narrations of the Political. An Introduction“. Herausgegeben von Stefan Groth. Narrative Culture.  
 * ———. o. J. „Zwischen Ermöglichung und Begrenzung: Zur subjektiven Plausibilisierung des Mittelmaßes als normative Orientierung“. In Tagungsband des 41. dgv-Kongresses Wirtschaften, September 2017, Marburg.  
-* ———. o. J. „Rezension von Die Not der Anderen. Kulturwissenschaftliche Perspektiven auf Aushandlungen globaler Armut am Beispiel des Fairen Handels von L. Winterberg“. Rheinisch-Westfälische Zeitschrift für Volkskunde.  
-* ———. o. J. „Konkurrenz um die Mitte?“ In Wettbewerb und Konkurrenz, herausgegeben von Markus Tauschek. Waxmann.  
-* ———. o. J. „Makro-Trends als Forschungsthema? Europäisch-ethnologische Themenbegrenzung am Beispiel der Mitte“. In Wie kann man nur dazu forschen? Themenpolitik in der Europäischen Ethnologie, herausgegeben von Timo Heimerdinger und Marion Näser-Lather.  
-* ———. o. J. „Implicit Ethics: Normative Claims to Culture in Multilateral Negotiations“.
+* ———. o. J. „Rezension von Die Not der Anderen. Kulturwissenschaftliche Perspektiven auf Aushandlungen globaler Armut am Beispiel des Fairen Handels von L. Winterberg“. Rheinisch-Westfälische Zeitschrift für Volkskunde.
 
 ## Beiträge in Vorbereitung
 * ———. 2018. Normative Dimensionen kulturellen Erbes. Bd. 14. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press.  
 * Groth, Stefan, und Christian Ritter, Hrsg. 2019. „Zusammen arbeiten. Praktiken der Koordination und Kooperation in kollaborativen Prozessen“. Bielefeld: Transcript.  
-* Groth, Stefan, Lara Gruhn, und Linda Mülli, Hrsg. 2019. „Zyklen, Strukturen und Rhythmen: Ordnungen in Alltag und Gesellschaft“. Würzburg: Königshausen und Neumann.  
-* Esguerra, Alejandro, Katja Freistein, und Stefan Groth. o. J. „Micro to Macro. On Generalizing from Communicative Approaches Towards International Institutions“.
+* Groth, Stefan, Lara Gruhn, und Linda Mülli, Hrsg. 2019. „Zyklen, Strukturen und Rhythmen: Ordnungen in Alltag und Gesellschaft“. Würzburg: Königshausen und Neumann.
 
 ## Monographien
 * Groth, Stefan. 2012. Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property. Bd. 4. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press. doi:10.4000/books.gup.608.
