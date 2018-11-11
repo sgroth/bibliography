@@ -9,19 +9,20 @@
 
 % Fonts and Typography
 \usepackage[osf]{ebgaramond} % Garamond for rm
-\usepackage[osf]{sourcesanspro} % SourceSansPro for ss
+\usepackage[osf]{roboto} % SourceSansPro for ss
 \usepackage[scaled=0.9]{beramono} % SourceCodePro for tt
 \usepackage{microtype}
 \usepackage[autostyle=true,german=quotes]{csquotes}
-\usepackage[dvipsnames]{xcolor}
+\usepackage[svgnames]{xcolor}
 \usepackage[]{hyperref}
 \renewcommand\UrlFont{\rmfamily}
 
 \hypersetup{
   colorlinks=true,
-  urlcolor=Blue
+  urlcolor=MediumBlue
 }
-
+\usepackage{sectsty} % Allows changing the font options for sections in a document
+\allsectionsfont{\color{MediumBlue}\normalfont\small\sffamily} 
 %--------------------
 \clubpenalty = 20000 
 \widowpenalty = 20000 
@@ -71,12 +72,13 @@
 % Print segmented bibliographies
 %\printbibliography[keyword=provisional,title={Provisional}] % Section to test provisional entries
 \printbibliography[type=book,notkeyword=submitted,notkeyword=inpreparation,notkeyword=miszelle,keyword=monography,title={Monographien}]
-\printbibliography[type=book,notkeyword=miszelle,keyword=editedvolume,title={Herausgeberschaften}]
+\printbibliography[type=book,notkeyword=miszelle,notkeyword=notaccepted,keyword=editedvolume,title={Herausgeberschaften}]
 \printbibliography[keyword=specialissue,notkeyword=inpreparation,title={Sondernummern von Zeitschriften}]
-\printbibliography[filter=papers,notkeyword=inpreparation,notkeyword=miszelle,notkeyword=notaccepted,title={Aufs\"atze}]
+\printbibliography[nottype=periodical,notkeyword=notaccepted,keyword=peerreview,title={Peer Reviewed Papers}]
+\printbibliography[notkeyword=inpreparation,keyword=notaccepted,title={Eingereichte Beitr\"age}]
+\printbibliography[filter=papers,notkeyword=peerreview,notkeyword=inpreparation,notkeyword=miszelle,notkeyword=notaccepted,title={Aufs\"atze}]
 % \printbibliography[type=incollection,notkeyword=submitted,notkeyword=inpreparation,notkeyword=miszelle,title={Aufs\"atze in Sammelb\"anden}]
 \printbibliography[keyword=miszelle,notkeyword=inpreparation,title={Miszellen und graue Literatur}]
-\printbibliography[notkeyword=inpreparation,keyword=notaccepted,title={Eingereichte Beitr\"age}]
 \printbibliography[keyword=notaccepted,keyword=inpreparation,title={Beitr\"age in Vorbereitung}]
 \printbibliography[type=review,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=miszelle,title={Rezensionen}]
 
