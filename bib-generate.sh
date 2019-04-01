@@ -9,6 +9,7 @@ pythonw gfi-run.py
 # delete contents of pdf and markdown
 rm -rf markdown
 rm -rf pdf
+rm -rf publications.de.pdf
 # mkdir
 mkdir pdf
 chmod 777 pdf
