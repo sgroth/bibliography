@@ -1,5 +1,8 @@
 # Created by https://www.gitignore.io/api/latex
 
+## Locally generated PDF file
+## publications.de.pdf
+
 ## Provisional bib-entries
 sgroth-unpublished.bib
 
