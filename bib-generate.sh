@@ -19,7 +19,7 @@ chmod 777 markdown
 
 # create markdown version
 ruby publications.rb
-mv publications.de.markdown markdown/
+mv publications.de.md markdown/
 # create en.bib and replace strings
 cp sgroth-bibliography.bib sgroth-bibliography.en.bib
 sed -i '' -e 's/Zur[[:space:]]Publikation[[:space:]]eingereicht/Submitted for publication/g; s/Rezension[[:space:]]von/Review of/g; s/herausgegeben[[:space:]]von/edited by/g; s/} von/} by/g; s/Im[[:space:]]Druck/In print/g; s/Sondernummer/special issue/g; s/Zur[[:space:]]Publikation[[:space:]]angenommen/Accepted for publication/g' sgroth-bibliography.en.bib
@@ -30,11 +30,14 @@ latexmk -pdf publications.en.tex
 # latexmk -CA publications.de.tex
 # delete en.bib
 rm sgroth-bibliography.en.bib
+# delete markdown files
+rm publications.de.markdown
+rm publications.de.md
 # move pdf to subdirectory
 mv publications.de.pdf pdf/
 mv publications.en.pdf pdf/
 # add and commit to git (PDF result)
 git add *
-git commit -m "updated PDF version"
+git commit -m "updated PDF and markdown version"
 # sync with git
 git push origin master
