@@ -20,6 +20,7 @@ chmod 777 markdown
 # create markdown version
 ruby publications.rb
 mv publications.de.md markdown/
+
 # create en.bib and replace strings
 cp sgroth-bibliography.bib sgroth-bibliography.en.bib
 sed -i '' -e 's/Zur[[:space:]]Publikation[[:space:]]eingereicht/Submitted for publication/g; s/Rezension[[:space:]]von/Review of/g; s/herausgegeben[[:space:]]von/edited by/g; s/} von/} by/g; s/Im[[:space:]]Druck/In print/g; s/Sondernummer/special issue/g; s/Zur[[:space:]]Publikation[[:space:]]angenommen/Accepted for publication/g' sgroth-bibliography.en.bib
