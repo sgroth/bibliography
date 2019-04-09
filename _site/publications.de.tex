@@ -1,0 +1,97 @@
+% !TEX TS-program = pdflatexmk
+\documentclass[]{article}
+
+\RequirePackage[l2tabu, orthodox]{nag}
+
+\usepackage[ngerman]{babel} 
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+% Fonts and Typography
+\usepackage[osf]{ebgaramond} % Garamond for rm
+\usepackage[osf]{roboto} % SourceSansPro for ss
+\usepackage[scaled=0.9]{beramono} % SourceCodePro for tt
+\usepackage{microtype}
+\usepackage[autostyle=true,german=quotes]{csquotes}
+\usepackage[svgnames]{xcolor}
+\usepackage[]{hyperref}
+\renewcommand\UrlFont{\rmfamily}
+
+\hypersetup{
+  colorlinks=true,
+  urlcolor=MediumBlue
+}
+\usepackage{sectsty} % Allows changing the font options for sections in a document
+\allsectionsfont{\color{MediumBlue}\normalfont\small\sffamily} 
+%--------------------
+\clubpenalty = 20000 
+\widowpenalty = 20000 
+\displaywidowpenalty = 20000
+%--------------------
+
+% Version Control
+\usepackage{gitfile-info}
+
+% Headers and Footers
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead{}
+\fancyfoot{}
+\rfoot{\thepage}
+\lfoot{\textcolor{gray}{{\footnotesize\texttt{Version \gfiGetCommitAbr, \gfiGetYear--\gfiGetMonth--\gfiGetDay, \href{https://github.com/sgroth/bibliography}{https://github.com/sgroth/bibliography}}}}} % adds version control information
+
+% Bibliography
+\usepackage[authordate,notes,backend=biber,isbn=false,annotation,firstinits=false,defernumbers=true,sorting=ydnt]{biblatex-chicago}
+\makeatletter
+\AtEveryBibitem{
+  \global\undef\bbx@lasthash}
+\makeatother
+
+% Filter for papers both in journals and edited volumes
+\defbibfilter{papers}{
+  type=article or
+  type=incollection
+}
+
+% Filter for entries either inpreparation OR notaccepted
+\defbibfilter{vorbereitung}{
+  keyword=inpreparation or
+  keyword=notaccepted 
+}
+
+\addbibresource{sgroth-bibliography.bib}
+% \addbibresource{sgroth-unpublished.bib}
+
+\DeclareFieldFormat{labelnumberwidth}{}
+\setlength{\biblabelsep}{0pt}
+\DeclareFieldFormat{annotation}{{#1}}
+
+\begin{document}
+
+\title{Publikations- und Vortragsverzeichnis}
+\author{Dr. Stefan Groth\\\footnotesize{\texttt{\href{https://www.stefangroth.com}{https://www.stefangroth.com}}}}
+\date{Version: \href{https://github.com/sgroth/bibliography}{\gfiGetCommitAbr}, \gfiGetYear--\gfiGetMonth--\gfiGetDay}
+
+\maketitle
+
+\nocite{*} % includes all entries from my personal bibliography
+
+% Print segmented bibliographies
+%\printbibliography[keyword=provisional,title={Provisional}] % Section to test provisional entries
+%\printbibliography[filter=papers,notkeyword=five,notkeyword=peerreview,notkeyword=inpreparation,notkeyword=miszelle,notkeyword=notaccepted,title={Aufs\"atze}] % Filter for all papers (not in use)
+\printbibliography[filter=vorbereitung,notkeyword=vip,title={Beitr\"age im Erscheinen und in Vorbereitung}] 
+\printbibliography[type=book,notkeyword=vip,notkeyword=submitted,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=miszelle,keyword=monography,title={Monographien}]
+\printbibliography[type=book,notkeyword=vip,notkeyword=miszelle,notkeyword=notaccepted,notkeyword=inpreparation,keyword=editedvolume,title={Herausgeberschaften}]
+\printbibliography[keyword=specialissue,notkeyword=vip,notkeyword=inpreparation,title={Sondernummern von Zeitschriften}]
+\printbibliography[nottype=periodical,notkeyword=vip,notkeyword=notaccepted,notkeyword=inpreparation,keyword=peerreview,title={Peer Reviewed Papers}]
+\printbibliography[type=article,nottype=periodical,notkeyword=vip,notkeyword=notaccepted,notkeyword=peerreview,title={Zeitschriftenaufsätze}]
+\printbibliography[type=incollection,notkeyword=vip,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=miszelle,title={Aufs\"atze in Sammelb\"anden}]
+\printbibliography[keyword=miszelle,notkeyword=vip,notkeyword=inpreparation,title={Miszellen und graue Literatur}]
+\printbibliography[type=review,notkeyword=vip,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=miszelle,title={Rezensionen}]
+
+%--------------------
+\input{cv/presentations}
+%--------------------
+
+\end{document}
