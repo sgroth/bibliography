@@ -2,11 +2,11 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2019-4-5
+Version: 2019-4-9
 
 ## Beiträge im Erscheinen und in Vorbereitung
 * Groth, Stefan. 2019. „Work-Life Balance, Entgrenzung und Orientierungen an der Mitte“. In Vernetzt, entgrenzt, prekär? Kulturwissenschaftliche Perspektiven auf Arbeit im Wandel, herausgegeben von Stefan Groth, Sarah May, und Johannes Müske. Bd. 16. Arbeit und Alltag: Beiträge zur ethnografischen Arbeitskulturenforschung. Campus. Zur Publikation angenommen. Erscheint 11/2019.   
-* Groth, Stefan. 2019. „Vergleiche als antizipierende und relationale Praxis“. Zeitschrift für Volkskunde. Peer Reviewed. Zur Publikation angenommen. Erscheint 2019.   
+* Groth, Stefan. 2019. „Vergleiche als antizipierende und relationale Praxis“. Zeitschrift für Volkskunde 2019 (2). Peer Reviewed. Im Druck.   
 * Groth, Stefan, Sarah May, und Johannes Müske, Hrsg. 2019. Vernetzt, entgrenzt, prekär? Kulturwissenschaftliche Perspektiven auf Arbeit im Wandel. Bd. 16. Arbeit und Alltag: Beiträge zur ethnografischen Arbeitskulturenforschung. Campus. In Vorbereitung. Erscheint 11/2019.   
 * Groth, Stefan. o. J. Normative Dimensionen kulturellen Eigentums. Bd. 15. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press. In Vorbereitung. Erscheint 10/2019.   
 * Groth, Stefan, und Christian Ritter, Hrsg. 2019. Zusammen arbeiten. Praktiken der Koordination und Kooperation in kollaborativen Prozessen. Kultur und soziale Praxis. Bielefeld: Transcript. Im Druck (erscheint 8/2019).   
