@@ -1,4 +1,6 @@
 #!/bin/bash
+# delete pre-generated pdf if exists
+rm publications.de.pdf
 # add and commit to git (bib files)
 git add *
 git commit -m "updated bib data"
@@ -9,7 +11,6 @@ pythonw gfi-run.py
 # delete contents of pdf and markdown
 rm -rf markdown
 rm -rf pdf
-rm publications.de.pdf
 
 # mkdir
 mkdir pdf
