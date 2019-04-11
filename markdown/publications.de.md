@@ -2,7 +2,7 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2019-4-10
+Version: 2019-4-11
 
 ## Beiträge im Erscheinen und in Vorbereitung
 * Groth, Stefan. 2019. „Work-Life Balance, Entgrenzung und Orientierungen an der Mitte“. In Vernetzt, entgrenzt, prekär? Kulturwissenschaftliche Perspektiven auf Arbeit im Wandel, herausgegeben von Stefan Groth, Sarah May, und Johannes Müske. Bd. 16. Arbeit und Alltag: Beiträge zur ethnografischen Arbeitskulturenforschung. Campus. Zur Publikation angenommen. Erscheint 11/2019.   
@@ -44,7 +44,7 @@ Version: 2019-4-10
 * Groth, Stefan. 2019. „Ordnung als Methode und Praxis: Zur Kommunikationsethnografie internationaler Verhandlungen“. In Ordnungen in Alltag und Gesellschaft: Empirisch-kulturwissenschaftliche Perspektiven, herausgegeben von Stefan Groth und Linda Mülli, 297–315. Würzburg: Königshausen und Neumann.   
 * Groth, Stefan. 2019. „Ordnungen in Alltag und Gesellschaft: Konzepte, Methoden und Theorien“. In Ordnungen in Alltag und Gesellschaft: Empirisch-kulturwissenschaftliche Perspektiven, herausgegeben von Stefan Groth und Linda Mülli, 12–36. Würzburg: Königshausen und Neumann.   
 * Groth, Stefan. 2019. „Konkurrenz um die Mitte? Kompetitive Orientierungen im breitensportlichen Rennradfahren“. In Auf den Spuren der Konkurrenz. Kultur‐ und sozialwissenschaftliche Perspektiven, herausgegeben von Karin Bürkert, Alexander Engel, Timo Heimerdinger, Markus Tauschek, und Tobias Werron, 2:199–219. Freiburger Studien zur Kulturanthropologie. Münster: Waxmann.   
-* Groth, Stefan. 2019. „Zwischen Ermöglichung und Begrenzung: Zur subjektiven Plausibilisierung des Mittelmaßes als normative Orientierung“. In Wirtschaften. Kulturwissenschaftliche Perspektiven, herausgegeben von Karl Braun, Johannes Moser, und Christian Schönholz, 479–87. Marburg: MakuFEE. doi:10.17192/es2019.0032.   
+* Groth, Stefan. 2019. „Zwischen Ermöglichung und Begrenzung: Zur subjektiven Plausibilisierung des Mittelmaßes als normative Orientierung“. In Wirtschaften. Kulturwissenschaftliche Perspektiven, herausgegeben von Karl Braun, Johannes Moser, und Christian Schönholz, 479–87. Marburg: MakuFEE. 10.17192/es2019.0032.   
 * Groth, Stefan. 2019. „Of Good Averages and Happy Mediums: Orientations towards an Average in Urban Housing“. In The Vulnerable Middle Class? Strategies of Housing in Prospering Cities, herausgegeben von Johannes Moser und Simone Egger, 29:29–48. Münchner ethnographische Schriften. München: utzverlag. https://doi.org/10.5282/ubm/epub.61625.   
 * Groth, Stefan. 2019. „Trends als Forschungsthema? Einordnung, Relevanz und Repräsentativität in der europäisch-ethnologischen Themenbegrenzung“. In Wie kann man nur dazu forschen? – Themenpolitik in der Europäischen Ethnologie, herausgegeben von Timo Heimerdinger und Marion Näser-Lather, 149–70. Buchreihe der Österreichischen Zeitschrift für Volkskunde. Wien: Verein für Volkskunde.   
 * Groth, Stefan. 2018. „Kein sichereres Mittel existirt zur Abwehr von allem Lumpengesindel: Zur Entwicklung von Sicherheits- und Kontrollkonstellationen um 1900“. In Der Alltag der (Un)Sicherheit. Kulturwissenschaftlich-ethnographische Perspektiven auf die Sicherheitsgesellschaft, herausgegeben von Alexandra Schwell und Katharina Eisch-Angus, 36–63. Berlin: Panama Verlag.   
