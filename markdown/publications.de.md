@@ -2,7 +2,7 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2019-4-11
+Version: 2019-4-12
 
 ## Beiträge im Erscheinen und in Vorbereitung
 * Groth, Stefan. 2019. „Work-Life Balance, Entgrenzung und Orientierungen an der Mitte“. In Vernetzt, entgrenzt, prekär? Kulturwissenschaftliche Perspektiven auf Arbeit im Wandel, herausgegeben von Stefan Groth, Sarah May, und Johannes Müske. Bd. 16. Arbeit und Alltag: Beiträge zur ethnografischen Arbeitskulturenforschung. Campus. Zur Publikation angenommen. Erscheint 11/2019.   
