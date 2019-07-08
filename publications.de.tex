@@ -57,7 +57,8 @@
 % Filter for entries either inpreparation OR notaccepted
 \defbibfilter{vorbereitung}{
   keyword=inpreparation or
-  keyword=notaccepted 
+  keyword=notaccepted or
+  keyword=submitted
 }
 
 \addbibresource{sgroth-bibliography.bib}
@@ -80,15 +81,15 @@
 % Print segmented bibliographies
 %\printbibliography[keyword=provisional,title={Provisional}] % Section to test provisional entries
 %\printbibliography[filter=papers,notkeyword=five,notkeyword=peerreview,notkeyword=inpreparation,notkeyword=miszelle,notkeyword=notaccepted,title={Aufs\"atze}] % Filter for all papers (not in use)
-\printbibliography[filter=vorbereitung,notkeyword=vip,title={Beitr\"age im Erscheinen und in Vorbereitung}] 
-\printbibliography[type=book,notkeyword=vip,notkeyword=submitted,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=miszelle,keyword=monography,title={Monographien}]
-\printbibliography[type=book,notkeyword=vip,notkeyword=miszelle,notkeyword=notaccepted,notkeyword=inpreparation,keyword=editedvolume,title={Herausgeberschaften}]
+\printbibliography[filter=vorbereitung,notkeyword=vip,title={Beitr\"age in Arbeit}] 
+\printbibliography[type=book,notkeyword=vip,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,notkeyword=miszelle,keyword=monography,title={Monographien}]
+\printbibliography[type=book,notkeyword=vip,notkeyword=miszelle,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,keyword=editedvolume,title={Herausgeberschaften}]
 \printbibliography[keyword=specialissue,notkeyword=vip,notkeyword=inpreparation,title={Sondernummern von Zeitschriften}]
-\printbibliography[nottype=periodical,notkeyword=vip,notkeyword=notaccepted,notkeyword=inpreparation,keyword=peerreview,title={Peer Reviewed Papers}]
-\printbibliography[type=article,nottype=periodical,notkeyword=vip,notkeyword=notaccepted,notkeyword=peerreview,title={Zeitschriftenaufsätze}]
-\printbibliography[type=incollection,notkeyword=vip,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=miszelle,title={Aufs\"atze in Sammelb\"anden}]
+\printbibliography[nottype=periodical,notkeyword=vip,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,keyword=peerreview,title={Peer Reviewed Papers}]
+\printbibliography[type=article,nottype=periodical,notkeyword=vip,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,notkeyword=peerreview,title={Zeitschriftenaufsätze}]
+\printbibliography[type=incollection,notkeyword=vip,notkeyword=notaccepted,notkeyword=submitted,notkeyword=inpreparation,notkeyword=miszelle,title={Aufs\"atze in Sammelb\"anden}]
 \printbibliography[keyword=miszelle,notkeyword=vip,notkeyword=inpreparation,title={Miszellen und graue Literatur}]
-\printbibliography[type=review,notkeyword=vip,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=miszelle,title={Rezensionen}]
+\printbibliography[type=review,notkeyword=vip,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,notkeyword=miszelle,title={Rezensionen}]
 
 %--------------------
 \input{cv/presentations}
