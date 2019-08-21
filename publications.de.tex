@@ -29,6 +29,9 @@
 \displaywidowpenalty = 20000
 %--------------------
 
+\usepackage{hyphenat}
+\hyphenation{hous-ing em-pi-risch-kul-tur-wis-sen-schaft-lich-en }
+
 % Version Control
 \usepackage{gitfile-info}
 
@@ -42,7 +45,7 @@
 \lfoot{\textcolor{gray}{{\footnotesize\texttt{Version \gfiGetCommitAbr, \gfiGetYear--\gfiGetMonth--\gfiGetDay, \href{https://github.com/sgroth/bibliography}{https://github.com/sgroth/bibliography}}}}} % adds version control information
 
 % Bibliography
-\usepackage[authordate,notes,backend=biber,isbn=false,annotation,firstinits=false,defernumbers=true,sorting=ydnt]{biblatex-chicago}
+\usepackage[authordate,notes,backend=biber,isbn=false,annotation,giveninits=false,defernumbers=true,sorting=ydnt]{biblatex-chicago}
 \makeatletter
 \AtEveryBibitem{
   \global\undef\bbx@lasthash}
@@ -81,15 +84,15 @@
 % Print segmented bibliographies
 %\printbibliography[keyword=provisional,title={Provisional}] % Section to test provisional entries
 %\printbibliography[filter=papers,notkeyword=five,notkeyword=peerreview,notkeyword=inpreparation,notkeyword=miszelle,notkeyword=notaccepted,title={Aufs\"atze}] % Filter for all papers (not in use)
-\printbibliography[filter=vorbereitung,notkeyword=vip,title={Beitr\"age in Arbeit}] 
-\printbibliography[type=book,notkeyword=vip,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,notkeyword=miszelle,keyword=monography,title={Monographien}]
-\printbibliography[type=book,notkeyword=vip,notkeyword=miszelle,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,keyword=editedvolume,title={Herausgeberschaften}]
-\printbibliography[keyword=specialissue,notkeyword=vip,notkeyword=inpreparation,title={Sondernummern von Zeitschriften}]
-\printbibliography[nottype=periodical,notkeyword=vip,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,keyword=peerreview,title={Peer Reviewed Papers}]
-\printbibliography[type=article,nottype=periodical,notkeyword=vip,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,notkeyword=peerreview,title={Zeitschriftenaufsätze}]
-\printbibliography[type=incollection,notkeyword=vip,notkeyword=notaccepted,notkeyword=submitted,notkeyword=inpreparation,notkeyword=miszelle,title={Aufs\"atze in Sammelb\"anden}]
-\printbibliography[keyword=miszelle,notkeyword=vip,notkeyword=inpreparation,title={Miszellen und graue Literatur}]
-\printbibliography[type=review,notkeyword=vip,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,notkeyword=miszelle,title={Rezensionen}]
+\printbibliography[filter=vorbereitung,notkeyword=mitte,title={Eingereichte Beitr\"age und Beitr\"age in Arbeit}] 
+\printbibliography[type=book,notkeyword=mitte,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,notkeyword=miszelle,keyword=monography,title={Monographien}]
+\printbibliography[type=book,notkeyword=mitte,notkeyword=miszelle,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,keyword=editedvolume,title={Herausgeberschaften}]
+\printbibliography[keyword=specialissue,notkeyword=mitte,notkeyword=inpreparation,title={Sondernummern von Zeitschriften}]
+\printbibliography[nottype=periodical,notkeyword=mitte,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,keyword=peerreview,title={Peer Reviewed Papers}]
+\printbibliography[type=article,nottype=periodical,notkeyword=mitte,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,notkeyword=peerreview,title={Zeitschriftenaufsätze}]
+\printbibliography[type=incollection,notkeyword=mitte,notkeyword=notaccepted,notkeyword=submitted,notkeyword=inpreparation,notkeyword=miszelle,title={Aufs\"atze in Sammelb\"anden}]
+\printbibliography[keyword=miszelle,notkeyword=mitte,notkeyword=inpreparation,title={Miszellen und graue Literatur}]
+\printbibliography[type=review,notkeyword=mitte,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,notkeyword=miszelle,title={Rezensionen}]
 
 %--------------------
 \input{cv/presentations}
