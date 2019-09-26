@@ -2,32 +2,36 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2019-8-21
+Version: 2019-9-26
 
 ## Beiträge im Erscheinen und in Vorbereitung
-* Groth, Stefan. 2019. „Rezension von Andere Urbanitäten: Zur Pluralität des Städtischen, herausgegeben von Brigitta Schmidt-Lauber“. Schweizerisches Archiv für Volkskunde. Zur Publikation eingereicht.   
-* Groth, Stefan. 2020. „Kontingente Praxen, Antizipation als Kompetenz“. In Planen, Hoffen, Fürchten: Die Gegenwart der Zukunft im Alltag, herausgegeben von Ruth Eggel, Fabio Freiberg, Andrea Graf, Dagmar Hänel, Victoria Huszka, Ove Sutter, und Kerstin Wolff. Bonner Beiträge zur Alltagskulturforschung. Münster: Waxmann. Zur Publikation eingereicht.   
-* Groth, Stefan. o. J. „Comparisons as Anticipatory and Relational Practice“. Journal for European Ethnology and Cultural Analysis (JEECA). Peer Reviewed. Englische Version von Vergleiche als antizipierende und relationale Praxis (2019). In Vorbereitung.   
-* Groth, Stefan, Sarah May, und Johannes Müske. 2019. „Einleitung: Vernetzt, entgrenzt, prekär?“ In Vernetzt, entgrenzt, prekär? Kulturwissenschaftliche Perspektiven auf Arbeit im Wandel, herausgegeben von Stefan Groth, Sarah May, und Johannes Müske. Bd. 16. Arbeit und Alltag: Beiträge zur ethnografischen Arbeitskulturenforschung. Campus. In Vorbereitung.   
-* Groth, Stefan, Sarah May, und Johannes Müske, Hrsg. 2019. Vernetzt, entgrenzt, prekär? Kulturwissenschaftliche Perspektiven auf Arbeit im Wandel. Bd. 16. Arbeit und Alltag: Beiträge zur ethnografischen Arbeitskulturenforschung. Campus. In Vorbereitung.   
+* Groth, Stefan, und Markus Tauschek. 2020. „Comparison as Social and Cultural Practice: An Introduction“. Herausgegeben von Stefan Groth und Markus Tauschek. Cultural Analysis. Special Issue: Comparison as Social and Cultural Practice. Peer Reviewed. In Vorbereitung.   
+* Esguerra, Alejandro, Katja Freistein, und Stefan Groth. o. J. „International Organizations and Communicative Practices: Micro Approaches to Multilateral Institutions“. International Political Sociology. In Vorbereitung (Journal Article).   
+* Groth, Stefan. o. J. „Minimalismus als Kompetenz: Die Siedlung Neubühl in Zürich-Wollishofen“. Zeitschriftenbeitrag. In Vorbereitung.   
+* Groth, Stefan. 2020. „Atmosphäre als Konzept der kulturwissenschaftlichen Stadtforschung“. In Kulturtheoretisch argumentieren. Ein Arbeitsbuch, herausgegeben von Timo Heimerdinger und Markus Tauschek. Konstanz: Konstanz University Press. In Arbeit.   
+* Groth, Stefan, und Markus Tauschek, Hrsg. 2020. „Cultural Analysis“. Special Issue: Comparison as Social and Cultural Practice. Peer Reviewed. In Vorbereitung. Erscheint 2020.   
+* Groth, Stefan. 2020. „Comparison as Reflective and Affective Practice: Orientations Towards the Middle and Everyday Comparisons“. Herausgegeben von Stefan Groth und Markus Tauschek. Cultural Analysis. Special Issue: Comparison as Social and Cultural Practice. In Vorbereitung.   
 * Groth, Stefan. o. J. Normative Dimensionen kulturellen Eigentums. Bd. 15. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press. In Vorbereitung (erscheint 12/2019).   
-* Groth, Stefan. 2019. „Work-Life-Balance, Entgrenzung und Orientierungen an der Mitte“. In Vernetzt, entgrenzt, prekär? Kulturwissenschaftliche Perspektiven auf Arbeit im Wandel, herausgegeben von Stefan Groth, Sarah May, und Johannes Müske. Bd. 16. Arbeit und Alltag: Beiträge zur ethnografischen Arbeitskulturenforschung. Campus. Zur Publikation angenommen. 
+* Groth, Stefan. o. J. „Implicit Ethics: Normative Claims to Culture in Multilateral Negotiations“. Zur Publikation eingereicht (Journal Article). 
 
 ## Monographien
 * Groth, Stefan. 2012. Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property. Bd. 4. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press. doi:10.4000/books.gup.608. 
 
 ## Herausgeberschaften
+* Groth, Stefan, Sarah May, und Johannes Müske, Hrsg. o. J. Vernetzt, entgrenzt, prekär? Kulturwissenschaftliche Perspektiven auf Arbeit im Wandel. Bd. 16. Arbeit und Alltag: Beiträge zur ethnografischen Arbeitskulturenforschung. Campus. Im Druck.   
 * Groth, Stefan, und Christian Ritter, Hrsg. 2019. Zusammen arbeiten. Praktiken der Koordination und Kooperation in kollaborativen Prozessen. Kultur und soziale Praxis. Bielefeld: Transcript.   
 * Groth, Stefan, und Linda Mülli, Hrsg. 2019. Ordnungen in Alltag und Gesellschaft: Empirisch-kulturwissenschaftliche Perspektiven. Würzburg: Königshausen und Neumann.   
 * Groth, Stefan, Regina F. Bendix, und Achim Spiller, Hrsg. 2015. Kultur als Eigentum: Instrumente, Querschnitte und Fallstudien. Bd. 9. Göttinger Studien zu Cultural Property. Göttingen: Göttingen University Press. doi:10.4000/books.gup.528.   
 * Bendix, Regina F., Kilian Bizer, und Stefan Groth, Hrsg. 2010. Die Konstituierung von Cultural Property: Forschungsperspektiven. Bd. 1. Göttingen Studies in Cultural Property. Göttingen: Universitätsverlag Göttingen. doi:10.4000/books.gup.488. Peer reviewed. 
 
 ## Sondernummern von Zeitschriften
+* Groth, Stefan, und Markus Tauschek, Hrsg. 2020. „Cultural Analysis“. Special Issue: Comparison as Social and Cultural Practice. Peer Reviewed. In Vorbereitung. Erscheint 2020.   
 * Groth, Stefan, Hrsg. 2019. „Narrative Culture“. Special Issue: Political Narratives / Narrations of the Political. Peer Reviewed. 
 
 ## Peer Reviewed Papers
-* Groth, Stefan. 2019. „Optimierung bis zur Mitte. Selbstoptimierung als Konstellation und relationale Subjektivierung“. Österreichische Zeitschrift für Volkskunde 122 (1). Peer Reviewed. Im Druck.   
-* Groth, Stefan. 2019. „Vergleiche als antizipierende und relationale Praxis“. Zeitschrift für Volkskunde 2019 (2). Peer Reviewed. Im Druck.   
+* Groth, Stefan. o. J. „Comparisons as Anticipatory and Relational Practice“. Journal for European Ethnology and Cultural Analysis (JEECA). Peer Reviewed. Englische Version von Vergleiche als antizipierende und relationale Praxis (2019). Im Druck.   
+* Groth, Stefan. 2019. „Optimierung bis zur Mitte. Selbstoptimierung als Konstellation und relationale Subjektivierung“. Österreichische Zeitschrift für Volkskunde 122 (1): 27–54. Peer Reviewed.   
+* Groth, Stefan. 2019. „Vergleiche als antizipierende und relationale Praxis“. Zeitschrift für Volkskunde 115 (2). Peer Reviewed. Im Druck.   
 * Groth, Stefan. 2019. „Political Narratives / Narrations of the Political. An Introduction“. Herausgegeben von Stefan Groth. Narrative Culture 6 (1). Special Issue: Political Narratives / Narrations of the Political: 1–18. doi:10.13110/narrcult.6.1.0001. Peer Reviewed.   
 * Groth, Stefan. 2018. „Entstehungskontext, Materialität und Sprachspezifik. Elemente einer empirisch\hypkulturwissenschaftlichen Quellenkritik von Dokumenten in politischen Prozessen“. Schweizerisches Archiv für Volkskunde 114 (1): 57–75. https://www.e-periodica.ch/digbib/view?pid=sav-001:2018:114#62. Peer reviewed.   
 * Groth, Stefan. 2018. „Einfache Formen, komplexe Prozesse. Sprichwörter und Redewendungen in multilateralen Verhandlungen“. Herausgegeben von Silke Meyer. Fabula: Zeitschrift für Erzählforschung 59 (1-2). Special Issue: Narrationsanalyse: 27–49. doi:10.1515/fabula-2018-0003. Peer reviewed.   
@@ -44,7 +48,10 @@ Version: 2019-8-21
 * Groth, Stefan. 2009. „Kulturen im Gespräch: Interview mit Valdimar Hafstein“. Kulturen 2/2009: 40–47. 
 
 ## Aufsätze in Sammelbänden
-* Groth, Stefan. 2019. „Prinzipielle Verfügbarkeit und strategische Transparenz: Zur Rolle von Dokumenten aus politischen Prozessen in Forschungsdesigns“. In Forschungsdesign 4.0. Datengenerierung und Wissenstransfer in interdisziplinärer Perspektive, herausgegeben von Martina Schattkowsky und Ira Spieker. Dresden. Im Druck.   
+* Groth, Stefan. 2020. „Kontingente Praxen, Antizipation als Kompetenz“. In Planen, Hoffen, Fürchten: Die Gegenwart der Zukunft im Alltag, herausgegeben von Ruth Eggel, Fabio Freiberg, Andrea Graf, Dagmar Hänel, Victoria Huszka, Ove Sutter, und Kerstin Wolff. Bonner Beiträge zur Alltagskulturforschung. Münster: Waxmann. Zur Publikation angenommen.   
+* Groth, Stefan, Sarah May, und Johannes Müske. o. J. „Einleitung: Vernetzt, entgrenzt, prekär?“ In Vernetzt, entgrenzt, prekär? Kulturwissenschaftliche Perspektiven auf Arbeit im Wandel, herausgegeben von Stefan Groth, Sarah May, und Johannes Müske. Bd. 16. Arbeit und Alltag: Beiträge zur ethnografischen Arbeitskulturenforschung. Campus. Im Druck.   
+* Groth, Stefan. o. J. „Work-Life-Balance, Entgrenzung und Orientierungen an der Mitte“. In Vernetzt, entgrenzt, prekär? Kulturwissenschaftliche Perspektiven auf Arbeit im Wandel, herausgegeben von Stefan Groth, Sarah May, und Johannes Müske. Bd. 16. Arbeit und Alltag: Beiträge zur ethnografischen Arbeitskulturenforschung. Campus. Im Druck.   
+* Groth, Stefan. o. J. „Prinzipielle Verfügbarkeit und strategische Transparenz: Zur Rolle von Dokumenten aus politischen Prozessen in Forschungsdesigns“. In Forschungsdesign 4.0. Datengenerierung und Wissenstransfer in interdisziplinärer Perspektive, herausgegeben von Martina Schattkowsky und Ira Spieker. Dresden. Im Druck.   
 * Groth, Stefan, und Christian Ritter. 2019. „Zusammen arbeiten: Modalitäten – Settings – Perspektiven“. In Zusammen arbeiten. Praktiken der Koordination und Kooperation in kollaborativen Prozessen, herausgegeben von Stefan Groth und Christian Ritter, 7–22. Kultur und soziale Praxis. Bielefeld: Transcript.   
 * Groth, Stefan. 2019. „Ordnung als Methode und Praxis: Zur Kommunikationsethnografie internationaler Verhandlungen“. In Ordnungen in Alltag und Gesellschaft: Empirisch-kulturwissenschaftliche Perspektiven, herausgegeben von Stefan Groth und Linda Mülli, 297–315. Würzburg: Königshausen und Neumann.   
 * Groth, Stefan. 2019. „Ordnungen in Alltag und Gesellschaft: Konzepte, Methoden und Theorien“. In Ordnungen in Alltag und Gesellschaft: Empirisch-kulturwissenschaftliche Perspektiven, herausgegeben von Stefan Groth und Linda Mülli, 12–36. Würzburg: Königshausen und Neumann.   
