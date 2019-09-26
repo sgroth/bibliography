@@ -5,12 +5,6 @@ Dr. Stefan Groth
 Version: 2019-9-26
 
 ## Beiträge im Erscheinen und in Vorbereitung
-* Groth, Stefan, und Markus Tauschek. 2020. „Comparison as Social and Cultural Practice: An Introduction“. Herausgegeben von Stefan Groth und Markus Tauschek. Cultural Analysis. Special Issue: Comparison as Social and Cultural Practice. Peer Reviewed. In Vorbereitung.   
-* Esguerra, Alejandro, Katja Freistein, und Stefan Groth. o. J. „International Organizations and Communicative Practices: Micro Approaches to Multilateral Institutions“. International Political Sociology. In Vorbereitung (Journal Article).   
-* Groth, Stefan. o. J. „Minimalismus als Kompetenz: Die Siedlung Neubühl in Zürich-Wollishofen“. Zeitschriftenbeitrag. In Vorbereitung.   
-* Groth, Stefan. 2020. „Atmosphäre als Konzept der kulturwissenschaftlichen Stadtforschung“. In Kulturtheoretisch argumentieren. Ein Arbeitsbuch, herausgegeben von Timo Heimerdinger und Markus Tauschek. Konstanz: Konstanz University Press. In Arbeit.   
-* Groth, Stefan, und Markus Tauschek, Hrsg. 2020. „Cultural Analysis“. Special Issue: Comparison as Social and Cultural Practice. Peer Reviewed. In Vorbereitung. Erscheint 2020.   
-* Groth, Stefan. 2020. „Comparison as Reflective and Affective Practice: Orientations Towards the Middle and Everyday Comparisons“. Herausgegeben von Stefan Groth und Markus Tauschek. Cultural Analysis. Special Issue: Comparison as Social and Cultural Practice. In Vorbereitung.   
 * Groth, Stefan. o. J. Normative Dimensionen kulturellen Eigentums. Bd. 15. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press. In Vorbereitung (erscheint 12/2019).   
 * Groth, Stefan. o. J. „Implicit Ethics: Normative Claims to Culture in Multilateral Negotiations“. Zur Publikation eingereicht (Journal Article). 
 
@@ -25,7 +19,6 @@ Version: 2019-9-26
 * Bendix, Regina F., Kilian Bizer, und Stefan Groth, Hrsg. 2010. Die Konstituierung von Cultural Property: Forschungsperspektiven. Bd. 1. Göttingen Studies in Cultural Property. Göttingen: Universitätsverlag Göttingen. doi:10.4000/books.gup.488. Peer reviewed. 
 
 ## Sondernummern von Zeitschriften
-* Groth, Stefan, und Markus Tauschek, Hrsg. 2020. „Cultural Analysis“. Special Issue: Comparison as Social and Cultural Practice. Peer Reviewed. In Vorbereitung. Erscheint 2020.   
 * Groth, Stefan, Hrsg. 2019. „Narrative Culture“. Special Issue: Political Narratives / Narrations of the Political. Peer Reviewed. 
 
 ## Peer Reviewed Papers
