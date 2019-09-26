@@ -7,9 +7,13 @@
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 
+
+
 % Fonts and Typography
 \usepackage[osf]{ebgaramond} % Garamond for rm
-\usepackage[osf]{roboto} % SourceSansPro for ss
+%\usepackage[osf]{roboto} % SourceSansPro for ss
+\usepackage[black]{AlegreyaSans}
+%\usepackage{cochineal}
 \usepackage[scaled=0.9]{beramono} % SourceCodePro for tt
 \usepackage{microtype}
 \usepackage[autostyle=true,german=quotes]{csquotes}
@@ -22,7 +26,8 @@
   urlcolor=MediumBlue
 }
 \usepackage{sectsty} % Allows changing the font options for sections in a document
-\allsectionsfont{\color{MediumBlue}\normalfont\small\sffamily} 
+\allsectionsfont{\color{MediumBlue}\small\sffamily} 
+
 %--------------------
 \clubpenalty = 20000 
 \widowpenalty = 20000 
@@ -82,9 +87,8 @@
 \nocite{*} % includes all entries from my personal bibliography
 
 % Print segmented bibliographies
-%\printbibliography[keyword=provisional,title={Provisional}] % Section to test provisional entries
 %\printbibliography[filter=papers,notkeyword=five,notkeyword=peerreview,notkeyword=inpreparation,notkeyword=miszelle,notkeyword=notaccepted,title={Aufs\"atze}] % Filter for all papers (not in use)
-\printbibliography[filter=vorbereitung,notkeyword=mitte,title={Eingereichte Beitr\"age und Beitr\"age in Arbeit}] 
+\printbibliography[filter=vorbereitung,notkeyword=mitte,notkeyword=pre,title={Eingereichte Beitr\"age und Beitr\"age in Arbeit}] 
 \printbibliography[type=book,notkeyword=mitte,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,notkeyword=miszelle,keyword=monography,title={Monographien}]
 \printbibliography[type=book,notkeyword=mitte,notkeyword=miszelle,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,keyword=editedvolume,title={Herausgeberschaften}]
 \printbibliography[keyword=specialissue,notkeyword=mitte,notkeyword=inpreparation,title={Sondernummern von Zeitschriften}]
