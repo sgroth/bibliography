@@ -2,7 +2,7 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2019-9-26
+Version: 2019-10-4
 
 ## Beiträge im Erscheinen und in Vorbereitung
 * Groth, Stefan. o. J. Normative Dimensionen kulturellen Eigentums. Bd. 15. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press. In Vorbereitung (erscheint 12/2019).   
@@ -23,8 +23,8 @@ Version: 2019-9-26
 
 ## Peer Reviewed Papers
 * Groth, Stefan. o. J. „Comparisons as Anticipatory and Relational Practice“. Journal for European Ethnology and Cultural Analysis (JEECA). Peer Reviewed. Englische Version von Vergleiche als antizipierende und relationale Praxis (2019). Im Druck.   
+* Groth, Stefan. 2019. „Vergleiche als antizipierende und relationale Praxis“. Zeitschrift für Volkskunde 115 (2): 238–59. Peer Reviewed.   
 * Groth, Stefan. 2019. „Optimierung bis zur Mitte. Selbstoptimierung als Konstellation und relationale Subjektivierung“. Österreichische Zeitschrift für Volkskunde 122 (1): 27–54. Peer Reviewed.   
-* Groth, Stefan. 2019. „Vergleiche als antizipierende und relationale Praxis“. Zeitschrift für Volkskunde 115 (2). Peer Reviewed. Im Druck.   
 * Groth, Stefan. 2019. „Political Narratives / Narrations of the Political. An Introduction“. Herausgegeben von Stefan Groth. Narrative Culture 6 (1). Special Issue: Political Narratives / Narrations of the Political: 1–18. doi:10.13110/narrcult.6.1.0001. Peer Reviewed.   
 * Groth, Stefan. 2018. „Entstehungskontext, Materialität und Sprachspezifik. Elemente einer empirisch\hypkulturwissenschaftlichen Quellenkritik von Dokumenten in politischen Prozessen“. Schweizerisches Archiv für Volkskunde 114 (1): 57–75. https://www.e-periodica.ch/digbib/view?pid=sav-001:2018:114#62. Peer reviewed.   
 * Groth, Stefan. 2018. „Einfache Formen, komplexe Prozesse. Sprichwörter und Redewendungen in multilateralen Verhandlungen“. Herausgegeben von Silke Meyer. Fabula: Zeitschrift für Erzählforschung 59 (1-2). Special Issue: Narrationsanalyse: 27–49. doi:10.1515/fabula-2018-0003. Peer reviewed.   
