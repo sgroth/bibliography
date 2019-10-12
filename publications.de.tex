@@ -7,12 +7,10 @@
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 
-
-
 % Fonts and Typography
 \usepackage[osf]{ebgaramond} % Garamond for rm
 %\usepackage[osf]{roboto} % SourceSansPro for ss
-\usepackage[black]{AlegreyaSans}
+\usepackage[]{AlegreyaSans}
 %\usepackage{cochineal}
 \usepackage[scaled=0.9]{beramono} % SourceCodePro for tt
 \usepackage{microtype}
@@ -66,7 +64,8 @@
 \defbibfilter{vorbereitung}{
   keyword=inpreparation or
   keyword=notaccepted or
-  keyword=submitted
+  keyword=submitted or
+  keyword=inprint
 }
 
 \addbibresource{sgroth-bibliography.bib}
@@ -88,15 +87,16 @@
 
 % Print segmented bibliographies
 %\printbibliography[filter=papers,notkeyword=five,notkeyword=peerreview,notkeyword=inpreparation,notkeyword=miszelle,notkeyword=notaccepted,title={Aufs\"atze}] % Filter for all papers (not in use)
-\printbibliography[filter=vorbereitung,notkeyword=mitte,notkeyword=pre,title={Eingereichte Beitr\"age und Beitr\"age in Arbeit}] 
-\printbibliography[type=book,notkeyword=mitte,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,notkeyword=miszelle,keyword=monography,title={Monographien}]
-\printbibliography[type=book,notkeyword=mitte,notkeyword=miszelle,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,keyword=editedvolume,title={Herausgeberschaften}]
-\printbibliography[keyword=specialissue,notkeyword=mitte,notkeyword=inpreparation,title={Sondernummern von Zeitschriften}]
-\printbibliography[nottype=periodical,notkeyword=mitte,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,keyword=peerreview,title={Peer Reviewed Papers}]
-\printbibliography[type=article,nottype=periodical,notkeyword=mitte,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,notkeyword=peerreview,title={Zeitschriftenaufsätze}]
-\printbibliography[type=incollection,notkeyword=mitte,notkeyword=notaccepted,notkeyword=submitted,notkeyword=inpreparation,notkeyword=miszelle,title={Aufs\"atze in Sammelb\"anden}]
-\printbibliography[keyword=miszelle,notkeyword=mitte,notkeyword=inpreparation,title={Miszellen und graue Literatur}]
-\printbibliography[type=review,notkeyword=mitte,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,notkeyword=miszelle,title={Rezensionen}]
+\printbibliography[keyword=pre,title={Eingereichte Beitr\"age und Beitr\"age in Arbeit}]
+\printbibliography[filter=vorbereitung,notkeyword=mitte,notkeyword=pre,title={Zur Publikation angenommene Beitr\"age und Beitr\"age im Druck}] 
+\printbibliography[type=book,notkeyword=mitte,notkeyword=inprint,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,notkeyword=miszelle,keyword=monography,title={Monographien}]
+\printbibliography[type=book,notkeyword=mitte,notkeyword=inprint,notkeyword=miszelle,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,keyword=editedvolume,title={Herausgeberschaften}]
+\printbibliography[keyword=specialissue,notkeyword=mitte,notkeyword=inprint,notkeyword=inpreparation,title={Sondernummern von Zeitschriften}]
+\printbibliography[nottype=periodical,notkeyword=mitte,notkeyword=inprint,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,keyword=peerreview,title={Peer Reviewed Papers}]
+\printbibliography[type=article,nottype=periodical,notkeyword=inprint,notkeyword=mitte,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,notkeyword=peerreview,title={Zeitschriftenaufsätze}]
+\printbibliography[type=incollection,notkeyword=mitte,notkeyword=inprint,notkeyword=notaccepted,notkeyword=submitted,notkeyword=inpreparation,notkeyword=miszelle,title={Aufs\"atze in Sammelb\"anden}]
+\printbibliography[keyword=miszelle,notkeyword=mitte,notkeyword=inprint,notkeyword=inpreparation,title={Miszellen und graue Literatur}]
+\printbibliography[type=review,notkeyword=mitte,notkeyword=inprint,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,notkeyword=miszelle,title={Rezensionen}]
 
 %--------------------
 \input{cv/presentations}
