@@ -2,9 +2,10 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2019-10-12
+Version: 2019-10-13
 
 ## Beiträge im Erscheinen und in Vorbereitung
+* Groth, Stefan. o. J. „Comparison as Reflective and Affective Practice: Orientations Towards the Middle and Everyday Comparisons“. In Vorbereitung (Journal Article).   
 * Groth, Stefan. o. J. Normative Dimensionen kulturellen Eigentums. Bd. 15. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press. In Vorbereitung (erscheint 12/2019). 
 
 ## Monographien
