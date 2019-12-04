@@ -2,7 +2,7 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2019-12-2
+Version: 2019-12-4
 
 ## Beiträge im Erscheinen und in Vorbereitung
 * Groth, Stefan. o. J. Normative Dimensionen kulturellen Eigentums. Bd. 15. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press. In Vorbereitung. 
@@ -23,7 +23,6 @@ Version: 2019-12-2
 
 ## Peer Reviewed Papers
 * Groth, Stefan. 2020. „Comparison as Social and Cultural Practice“. Herausgegeben von Stefan Groth. Cultural Analysis. Special Issue: Comparison as Social and Cultural Practice. Peer Reviewed. In Vorbereitung.   
-* Esguerra, Alejandro, Katja Freistein, und Stefan Groth. o. J. „International Organizations and Communicative Practices: Micro-Approaches to Multilateral Institutions“. International Political Sociology. In Vorbereitung (Journal Article).   
 * Groth, Stefan. 2020. „Comparison as Reflective and Affective Practice: Orientations Towards the Middle and Everyday Comparisons“. Herausgegeben von Stefan Groth. Cultural Analysis. Special Issue: Comparison as Social and Cultural Practice. In Vorbereitung (Journal Article).   
 * Groth, Stefan. 2019. „Implicit Ethics: Normative Claims to Culture in Multilateral Negotiations“. Journal of Linguistic Anthropology, Dezember. doi:10.1111/jola.12258. Peer Reviewed.   
 * Groth, Stefan. 2019. „Vergleiche als antizipierende und relationale Praxis“. Zeitschrift für Volkskunde 115 (2): 238–59. Peer Reviewed.   
@@ -47,7 +46,7 @@ Version: 2019-12-2
 * Groth, Stefan. 2009. „Kulturen im Gespräch: Interview mit Valdimar Hafstein“. Kulturen 2/2009: 40–47. 
 
 ## Aufsätze in Sammelbänden
-* Groth, Stefan. 2020. „Kontingente Praxen, Antizipation als Kompetenz“. In Planen, Hoffen, Fürchten: Die Gegenwart der Zukunft im Alltag, herausgegeben von Ruth Eggel, Fabio Freiberg, Andrea Graf, Dagmar Hänel, Victoria Huszka, Ove Sutter, und Kerstin Wolff. Bonner Beiträge zur Alltagskulturforschung. Münster: Waxmann. Zur Publikation angenommen.   
+* Groth, Stefan. 2020. „Kontingente Praxen, Antizipation als Kompetenz“. In Planen, Hoffen, Fürchten: Die Gegenwart der Zukunft im Alltag, herausgegeben von Ruth Eggel, Fabio Freiberg, Andrea Graf, Dagmar Hänel, Victoria Huszka, Ove Sutter, und Kerstin Wolff. Bonner Beiträge zur Alltagskulturforschung. Münster: Waxmann. Im Druck.   
 * Groth, Stefan, Sarah May, und Johannes Müske. 2020. „Arbeit im Wandel und in gesellschaftlicher Diskussion“. In Vernetzt, entgrenzt, prekär? Kulturwissenschaftliche Perspektiven auf Arbeit im Wandel, herausgegeben von Stefan Groth, Sarah May, und Johannes Müske, 16:9–25. Arbeit und Alltag: Beiträge zur ethnografischen Arbeitskulturenforschung. Campus. Im Druck.   
 * Groth, Stefan. 2020. „Work-Life-Balance, Entgrenzung und Orientierungen an der Mitte“. In Vernetzt, entgrenzt, prekär? Kulturwissenschaftliche Perspektiven auf Arbeit im Wandel, herausgegeben von Stefan Groth, Sarah May, und Johannes Müske, 16:219–41. Arbeit und Alltag: Beiträge zur ethnografischen Arbeitskulturenforschung. Campus. Im Druck.   
 * Groth, Stefan. 2019. „Prinzipielle Verfügbarkeit und strategische Transparenz: Zur Rolle von Dokumenten aus politischen Prozessen in Forschungsdesigns“. In Forschungsdesign 4.0. Datengenerierung und Wissenstransfer in interdisziplinärer Perspektive, herausgegeben von Martina Schattkowsky und Ira Spieker, 58–77. Dresden. Im Druck.   
@@ -77,7 +76,7 @@ Version: 2019-12-2
 * Groth, Stefan. 2009. „Kulturen im Gespräch: Interview mit Valdimar Hafstein“. Kulturen 2/2009: 40–47. 
 
 ## Rezensionen
-* Groth, Stefan. 2019. „Rezension von Andere Urbanitäten: Zur Pluralität des Städtischen, herausgegeben von Brigitta Schmidt-Lauber“. Schweizerisches Archiv für Volkskunde. Zur Publikation angenommen.   
+* Groth, Stefan. 2019. „Rezension von Andere Urbanitäten: Zur Pluralität des Städtischen, herausgegeben von Brigitta Schmidt-Lauber“. Schweizerisches Archiv für Volkskunde.   
 * Groth, Stefan. 2019. „Rezension von Schließlich sitzen wir alle im selben Boot: Helmut Schmidts politische Sprichwortrhetorik von A. Nolte und W. Mieder“. Fabula: Zeitschrift für Erzählforschung. doi:10.1515/fabula-2019-0013.   
 * Groth, Stefan. 2019. „Rezension von Unterrichten als Beruf. Akteure, Praxen und Ordnungen in der Schulbildung von L. Franken“. Bayerisches Jahrbuch für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. http://kbl.badw.de/kbl-digital/rezensionsportal/aktuelle-rezensionen/ansicht/detail/4861.html.   
 * Groth, Stefan. 2018. „Rezension von Die Not der Anderen. Kulturwissenschaftliche Perspektiven auf Aushandlungen globaler Armut am Beispiel des Fairen Handels von L. Winterberg“. Rheinisch\hypWestfälische Zeitschrift für Volkskunde.   
