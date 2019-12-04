@@ -28,7 +28,7 @@ Version: 2019-12-4
 * Groth, Stefan. 2019. „Vergleiche als antizipierende und relationale Praxis“. Zeitschrift für Volkskunde 115 (2): 238–59. Peer Reviewed.   
 * Groth, Stefan. 2019. „Optimierung bis zur Mitte. Selbstoptimierung als Konstellation und relationale Subjektivierung“. Österreichische Zeitschrift für Volkskunde 122 (1): 27–54. Peer Reviewed.   
 * Groth, Stefan. 2019. „Political Narratives / Narrations of the Political. An Introduction“. Herausgegeben von Stefan Groth. Narrative Culture 6 (1). Special Issue: Political Narratives / Narrations of the Political: 1–18. doi:10.13110/narrcult.6.1.0001. Peer Reviewed.   
-* Groth, Stefan. 2018. „Entstehungskontext, Materialität und Sprachspezifik. Elemente einer empirisch‘-kulturwissenschaftlichen Quellenkritik von Dokumenten in politischen Prozessen“. Schweizerisches Archiv für Volkskunde 114 (1): 57–75. https://www.e-periodica.ch/digbib/view?pid=sav-001:2018:114#62. Peer reviewed.   
+* Groth, Stefan. 2018. „Entstehungskontext, Materialität und Sprachspezifik. Elemente einer empirisch‘=kulturwissenschaftlichen Quellenkritik von Dokumenten in politischen Prozessen“. Schweizerisches Archiv für Volkskunde 114 (1): 57–75. https://www.e-periodica.ch/digbib/view?pid=sav-001:2018:114#62. Peer reviewed.   
 * Groth, Stefan. 2018. „Einfache Formen, komplexe Prozesse. Sprichwörter und Redewendungen in multilateralen Verhandlungen“. Herausgegeben von Silke Meyer. Fabula: Zeitschrift für Erzählforschung 59 (1-2). Special Issue: Narrationsanalyse: 27–49. doi:10.1515/fabula-2018-0003. Peer reviewed.   
 * Groth, Stefan, und Yonca Krahn. 2017. „Sensing Athletes: Sensory Dimensions of Recreational Endurance Sports“. Journal of Ethnology and Folkloristics 11 (2): 3–23. doi:10.1515/jef-2017-0011. Peer reviewed.   
 * Groth, Stefan. 2015. „Common Ground and Missing Links: German Volkskunde and Language“. AJEC: Anthropological Journal of European Cultures 24 (1): 24–41. doi:10.3167/ajec.2015.240103. Peer reviewed.   
@@ -40,8 +40,8 @@ Version: 2019-12-4
 * Groth, Stefan. o. J. „Minimalismus als Kompetenz: Die Siedlung Neubühl in Zürich-Wollishofen“. Zeitschriftenbeitrag. In Vorbereitung.   
 * Groth, Stefan. 2020. „Comparisons as Anticipatory and Relational Practice“. Journal for European Ethnology and Cultural Analysis (JEECA). Peer Reviewed. Englische Version von Vergleiche als antizipierende und relationale Praxis (2019). Im Druck.   
 * Groth, Stefan, und Johannes Müske. 2019. „Arbeit 4.0? Kulturwissenschaftliche Perspektiven auf Arbeit im Wandel“. AugenBlick. Konstanzer Hefte zur Medienwissenschaft 73: 11–20.   
-* Groth, Stefan, und Ove Sutter. 2016. „Kulturelle Repräsentationen von Region in der gouvernementalen und kompetitiven Entwicklung ländlicher Räume“. Rheinisch"-Westfälische Zeitschrift für Volkskunde 61: 247–67.   
-* Groth, Stefan. 2016. „EU/Kultur: Zu Flexibilität und Kohärenz des Kulturbegriffes im Rahmen europäischer Kulturpolitik“. Rheinisch"-Westfälische Zeitschrift für Volkskunde 61: 227–46.   
+* Groth, Stefan, und Ove Sutter. 2016. „Kulturelle Repräsentationen von Region in der gouvernementalen und kompetitiven Entwicklung ländlicher Räume“. Rheinisch"=Westfälische Zeitschrift für Volkskunde 61: 247–67.   
+* Groth, Stefan. 2016. „EU/Kultur: Zu Flexibilität und Kohärenz des Kulturbegriffes im Rahmen europäischer Kulturpolitik“. Rheinisch"=Westfälische Zeitschrift für Volkskunde 61: 227–46.   
 * Groth, Stefan. 2009. „Tradition und Wert: Die Weltorganisation für Geistiges Eigentum, Cultural Property und die Vorzeitigkeit von Tradition“. Kulturen 2/2009: 33–39.   
 * Groth, Stefan. 2009. „Kulturen im Gespräch: Interview mit Valdimar Hafstein“. Kulturen 2/2009: 40–47. 
 
@@ -79,9 +79,9 @@ Version: 2019-12-4
 * Groth, Stefan. 2019. „Rezension von Andere Urbanitäten: Zur Pluralität des Städtischen, herausgegeben von Brigitta Schmidt-Lauber“. Schweizerisches Archiv für Volkskunde.   
 * Groth, Stefan. 2019. „Rezension von Schließlich sitzen wir alle im selben Boot: Helmut Schmidts politische Sprichwortrhetorik von A. Nolte und W. Mieder“. Fabula: Zeitschrift für Erzählforschung. doi:10.1515/fabula-2019-0013.   
 * Groth, Stefan. 2019. „Rezension von Unterrichten als Beruf. Akteure, Praxen und Ordnungen in der Schulbildung von L. Franken“. Bayerisches Jahrbuch für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. http://kbl.badw.de/kbl-digital/rezensionsportal/aktuelle-rezensionen/ansicht/detail/4861.html.   
-* Groth, Stefan. 2018. „Rezension von Die Not der Anderen. Kulturwissenschaftliche Perspektiven auf Aushandlungen globaler Armut am Beispiel des Fairen Handels von L. Winterberg“. Rheinisch"-Westfälische Zeitschrift für Volkskunde.   
+* Groth, Stefan. 2018. „Rezension von Die Not der Anderen. Kulturwissenschaftliche Perspektiven auf Aushandlungen globaler Armut am Beispiel des Fairen Handels von L. Winterberg“. Rheinisch"=Westfälische Zeitschrift für Volkskunde.   
 * Groth, Stefan. 2017. „Rezension von Humble Theory. Folklore’s Grasp on Social Life von D. Noyes“. Schweizerisches Archiv für Volkskunde.   
-* Groth, Stefan. 2016. „Rezension von Fair Trade: Eine global-lokale Geschichte am Beispiel des Kaffees von R. Quaas“. Rheinisch"-Westfälische Zeitschrift für Volkskunde.   
+* Groth, Stefan. 2016. „Rezension von Fair Trade: Eine global-lokale Geschichte am Beispiel des Kaffees von R. Quaas“. Rheinisch"=Westfälische Zeitschrift für Volkskunde.   
 * Groth, Stefan. 2017. „Rezension von UNESCO on the Ground: Local Perspectives on Intangible Cultural Heritage, herausgegeben von M. D. Foster, L. Gilman“. Journal of American Folklore.   
 * Groth, Stefan. 2015. „Rezension von Reiseziel: immaterielles Kulturerbe. Ein interdisziplinärer Dialog, herausgegeben von M.-A. Camp, S. Eggmann, B. Taufer“. H-Soz-Kult. http://www.hsozkult.de/publicationreview/id/rezbuecher-24131.   
 * Groth, Stefan. 2014. „Rezension von Treasured Possessions: Indigenous Interventions into Cultural and Intellectual Property von H. Geismar“. Journal of Folklore Research Reviews. http://www.indiana.edu/%7Ejfr/review.php?id=1559.   
