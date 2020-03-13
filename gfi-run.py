@@ -3,6 +3,7 @@
 # -*- mode:python -*-
 import os
 import sys
+import git
 import time
 import codecs
 from git import Repo
