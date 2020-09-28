@@ -18,7 +18,7 @@ end
 # Open bibliography
 bib = BibTeX.open('sgroth-bibliography.bib').convert(:latex2,:latex)
 
-CSL::Style.root = "/Users/stefangroth/.csl/"
+CSL::Style.root = "csl/"
 
 # Create a new processor with the desired style, # format, and locale.
 cp = CiteProc::Processor.new style: 'unknown', format: 'text', locale: 'de'
@@ -32,17 +32,17 @@ cp = CiteProc::Processor.new style: 'unknown', format: 'text', locale: 'de'
 cp.import bib.to_citeproc
 
 # Process entries with keyword "inpreparation"
-inpreparation = bib['@*[keywords~=inpreparation]'].reverse_each.map do |e|
+inpreparation = bib['@*[keywords~=pre]'].reverse_each.map do |e|
   "* #{cp.render(:bibliography, id: e.key)[0]}"
 end
 
 # Process entries with keyword "monography"
-monography = bib['@book[keywords!=notaccepted  && keywords!=miszelle &&  keywords!=inpreparation && keywords=monography]'].reverse_each.map do |e|
+monography = bib['@book[keywords!=notaccepted  && keywords!=miszelle &&  keywords!=pre && keywords=monography]'].reverse_each.map do |e|
   "* #{cp.render(:bibliography, id: e.key)[0]}"
 end
 
 # Process entries with keyword "editedvolume"
-editedvolume = bib['@*[keywords ^= editedvolume && keywords !~ notaccepted && keywords!~inpreparation]'].reverse_each.map do |e|
+editedvolume = bib['@*[keywords ^= editedvolume && keywords !~ notaccepted && keywords!~pre]'].reverse_each.map do |e|
   "* #{cp.render(:bibliography, id: e.key)[0]}"
 end
 
@@ -52,17 +52,17 @@ specialissue = bib['@periodical'].reverse_each.map do |e|
 end
 
 # Process peer reviewed articles
-peerreviewedarticle = bib['@article[keywords!~ notaccepted && keywords^=peerreview && keywords!~inpreparation]'].reverse_each.map do |e|
+peerreviewedarticle = bib['@article[keywords!~ notaccepted && keywords^=peerreview && keywords!~pre]'].reverse_each.map do |e|
   "* #{cp.render(:bibliography, id: e.key)[0]}"
 end
 
 # Process other articles
-article = bib['@article[ keywords!~ peerreview && keywords!~ notaccepted && keywords!~inpreparation]'].reverse_each.map do |e|
+article = bib['@article[ keywords!~ peerreview && keywords!~ notaccepted && keywords!~pre]'].reverse_each.map do |e|
   "* #{cp.render(:bibliography, id: e.key)[0]}"
 end
 
 # Process incollection
-incollection = bib['@incollection[keywords!~ inpreparation && keywords!=miszelle && keywords!=notaccepted]'].reverse_each.map do |e|
+incollection = bib['@incollection[keywords!~ pre && keywords!=miszelle && keywords!=notaccepted]'].reverse_each.map do |e|
   "* #{cp.render(:bibliography, id: e.key)[0]}"
 end
 
