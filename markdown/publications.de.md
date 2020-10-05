@@ -2,16 +2,22 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2020-9-28
+Version: 2020-10-5
 
 ## Beiträge im Erscheinen und in Vorbereitung
-* Groth, Stefan. o. J. „Durchschnitt als Trend: Orientierungen am Mittelmaß im Wohnen“. Hessische Blätter für Volkskunde. In Vorbereitung für eine Sonderausgabe über Wohnen jenseits der Normen. Historische und aktuelle Perspektive, herausgegeben von Manfred Seifert. 
+* Esguerra, Alejandro, Katja Freistein, und Stefan Groth. o. J. „International Organizations and Their Communicative Practices: How the Everyday Helps Us Understand Multilateral Sites and Processes“. In Vorbereitung.   
+* Groth, Stefan. 2021. „Durchschnitt als Trend: Orientierungen am Mittelmaß im Wohnen“. Hessische Blätter für Volkskunde. In Vorbereitung für eine Sonderausgabe über Wohnen jenseits der Normen. Historische und aktuelle Perspektive, herausgegeben von Manfred Seifert.   
+* Groth, Stefan. o. J. „Rezension von Im Dorf vor der Stadt: Die Baugenossenschaft Neubühl, 1929–2000, von E. La Roche“. Schweizerisches Archiv für Volkskunde. Zur Publikation eingereicht.   
+* Groth, Stefan. o. J. „Rezension von Self-Tracking: Vermessungspraktiken im Kontext von Quantified Self und Diabetes, von L. Wiedemann“. Zeitschrift für Volkskunde. Zur Publikation eingereicht.   
+* Groth, Stefan. 2020. „Sprechen als gesellschaftliche Teilhabe. Zur Verknüpfung von Sprache und Citizenship“. In Sprache und Cultural Citizenship, herausgegeben von Stefan Groth. Zürich: Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen. Im Erscheinen.   
+* Groth, Stefan, Hrsg. 2020. Sprache und Cultural Citizenship. Zürich: Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen. Im Erscheinen.   
+* Groth, Stefan. 2020. „Kontingente Praxen, Antizipation als Kompetenz“. In Planen, Hoffen, Fürchten: Die Gegenwart der Zukunft im Alltag, herausgegeben von Ruth Dorothea Eggel, Fabio Freiberg, Andrea Graf, Dagmar Hänel, Victoria Huszka, Ove Sutter, und Kerstin Wolff. Bd. 13. Bonner Beiträge zur Alltagskulturforschung. Münster: Waxmann. Im Druck.   
+* Groth, Stefan. 2020. „Rezension von Curated Stories: The Uses and Abuses of Storytelling, von S. Fernandes“. Fabula: Zeitschrift für Erzählforschung. Zur Publikation eingereicht. 
 
 ## Monographien
 * Groth, Stefan. 2012. Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property. Bd. 4. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press. doi:10.4000/books.gup.608. 
 
 ## Herausgeberschaften
-* Groth, Stefan, Hrsg. 2020. Sprache und Cultural Citizenship. Zürich: Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen. Im Erscheinen.   
 * Groth, Stefan, Sarah May, und Johannes Müske, Hrsg. 2020. Vernetzt, entgrenzt, prekär? Kulturwissenschaftliche Perspektiven auf Arbeit im Wandel. Bd. 17. Arbeit und Alltag: Beiträge zur ethnografischen Arbeitskulturenforschung. Campus.   
 * Groth, Stefan, und Christian Ritter, Hrsg. 2019. Zusammen arbeiten. Praktiken der Koordination und Kooperation in kollaborativen Prozessen. Kultur und soziale Praxis. Bielefeld: Transcript.   
 * Groth, Stefan, und Linda Mülli, Hrsg. 2019. Ordnungen in Alltag und Gesellschaft: Empirisch-kulturwissenschaftliche Perspektiven. Würzburg: Königshausen und Neumann.   
@@ -37,10 +43,10 @@ Version: 2020-9-28
 * Groth, Stefan. 2011. „Perspectives of Differentiation: Negotiating Traditional Knowledge on the International Level“. Journal of Ethnology and Folkloristics 4 (1): 7–24. http://www.jef.ee/index.php/journal/article/view/1. Peer reviewed. 
 
 ## Zeitschriftenaufsätze
-* Groth, Stefan. 2020. „Introduction: Comparison as Social and Cultural Practice“. Herausgegeben von Stefan Groth. Cultural Analysis 18 (1). Special Issue: Comparison as Social and Cultural Practice: 1–4. https://www.ocf.berkeley.edu/ culturalanalysis/volume18_1/vol18_1_Introduction.html.   
 * Groth, Stefan. 2020. „Mitte und Mittelmass: Zwischen privilegierter Gleichheit und kompetitiver Differenz“. SAGW-Bulletin 1. Special Issue Ungleichheit – Inégalité: 45–47. doi:10.5281/zenodo.3716156.   
 * Groth, Stefan. 2020. „Nicht ohne Zynismus – Sind aller guten Dinge wirklich drei?“ UZH Magazin 1: 8.   
-* Groth, Stefan. 2020. „Technical Discourse and Normative Affirmations: Implicit Justice Claims in Multilateral Negotiations“. Global Cooperation Quarterly 1: 13–14s.   
+* Groth, Stefan. 2020. „Technical Discourse and Normative Affirmations: Implicit Justice Claims in Multilateral Negotiations“. Global Cooperation Quarterly 1: 13–14.   
+* Groth, Stefan. 2020. „Introduction: Comparison as Social and Cultural Practice“. Herausgegeben von Stefan Groth. Cultural Analysis 18 (1). Special Issue: Comparison as Social and Cultural Practice: 1–4. https://www.ocf.berkeley.edu/ culturalanalysis/volume18_1/vol18_1_Introduction.html.   
 * Groth, Stefan, und Johannes Müske. 2019. „Arbeit 4.0? Kulturwissenschaftliche Perspektiven auf Arbeit im Wandel“. AugenBlick. Konstanzer Hefte zur Medienwissenschaft 73: 11–20.   
 * Groth, Stefan, und Ove Sutter. 2016. „Kulturelle Repräsentationen von Region in der gouvernementalen und kompetitiven Entwicklung ländlicher Räume“. Rheinisch"=Westfälische Zeitschrift für Volkskunde 61: 247–67.   
 * Groth, Stefan. 2016. „EU/Kultur: Zu Flexibilität und Kohärenz des Kulturbegriffes im Rahmen europäischer Kulturpolitik“. Rheinisch"=Westfälische Zeitschrift für Volkskunde 61: 227–46.   
@@ -48,8 +54,6 @@ Version: 2020-9-28
 * Groth, Stefan. 2009. „Kulturen im Gespräch: Interview mit Valdimar Hafstein“. Kulturen 2/2009: 40–47. 
 
 ## Aufsätze in Sammelbänden
-* Groth, Stefan. 2020. „Sprechen als gesellschaftliche Teilhabe. Zur Verknüpfung von Sprache und Citizenship“. In Sprache und Cultural Citizenship, herausgegeben von Stefan Groth. Zürich: Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen. Im Erscheinen.   
-* Groth, Stefan. 2020. „Kontingente Praxen, Antizipation als Kompetenz“. In Planen, Hoffen, Fürchten: Die Gegenwart der Zukunft im Alltag, herausgegeben von Ruth Eggel, Fabio Freiberg, Andrea Graf, Dagmar Hänel, Victoria Huszka, Ove Sutter, und Kerstin Wolff. Bonner Beiträge zur Alltagskulturforschung. Münster: Waxmann. Im Druck.   
 * Groth, Stefan. 2020. „Work-Life-Balance, Entgrenzung und Orientierungen an der Mitte“. In Vernetzt, entgrenzt, prekär? Kulturwissenschaftliche Perspektiven auf Arbeit im Wandel, herausgegeben von Stefan Groth, Sarah May, und Johannes Müske, 17:205–25. Arbeit und Alltag: Beiträge zur ethnografischen Arbeitskulturenforschung. Campus.   
 * Groth, Stefan, Sarah May, und Johannes Müske. 2020. „Arbeit im Wandel und in gesellschaftlicher Diskussion“. In Vernetzt, entgrenzt, prekär? Kulturwissenschaftliche Perspektiven auf Arbeit im Wandel, herausgegeben von Stefan Groth, Sarah May, und Johannes Müske, 17:9–24. Arbeit und Alltag: Beiträge zur ethnografischen Arbeitskulturenforschung. Campus.   
 * Groth, Stefan. 2019. „Prinzipielle Verfügbarkeit und strategische Transparenz: Zur Rolle von Dokumenten aus politischen Prozessen in Forschungsdesigns“. In Forschungsdesign 4.0. Datengenerierung und Wissenstransfer in interdisziplinärer Perspektive, herausgegeben von Jens Klingner und Merve Lühr, 1:60–79. ISGV digital. Studien zur Landesgeschichte und Kulturanthropologie. Dresden: Institut für Sächsische Geschichte und Volkskunde. doi:10.25366/2019.08.   
@@ -82,7 +86,7 @@ Version: 2020-9-28
 ## Rezensionen
 * Groth, Stefan. o. J. „Rezension von Im Dorf vor der Stadt: Die Baugenossenschaft Neubühl, 1929–2000, von E. La Roche“. Schweizerisches Archiv für Volkskunde. Zur Publikation eingereicht.   
 * Groth, Stefan. o. J. „Rezension von Self-Tracking: Vermessungspraktiken im Kontext von Quantified Self und Diabetes, von L. Wiedemann“. Zeitschrift für Volkskunde. Zur Publikation eingereicht.   
-* Groth, Stefan. 2020. „Rezension von Curated Stories: The Uses and Abuses of Storytelling, von S. Fernandes“. Fabula: Zeitschrift für Erzählforschung.   
+* Groth, Stefan. 2020. „Rezension von Curated Stories: The Uses and Abuses of Storytelling, von S. Fernandes“. Fabula: Zeitschrift für Erzählforschung. Zur Publikation eingereicht.   
 * Groth, Stefan. 2020. „Rezension von Die professionelle Praxis der Ausbilder. Eine kulturanthropologische Analyse, von A. Bahl“. Bayerisches Jahrbuch für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. https://www.kbl.badw.de/kbl-digital/rezensionsportal/aktuelle-rezensionen/ansicht/detail/4979.html.   
 * Groth, Stefan. 2019. „Rezension von Andere Urbanitäten: Zur Pluralität des Städtischen, herausgegeben von B. Schmidt-Lauber“. Schweizerisches Archiv für Volkskunde.   
 * Groth, Stefan. 2019. „Rezension von Unterrichten als Beruf. Akteure, Praxen und Ordnungen in der Schulbildung von L. Franken“. Bayerisches Jahrbuch für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. http://kbl.badw.de/kbl-digital/rezensionsportal/aktuelle-rezensionen/ansicht/detail/4861.html.   
