@@ -2,13 +2,12 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2020-10-5
+Version: 2020-10-6
 
 ## Beiträge im Erscheinen und in Vorbereitung
 * Esguerra, Alejandro, Katja Freistein, und Stefan Groth. o. J. „International Organizations and Their Communicative Practices: How the Everyday Helps Us Understand Multilateral Sites and Processes“. In Vorbereitung.   
 * Groth, Stefan. 2021. „Durchschnitt als Trend: Orientierungen am Mittelmaß im Wohnen“. Hessische Blätter für Volkskunde. In Vorbereitung für eine Sonderausgabe über Wohnen jenseits der Normen. Historische und aktuelle Perspektive, herausgegeben von Manfred Seifert.   
 * Groth, Stefan. o. J. „Rezension von Im Dorf vor der Stadt: Die Baugenossenschaft Neubühl, 1929–2000, von E. La Roche“. Schweizerisches Archiv für Volkskunde. Zur Publikation eingereicht.   
-* Groth, Stefan. o. J. „Rezension von Self-Tracking: Vermessungspraktiken im Kontext von Quantified Self und Diabetes, von L. Wiedemann“. Zeitschrift für Volkskunde. Zur Publikation eingereicht.   
 * Groth, Stefan. 2020. „Sprechen als gesellschaftliche Teilhabe. Zur Verknüpfung von Sprache und Citizenship“. In Sprache und Cultural Citizenship, herausgegeben von Stefan Groth. Zürich: Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen. Im Erscheinen.   
 * Groth, Stefan, Hrsg. 2020. Sprache und Cultural Citizenship. Zürich: Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen. Im Erscheinen.   
 * Groth, Stefan. 2020. „Kontingente Praxen, Antizipation als Kompetenz“. In Planen, Hoffen, Fürchten: Die Gegenwart der Zukunft im Alltag, herausgegeben von Ruth Dorothea Eggel, Fabio Freiberg, Andrea Graf, Dagmar Hänel, Victoria Huszka, Ove Sutter, und Kerstin Wolff. Bd. 13. Bonner Beiträge zur Alltagskulturforschung. Münster: Waxmann. Im Druck.   
@@ -85,7 +84,7 @@ Version: 2020-10-5
 
 ## Rezensionen
 * Groth, Stefan. o. J. „Rezension von Im Dorf vor der Stadt: Die Baugenossenschaft Neubühl, 1929–2000, von E. La Roche“. Schweizerisches Archiv für Volkskunde. Zur Publikation eingereicht.   
-* Groth, Stefan. o. J. „Rezension von Self-Tracking: Vermessungspraktiken im Kontext von Quantified Self und Diabetes, von L. Wiedemann“. Zeitschrift für Volkskunde. Zur Publikation eingereicht.   
+* Groth, Stefan. 2020. „Rezension von Self-Tracking: Vermessungspraktiken im Kontext von Quantified Self und Diabetes, von L. Wiedemann“. Zeitschrift für Volkskunde. doi:10.31244/zfvk/2020/02.39.   
 * Groth, Stefan. 2020. „Rezension von Curated Stories: The Uses and Abuses of Storytelling, von S. Fernandes“. Fabula: Zeitschrift für Erzählforschung. Zur Publikation eingereicht.   
 * Groth, Stefan. 2020. „Rezension von Die professionelle Praxis der Ausbilder. Eine kulturanthropologische Analyse, von A. Bahl“. Bayerisches Jahrbuch für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. https://www.kbl.badw.de/kbl-digital/rezensionsportal/aktuelle-rezensionen/ansicht/detail/4979.html.   
 * Groth, Stefan. 2019. „Rezension von Andere Urbanitäten: Zur Pluralität des Städtischen, herausgegeben von B. Schmidt-Lauber“. Schweizerisches Archiv für Volkskunde.   
