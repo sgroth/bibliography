@@ -5,6 +5,8 @@ Dr. Stefan Groth
 Version: 2020-11-16
 
 ## Beiträge im Erscheinen und in Vorbereitung
+* Groth, Stefan. o. J. „Contesting Truthiness and Stickiness: Narratological Approaches to the Aesthetics of Fact Checking, Counter-Narratives and Political Activism in Germany“. In Vorbereitung für eine Special Issue zu Resisting Populism: Memes, Extreme Speech, and the Aesthetics of Affect and Defiance.   
+* Groth, Stefan. o. J. „Code und Kommunikabilität“. Kuckuck. Notizen zur Alltagskultur. In Vorbereitung.   
 * Esguerra, Alejandro, Katja Freistein, und Stefan Groth. o. J. „International Organizations and Their Communicative Practices: How the Everyday Helps Us Understand Multilateral Sites and Processes“. Zur Publikation eingereicht.   
 * Groth, Stefan. 2021. „Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen zu normativen Dimensionen des kleinen Wohnens“. Hessische Blätter für Volkskunde. Zur Publikation eingereicht für eine Sonderausgabe über Wohnen jenseits der Normen. Historische und aktuelle Perspektive, herausgegeben von Manfred Seifert.   
 * Groth, Stefan. 2020. „Rezension von Im Dorf vor der Stadt: Die Baugenossenschaft Neubühl, 1929–2000, von E. La Roche“. Schweizerisches Archiv für Volkskunde. Zur Publikation angenommen.   
@@ -41,8 +43,6 @@ Version: 2020-11-16
 * Groth, Stefan. 2011. „Perspectives of Differentiation: Negotiating Traditional Knowledge on the International Level“. Journal of Ethnology and Folkloristics 4 (1): 7–24. http://www.jef.ee/index.php/journal/article/view/1. Peer reviewed. 
 
 ## Zeitschriftenaufsätze
-* Groth, Stefan. o. J. „Contesting Truthiness and Stickiness: Narratological Approaches to the Aesthetics of Fact Checking, Counter-Narratives and Political Activism in Germany“. In Vorbereitung für eine Special Issue zu Resisting Populism: Memes, Extreme Speech, and the Aesthetics of Affect and Defiance.   
-* Groth, Stefan. o. J. „Code und Kommunikabilität“. Kuckuck. Notizen zur Alltagskultur. In Vorbereitung.   
 * Groth, Stefan. 2020. „Mitte und Mittelmass: Zwischen privilegierter Gleichheit und kompetitiver Differenz“. SAGW-Bulletin 1. Special Issue Ungleichheit – Inégalité: 45–47. doi:10.5281/zenodo.3716156.   
 * Groth, Stefan. 2020. „Nicht ohne Zynismus – Sind aller guten Dinge wirklich drei?“ UZH Magazin 1: 8.   
 * Groth, Stefan. 2020. „Technical Discourse and Normative Affirmations: Implicit Justice Claims in Multilateral Negotiations“. Global Cooperation Quarterly 1: 13–14.   
