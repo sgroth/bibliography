@@ -2,14 +2,11 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2020-11-16
+Version: 2020-12-12
 
 ## Beiträge im Erscheinen und in Vorbereitung
-* Groth, Stefan. o. J. „Contesting Truthiness and Stickiness: Narratological Approaches to the Aesthetics of Fact Checking, Counter-Narratives and Political Activism in Germany“. In Vorbereitung für eine Special Issue zu Resisting Populism: Memes, Extreme Speech, and the Aesthetics of Affect and Defiance.   
-* Groth, Stefan. o. J. „Code und Kommunikabilität“. Kuckuck. Notizen zur Alltagskultur. In Vorbereitung.   
 * Esguerra, Alejandro, Katja Freistein, und Stefan Groth. o. J. „International Organizations and Their Communicative Practices: How the Everyday Helps Us Understand Multilateral Sites and Processes“. Zur Publikation eingereicht.   
-* Groth, Stefan. 2021. „Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen zu normativen Dimensionen des kleinen Wohnens“. Hessische Blätter für Volkskunde. Zur Publikation eingereicht für eine Sonderausgabe über Wohnen jenseits der Normen. Historische und aktuelle Perspektive, herausgegeben von Manfred Seifert.   
-* Groth, Stefan. 2020. „Rezension von Im Dorf vor der Stadt: Die Baugenossenschaft Neubühl, 1929–2000, von E. La Roche“. Schweizerisches Archiv für Volkskunde. Zur Publikation angenommen.   
+* Groth, Stefan. 2021. „Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen zu normativen Dimensionen des kleinen Wohnens“. Hessische Blätter für Volkskunde. Zur Publikation angenommen für eine Sonderausgabe über Wohnen jenseits der Normen. Historische und aktuelle Perspektive, herausgegeben von Manfred Seifert.   
 * Groth, Stefan. 2020. „Sprechen als gesellschaftliche Teilhabe. Zur Verknüpfung von Sprache und Citizenship“. In Sprache und Cultural Citizenship, herausgegeben von Stefan Groth. Zürich: Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen. Im Erscheinen.   
 * Groth, Stefan, Hrsg. 2020. Sprache und Cultural Citizenship. Zürich: Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen. Im Erscheinen.   
 * Groth, Stefan. 2020. „Kontingente Praxen, Antizipation als Kompetenz“. In Planen, Hoffen, Fürchten: Die Gegenwart der Zukunft im Alltag, herausgegeben von Ruth Dorothea Eggel, Fabio Freiberg, Andrea Graf, Dagmar Hänel, Victoria Huszka, Ove Sutter, und Kerstin Wolff, 13:203–16. Bonner Beiträge zur Alltagskulturforschung. Münster: Waxmann. Im Druck. 
@@ -84,7 +81,7 @@ Version: 2020-11-16
 * Groth, Stefan. 2009. „Kulturen im Gespräch: Interview mit Valdimar Hafstein“. Kulturen 2/2009: 40–47. 
 
 ## Rezensionen
-* Groth, Stefan. 2020. „Rezension von Im Dorf vor der Stadt: Die Baugenossenschaft Neubühl, 1929–2000, von E. La Roche“. Schweizerisches Archiv für Volkskunde. Zur Publikation angenommen.   
+* Groth, Stefan. 2020. „Rezension von Im Dorf vor der Stadt: Die Baugenossenschaft Neubühl, 1929–2000, von E. La Roche“. Schweizerisches Archiv für Volkskunde.   
 * Groth, Stefan. 2020. „Rezension von Self-Tracking: Vermessungspraktiken im Kontext von Quantified Self und Diabetes, von L. Wiedemann“. Zeitschrift für Volkskunde. doi:10.31244/zfvk/2020/02.39.   
 * Groth, Stefan. 2020. „Rezension von Curated Stories: The Uses and Abuses of Storytelling, von S. Fernandes“. Fabula: Zeitschrift für Erzählforschung. doi:10.1515/fabula-2020-0019.   
 * Groth, Stefan. 2020. „Rezension von Die professionelle Praxis der Ausbilder. Eine kulturanthropologische Analyse, von A. Bahl“. Bayerisches Jahrbuch für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. https://www.kbl.badw.de/kbl-digital/rezensionsportal/aktuelle-rezensionen/ansicht/detail/4979.html.   
