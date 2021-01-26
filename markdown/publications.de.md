@@ -15,7 +15,7 @@ Version: 2021-1-26
 * Groth, Stefan. 2012. Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property. Bd. 4. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press. doi:10.4000/books.gup.608. 
 
 ## Herausgeberschaften
-* Groth, Stefan, Hrsg. 2021. Sprache und Cultural Citizenship. Zürich: Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen.   
+* Groth, Stefan, Hrsg. 2021. Sprache und Cultural Citizenship. Zürich: Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen. https://github.com/sgroth/stefangroth.com/raw/master/assets/repository/Groth2021ac.pdf.   
 * Groth, Stefan, Sarah May, und Johannes Müske, Hrsg. 2020. Vernetzt, entgrenzt, prekär? Kulturwissenschaftliche Perspektiven auf Arbeit im Wandel. Bd. 17. Arbeit und Alltag: Beiträge zur ethnografischen Arbeitskulturenforschung. Campus.   
 * Groth, Stefan, und Christian Ritter, Hrsg. 2019. Zusammen arbeiten. Praktiken der Koordination und Kooperation in kollaborativen Prozessen. Kultur und soziale Praxis. Bielefeld: Transcript.   
 * Groth, Stefan, und Linda Mülli, Hrsg. 2019. Ordnungen in Alltag und Gesellschaft: Empirisch-kulturwissenschaftliche Perspektiven. Würzburg: Königshausen und Neumann.   
@@ -52,7 +52,7 @@ Version: 2021-1-26
 * Groth, Stefan. 2009. „Kulturen im Gespräch: Interview mit Valdimar Hafstein“. Kulturen 2/2009: 40–47. 
 
 ## Aufsätze in Sammelbänden
-* Groth, Stefan. 2021. „Sprechen als gesellschaftliche Teilhabe. Zur Verknüpfung von Sprache und Citizenship“. In Sprache und Cultural Citizenship, herausgegeben von Stefan Groth, 10–37. Zürich: Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen.   
+* Groth, Stefan. 2021. „Sprechen als gesellschaftliche Teilhabe. Zur Verknüpfung von Sprache und Citizenship“. In Sprache und Cultural Citizenship, herausgegeben von Stefan Groth, 10–37. Zürich: Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen. https://github.com/sgroth/stefangroth.com/raw/master/assets/repository/Groth2021ad.pdf.   
 * Groth, Stefan. 2021. „Kontingente Praxen, Antizipation als Kompetenz“. In Planen, Hoffen, Fürchten: Die Gegenwart der Zukunft im Alltag, herausgegeben von Ruth Dorothea Eggel, Fabio Freiberg, Andrea Graf, Dagmar Hänel, Victoria Huszka, Ove Sutter, und Kerstin Wolff, 13:203–16. Bonner Beiträge zur Alltagskulturforschung. Münster: Waxmann.   
 * Groth, Stefan. 2020. „Work-Life-Balance, Entgrenzung und Orientierungen an der Mitte“. In Vernetzt, entgrenzt, prekär? Kulturwissenschaftliche Perspektiven auf Arbeit im Wandel, herausgegeben von Stefan Groth, Sarah May, und Johannes Müske, 17:205–25. Arbeit und Alltag: Beiträge zur ethnografischen Arbeitskulturenforschung. Campus.   
 * Groth, Stefan, Sarah May, und Johannes Müske. 2020. „Arbeit im Wandel und in gesellschaftlicher Diskussion“. In Vernetzt, entgrenzt, prekär? Kulturwissenschaftliche Perspektiven auf Arbeit im Wandel, herausgegeben von Stefan Groth, Sarah May, und Johannes Müske, 17:9–24. Arbeit und Alltag: Beiträge zur ethnografischen Arbeitskulturenforschung. Campus.   
