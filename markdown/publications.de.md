@@ -2,7 +2,7 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2021-3-9
+Version: 2021-3-10
 
 ## Beiträge im Erscheinen und in Vorbereitung
 * Groth, Stefan. 2021. „Code und Kommunikabilität“. Kuckuck. Notizen zur Alltagskultur. Zur Publikation eingereicht.   
