@@ -2,12 +2,15 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2021-3-10
+Version: 2021-5-25
 
 ## Beiträge im Erscheinen und in Vorbereitung
-* Groth, Stefan. 2021. „Code und Kommunikabilität“. Kuckuck. Notizen zur Alltagskultur. Zur Publikation eingereicht.   
-* Esguerra, Alejandro, Katja Freistein, und Stefan Groth. o. J. „International Organizations and Their Communicative Practices: How the Everyday Helps Us Understand Multilateral Sites and Processes“. Zur Publikation eingereicht.   
-* Groth, Stefan. 2021. „Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen zu normativen Dimensionen des kleinen Wohnens“. Hessische Blätter für Volkskunde. Zur Publikation angenommen für eine Sonderausgabe über Wohnen jenseits der Normen. Historische und aktuelle Perspektive, herausgegeben von Manfred Seifert. 
+* Esguerra, Alejandro, Katja Freistein, und Stefan Groth. o. J. „International Organizations and the Contingent Performativity of Practices“. Journal Article. In Vorbereitung.   
+* Groth, Stefan. o. J. „Truthy and Sticky Stories of Euroscepticism. Narratological Approaches to Plausibility and Communicability in Digital Truth-Making“. In Vorbereitung für eine Special Issue von Ethnologia Europaea zu "Digital Truth-Making", hrsg. von Christoph Bareither, Dennis Eckhardt und Alexander Harder.   
+* Groth, Stefan. o. J. „Selbstoptimierung und Navigational Capacity“. In Optimierung des Selbst, herausgegeben von Loreen Dalski, Kirsten Flöter, Lisa Keil, Kathrin Lohse, Lucas Sand, und Annabelle Schülein. Sammelbandbeitrag. In Vorbereitung.   
+* Groth, Stefan. o. J. „Alltag und Erfahrung“. In Erfahrung. Kulturanalytische Positionen, herausgegeben von Barbara Sieferle und Martina Röthl. In Vorbereitung.   
+* Groth, Stefan. 2021. „Code und kommunikative Kartografien“. Kuckuck. Notizen zur Alltagskultur 2021 (1). Zur Publikation angenommen.   
+* Groth, Stefan. 2021. „Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen zu normativen Dimensionen des kleinen Wohnens“. Hessische Blätter für Volks- und Kulturforschung. Zur Publikation angenommen für eine Sonderausgabe über Wohnen jenseits der Normen. Historische und aktuelle Perspektive, herausgegeben von Manfred Seifert. 
 
 ## Monographien
 * Groth, Stefan. 2012. Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property. Bd. 4. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press. doi:10.4000/books.gup.608. 
