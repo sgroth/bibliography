@@ -6,7 +6,7 @@ Version: 2021-5-25
 
 ## Beiträge im Erscheinen und in Vorbereitung
 * Esguerra, Alejandro, Katja Freistein, und Stefan Groth. o. J. „International Organizations and the Contingent Performativity of Practices“. Journal Article. In Vorbereitung.   
-* Groth, Stefan. o. J. „Truthy and Sticky Stories of Euroscepticism. Narratological Approaches to Plausibility and Communicability in Digital Truth-Making“. In Vorbereitung. Special Issue Ethnologia Europaea Digital Truth-Making, herausgegeben von Christoph Bareither, Dennis Eckhardt, Alexander Harder.   
+* Groth, Stefan. o. J. „Truthy and Sticky Stories of Euroscepticism. Narratological Approaches to Plausibility and Communicability in Digital Truth-Making“. In Vorbereitung. Ethnologia Europaea Special Issue Digital Truth-Making, herausgegeben von Christoph Bareither, Dennis Eckhardt, Alexander Harder.   
 * Groth, Stefan. o. J. „Selbstoptimierung und Navigational Capacity“. In Optimierung des Selbst, herausgegeben von Loreen Dalski, Kirsten Flöter, Lisa Keil, Kathrin Lohse, Lucas Sand, und Annabelle Schülein. In Vorbereitung.   
 * Groth, Stefan. o. J. „Alltag und Erfahrung“. In Erfahrung. Kulturanalytische Positionen, herausgegeben von Barbara Sieferle und Martina Röthl. In Vorbereitung.   
 * Groth, Stefan. 2021. „Code und kommunikative Kartografien“. Kuckuck. Notizen zur Alltagskultur 2021 (1). Zur Publikation angenommen.   
