@@ -47,8 +47,8 @@ Version: 2021-5-25
 * Groth, Stefan. 2020. „Nicht ohne Zynismus – Sind aller guten Dinge wirklich drei?“ UZH Magazin 1: 8.   
 * Groth, Stefan. 2020. „Introduction: Comparison as Social and Cultural Practice“. Herausgegeben von Stefan Groth. Cultural Analysis 18 (1). Special Issue: Comparison as Social and Cultural Practice: 1–4. https://www.ocf.berkeley.edu/ culturalanalysis/volume18_1/vol18_1_Introduction.html.   
 * Groth, Stefan, und Johannes Müske. 2019. „Arbeit 4.0? Kulturwissenschaftliche Perspektiven auf Arbeit im Wandel“. AugenBlick. Konstanzer Hefte zur Medienwissenschaft 73: 11–20.   
-* Groth, Stefan, und Ove Sutter. 2016. „Kulturelle Repräsentationen von Region in der gouvernementalen und kompetitiven Entwicklung ländlicher Räume“. Rheinisch"=Westfälische Zeitschrift für Volkskunde 61: 247–67.   
-* Groth, Stefan. 2016. „EU/Kultur: Zu Flexibilität und Kohärenz des Kulturbegriffes im Rahmen europäischer Kulturpolitik“. Rheinisch"=Westfälische Zeitschrift für Volkskunde 61: 227–46.   
+* Groth, Stefan, und Ove Sutter. 2016. „Kulturelle Repräsentationen von Region in der gouvernementalen und kompetitiven Entwicklung ländlicher Räume“. Rheinisch-Westfälische Zeitschrift für Volkskunde 61: 247–67.   
+* Groth, Stefan. 2016. „EU/Kultur: Zu Flexibilität und Kohärenz des Kulturbegriffes im Rahmen europäischer Kulturpolitik“. Rheinisch-Westfälische Zeitschrift für Volkskunde 61: 227–46.   
 * Groth, Stefan. 2009. „Tradition und Wert: Die Weltorganisation für Geistiges Eigentum, Cultural Property und die Vorzeitigkeit von Tradition“. Kulturen 2/2009: 33–39.   
 * Groth, Stefan. 2009. „Kulturen im Gespräch: Interview mit Valdimar Hafstein“. Kulturen 2/2009: 40–47. 
 
