@@ -1,18 +1,20 @@
-% !TEX TS-program = pdflatexmk
-\documentclass[]{article}
+% !TEX TS-program = pdflatex
+\documentclass[a4paper]{article}
 
 \RequirePackage[l2tabu, orthodox]{nag}
 
-\usepackage[english]{babel} 
+\usepackage[english]{babel}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 
 % Fonts and Typography
 \usepackage[osf]{ebgaramond} % Garamond for rm
-\usepackage[osf]{roboto} % SourceSansPro for ss
+%\usepackage[osf]{roboto} % SourceSansPro for ss
+\usepackage[]{AlegreyaSans}
+%\usepackage{cochineal}
 \usepackage[scaled=0.9]{beramono} % SourceCodePro for tt
 \usepackage{microtype}
-\usepackage[autostyle=true,german=quotes]{csquotes}
+\usepackage[autostyle=true]{csquotes}
 \usepackage[svgnames]{xcolor}
 \usepackage[]{hyperref}
 \renewcommand\UrlFont{\rmfamily}
@@ -21,14 +23,17 @@
   colorlinks=true,
   urlcolor=MediumBlue
 }
-
 \usepackage{sectsty} % Allows changing the font options for sections in a document
-\allsectionsfont{\color{MediumBlue}\normalfont\small\sffamily} 
+\allsectionsfont{\color{MediumBlue}\small\normalfont\sffamily} 
+
 %--------------------
 \clubpenalty = 20000 
 \widowpenalty = 20000 
 \displaywidowpenalty = 20000
 %--------------------
+
+\usepackage{hyphenat}
+\hyphenation{hous-ing em-pi-risch-kul-tur-wis-sen-schaft-lich-en }
 
 % Version Control
 \usepackage{gitfile-info}
@@ -43,7 +48,7 @@
 \lfoot{\textcolor{gray}{{\footnotesize\texttt{Version \gfiGetCommitAbr, \gfiGetYear--\gfiGetMonth--\gfiGetDay, \href{https://github.com/sgroth/bibliography}{https://github.com/sgroth/bibliography}}}}} % adds version control information
 
 % Bibliography
-\usepackage[authordate,notes,backend=biber,isbn=false,annotation,firstinits=false,defernumbers=true,sorting=ydnt]{biblatex-chicago}
+\usepackage[authordate,notes,backend=biber,isbn=false,annotation,giveninits=false,defernumbers=true,sorting=ydnt]{biblatex-chicago}
 \makeatletter
 \AtEveryBibitem{
   \global\undef\bbx@lasthash}
@@ -58,11 +63,12 @@
 % Filter for entries either inpreparation OR notaccepted
 \defbibfilter{vorbereitung}{
   keyword=inpreparation or
-  keyword=notaccepted 
+  keyword=notaccepted or
+  keyword=submitted or
+  keyword=inprint
 }
 
-\addbibresource{sgroth-bibliography.en.bib}
-% \addbibresource{sgroth-unpublished.bib}
+\addbibresource{sgroth-bibliography.bib}
 
 \DeclareFieldFormat{labelnumberwidth}{}
 \setlength{\biblabelsep}{0pt}
@@ -79,17 +85,15 @@
 \nocite{*} % includes all entries from my personal bibliography
 
 % Print segmented bibliographies
-%\printbibliography[keyword=provisional,title={Provisional}] % Section to test provisional entries
-%\printbibliography[filter=papers,notkeyword=five,notkeyword=peerreview,notkeyword=inpreparation,notkeyword=miszelle,notkeyword=notaccepted,title={Aufs\"atze}] % Filter for all papers (not in use)
 \printbibliography[keyword=pre,title={Submitted Publications and Publications in Preparation}] 
-\printbibliography[type=book,notkeyword=vip,notkeyword=submitted,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=miszelle,keyword=monography,title={Monographies}]
-\printbibliography[type=book,notkeyword=vip,notkeyword=miszelle,notkeyword=notaccepted,notkeyword=inpreparation,keyword=editedvolume,title={Edited Volumes}]
-\printbibliography[keyword=specialissue,notkeyword=vip,notkeyword=inpreparation,title={Special Issues}]
-\printbibliography[nottype=periodical,notkeyword=vip,notkeyword=notaccepted,notkeyword=inpreparation,keyword=peerreview,title={Peer Reviewed Papers}]
-\printbibliography[type=article,nottype=periodical,notkeyword=vip,notkeyword=notaccepted,notkeyword=peerreview,title={Journal Articles}]
-\printbibliography[type=incollection,notkeyword=vip,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=miszelle,title={Contributions to Edited Volumes}]
-\printbibliography[keyword=miszelle,notkeyword=vip,notkeyword=inpreparation,title={Miscellany}]
-\printbibliography[type=review,notkeyword=vip,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=miszelle,title={Reviews}]
+\printbibliography[type=book,notkeyword=pre,notkeyword=inprint,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,notkeyword=miszelle,keyword=monography,title={Monographies}]
+\printbibliography[type=book,notkeyword=pre,notkeyword=inprint,notkeyword=miszelle,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,keyword=editedvolume,title={Edited Volumes}]
+\printbibliography[keyword=specialissue,notkeyword=pre,notkeyword=inprint,notkeyword=inpreparation,title={Special Issues}]
+\printbibliography[nottype=periodical,notkeyword=pre,notkeyword=inprint,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,keyword=peerreview,title={Peer Reviewed Papers}]
+\printbibliography[type=article,nottype=periodical,notkeyword=inprint,notkeyword=pre,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=miszelle,notkeyword=submitted,notkeyword=peerreview,title={Journal Articles}]
+\printbibliography[type=incollection,notkeyword=pre,notkeyword=inprint,notkeyword=notaccepted,notkeyword=submitted,notkeyword=inpreparation,notkeyword=miszelle,title={Contributions to Edited Volumes}]
+\printbibliography[keyword=miszelle,notkeyword=pre,notkeyword=inprint,notkeyword=inpreparation,title={Miscellany}]
+\printbibliography[type=review,notkeyword=pre,notkeyword=inprint,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,notkeyword=miszelle,title={Reviews}]
 
 %--------------------
 \input{cv/presentations}
