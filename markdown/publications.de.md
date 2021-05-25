@@ -96,7 +96,7 @@ Version: 2021-5-25
 * Groth, Stefan. 2018. „Rezension von Die Not der Anderen. Kulturwissenschaftliche Perspektiven auf Aushandlungen globaler Armut am Beispiel des Fairen Handels von L. Winterberg“. Rheinisch"=Westfälische Zeitschrift für Volkskunde.   
 * Groth, Stefan. 2017. „Rezension von Humble Theory. Folklore’s Grasp on Social Life von D. Noyes“. Schweizerisches Archiv für Volkskunde.   
 * Groth, Stefan. 2017. „Rezension von UNESCO on the Ground: Local Perspectives on Intangible Cultural Heritage, herausgegeben von M. D. Foster, L. Gilman“. Journal of American Folklore. doi:10.5406/jamerfolk.130.516.0228.   
-* Groth, Stefan. 2016. „Rezension von Fair Trade: Eine global-lokale Geschichte am Beispiel des Kaffees von R. Quaas“. Rheinisch"=Westfälische Zeitschrift für Volkskunde.   
+* Groth, Stefan. 2016. „Rezension von Fair Trade: Eine global-lokale Geschichte am Beispiel des Kaffees von R. Quaas“. Rheinisch-Westfälische Zeitschrift für Volkskunde.   
 * Groth, Stefan. 2015. „Rezension von Reiseziel: immaterielles Kulturerbe. Ein interdisziplinärer Dialog, herausgegeben von M.-A. Camp, S. Eggmann, B. Taufer“. H-Soz-Kult. http://www.hsozkult.de/publicationreview/id/rezbuecher-24131.   
 * Groth, Stefan. 2014. „Rezension von Treasured Possessions: Indigenous Interventions into Cultural and Intellectual Property von H. Geismar“. Journal of Folklore Research Reviews. http://www.indiana.edu/%7Ejfr/review.php?id=1559.   
 * Groth, Stefan, und Arnika Peselmann. 2012. „Rezension von Erb.gut? Kulturelles Erbe zwischen Wissenschaft und Gesellschaft, herausgegeben von K. C. Berger, M. Schindler, I. Schneider“. Österreichische Zeitschrift für Volkskunde.   
