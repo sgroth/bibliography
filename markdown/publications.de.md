@@ -2,14 +2,17 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2021-5-28
+Version: 2021-9-1
 
 ## Beiträge im Erscheinen und in Vorbereitung
+* Groth, Stefan. o. J. „Narrative der Selbstoptimierung: Semiotische Perspektiven“. Zeitschrift für Semiotik. In Vorbereitung für eine Special Issue über Selbstoptimierung.   
+* Groth, Stefan. o. J. „Narrating Time and Other Europes: Discursive Constructions of Temporality in Narratives about Europe by non-European Actors“. Herausgegeben von Anna Weichselbraun und Stefan Groth. Semiotic Review. Special Issue: Temporality. In Vorbereitung.   
+* Weichselbraun, Anna, und Stefan Groth, Hrsg. o. J. „Semiotic Review“. Special Issue: Temporality. Accepted Proposal, in Vorbereitung.   
 * Groth, Stefan. o. J. „Truthy and Sticky Stories of Euroscepticism. Narratological Approaches to Plausibility and Communicability in Digital Truth-Making“. In Vorbereitung. Ethnologia Europaea Special Issue Digital Truth-Making, herausgegeben von Christoph Bareither, Dennis Eckhardt, Alexander Harder.   
 * Groth, Stefan. o. J. „Selbstoptimierung und Navigational Capacity“. In Optimierung des Selbst, herausgegeben von Loreen Dalski, Kirsten Flöter, Lisa Keil, Kathrin Lohse, Lucas Sand, und Annabelle Schülein. In Vorbereitung.   
-* Groth, Stefan. o. J. „Alltag und Erfahrung“. In Erfahrung. Kulturanalytische Positionen, herausgegeben von Barbara Sieferle und Martina Röthl. In Vorbereitung.   
-* Groth, Stefan. 2021. „Code und kommunikative Kartografien“. Kuckuck. Notizen zur Alltagskultur 2021 (1). Zur Publikation angenommen.   
-* Groth, Stefan. 2021. „Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen zu normativen Dimensionen des kleinen Wohnens“. Hessische Blätter für Volks- und Kulturforschung. Zur Publikation angenommen, Special Issue Wohnen jenseits der Normen. Historische und aktuelle Perspektive, herausgegeben von Manfred Seifert. 
+* Groth, Stefan. o. J. „Alltag und Erfahrung“. In Erfahrung. Kulturanalytische Positionen, herausgegeben von Barbara Sieferle und Martina Röthl. Münster: Waxmann. In Vorbereitung.   
+* Groth, Stefan. 2021. „Rezension von Humanisierung der Arbeit. Aufbrüche und Konflikte in der rationalisierten Arbeitswelt des 20. Jahrhunderts, herausgegeben von N. Kleinöder, S. Müller und K. Uhl“. Zeitschrift für Volkskunde. Zur Publikation eingereicht.   
+* Groth, Stefan. 2021. „Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen zu normativen Dimensionen des kleinen Wohnens“. Hessische Blätter für Volks- und Kulturforschung. Im Druck. Special Issue Wohnen jenseits der Normen. Historische und aktuelle Perspektive, herausgegeben von Manfred Seifert. 
 
 ## Monographien
 * Groth, Stefan. 2012. Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property. Bd. 4. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press. doi:10.4000/books.gup.608. 
@@ -23,6 +26,7 @@ Version: 2021-5-28
 * Bendix, Regina F., Kilian Bizer, und Stefan Groth, Hrsg. 2010. Die Konstituierung von Cultural Property: Forschungsperspektiven. Bd. 1. Göttingen Studies in Cultural Property. Göttingen: Universitätsverlag Göttingen. doi:10.4000/books.gup.488. Peer reviewed. 
 
 ## Sondernummern von Zeitschriften
+* Weichselbraun, Anna, und Stefan Groth, Hrsg. o. J. „Semiotic Review“. Special Issue: Temporality. Accepted Proposal, in Vorbereitung.   
 * Groth, Stefan, Hrsg. 2020. „Cultural Analysis“. Special Issue: Comparison as Social and Cultural Practice. https://www.ocf.berkeley.edu/ culturalanalysis/volume18_1/vol18_1_toc.html. Peer Reviewed.   
 * Groth, Stefan, Hrsg. 2019. „Narrative Culture“. Special Issue: Political Narratives / Narrations of the Political. Peer Reviewed. 
 
@@ -41,6 +45,7 @@ Version: 2021-5-28
 * Groth, Stefan. 2011. „Perspectives of Differentiation: Negotiating Traditional Knowledge on the International Level“. Journal of Ethnology and Folkloristics 4 (1): 7–24. http://www.jef.ee/index.php/journal/article/view/1. Peer reviewed. 
 
 ## Zeitschriftenaufsätze
+* Groth, Stefan. 2021. „Code und kommunikative Kartografien“. Kuckuck. Notizen zur Alltagskultur 2021 (1): 38–41.   
 * Groth, Stefan. 2020. „Technical Discourse and Normative Affirmations: Implicit Justice Claims in Multilateral Negotiations“. Global Cooperation Quarterly 1: 13–14.   
 * Groth, Stefan. 2020. „Mitte und Mittelmass: Zwischen privilegierter Gleichheit und kompetitiver Differenz“. SAGW-Bulletin 1. Special Issue Ungleichheit – Inégalité: 45–47. doi:10.5281/zenodo.3716156.   
 * Groth, Stefan. 2020. „Nicht ohne Zynismus – Sind aller guten Dinge wirklich drei?“ UZH Magazin 1: 8.   
@@ -84,6 +89,7 @@ Version: 2021-5-28
 * Groth, Stefan. 2009. „Kulturen im Gespräch: Interview mit Valdimar Hafstein“. Kulturen 2/2009: 40–47. 
 
 ## Rezensionen
+* Groth, Stefan. 2021. „Rezension von Humanisierung der Arbeit. Aufbrüche und Konflikte in der rationalisierten Arbeitswelt des 20. Jahrhunderts, herausgegeben von N. Kleinöder, S. Müller und K. Uhl“. Zeitschrift für Volkskunde. Zur Publikation eingereicht.   
 * Groth, Stefan. 2020. „Rezension von Im Dorf vor der Stadt: Die Baugenossenschaft Neubühl, 1929–2000, von E. La Roche“. Schweizerisches Archiv für Volkskunde.   
 * Groth, Stefan. 2020. „Rezension von Curated Stories: The Uses and Abuses of Storytelling, von S. Fernandes“. Fabula: Zeitschrift für Erzählforschung. doi:10.1515/fabula-2020-0019.   
 * Groth, Stefan. 2020. „Rezension von Die professionelle Praxis der Ausbilder. Eine kulturanthropologische Analyse, von A. Bahl“. Bayerisches Jahrbuch für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. https://www.kbl.badw.de/kbl-digital/rezensionsportal/aktuelle-rezensionen/ansicht/detail/4979.html.   
