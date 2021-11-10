@@ -2,7 +2,7 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2021-9-1
+Version: 2021-11-10
 
 ## Beiträge im Erscheinen und in Vorbereitung
 * Groth, Stefan. o. J. „Narrative der Selbstoptimierung: Semiotische Perspektiven“. Zeitschrift für Semiotik. In Vorbereitung für eine Special Issue über Selbstoptimierung.   
@@ -10,8 +10,8 @@ Version: 2021-9-1
 * Weichselbraun, Anna, und Stefan Groth, Hrsg. o. J. „Semiotic Review“. Special Issue: Temporality. Accepted Proposal, in Vorbereitung.   
 * Groth, Stefan. o. J. „Truthy and Sticky Stories of Euroscepticism. Narratological Approaches to Plausibility and Communicability in Digital Truth-Making“. In Vorbereitung. Ethnologia Europaea Special Issue Digital Truth-Making, herausgegeben von Christoph Bareither, Dennis Eckhardt, Alexander Harder.   
 * Groth, Stefan. o. J. „Selbstoptimierung und Navigational Capacity“. In Optimierung des Selbst, herausgegeben von Loreen Dalski, Kirsten Flöter, Lisa Keil, Kathrin Lohse, Lucas Sand, und Annabelle Schülein. In Vorbereitung.   
-* Groth, Stefan. o. J. „Alltag und Erfahrung“. In Erfahrung. Kulturanalytische Positionen, herausgegeben von Barbara Sieferle und Martina Röthl. Münster: Waxmann. In Vorbereitung.   
-* Groth, Stefan. 2021. „Rezension von Humanisierung der Arbeit. Aufbrüche und Konflikte in der rationalisierten Arbeitswelt des 20. Jahrhunderts, herausgegeben von N. Kleinöder, S. Müller und K. Uhl“. Zeitschrift für Volkskunde. Zur Publikation eingereicht.   
+* Groth, Stefan. o. J. „Alltag und Erfahrung“. In Erfahrung. Kulturanalytische Positionen, herausgegeben von Barbara Sieferle und Martina Röthl. Münster: Waxmann. Zur Publikation eingereicht.   
+* Groth, Stefan. 2021. „Rezension von Humanisierung der Arbeit. Aufbrüche und Konflikte in der rationalisierten Arbeitswelt des 20. Jahrhunderts, herausgegeben von N. Kleinöder, S. Müller und K. Uhl“. Zeitschrift für Volkskunde. Zur Publikation angenommen.   
 * Groth, Stefan. 2021. „Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen zu normativen Dimensionen des kleinen Wohnens“. Hessische Blätter für Volks- und Kulturforschung. Im Druck. Special Issue Wohnen jenseits der Normen. Historische und aktuelle Perspektive, herausgegeben von Manfred Seifert. 
 
 ## Monographien
@@ -89,7 +89,7 @@ Version: 2021-9-1
 * Groth, Stefan. 2009. „Kulturen im Gespräch: Interview mit Valdimar Hafstein“. Kulturen 2/2009: 40–47. 
 
 ## Rezensionen
-* Groth, Stefan. 2021. „Rezension von Humanisierung der Arbeit. Aufbrüche und Konflikte in der rationalisierten Arbeitswelt des 20. Jahrhunderts, herausgegeben von N. Kleinöder, S. Müller und K. Uhl“. Zeitschrift für Volkskunde. Zur Publikation eingereicht.   
+* Groth, Stefan. 2021. „Rezension von Humanisierung der Arbeit. Aufbrüche und Konflikte in der rationalisierten Arbeitswelt des 20. Jahrhunderts, herausgegeben von N. Kleinöder, S. Müller und K. Uhl“. Zeitschrift für Volkskunde. Zur Publikation angenommen.   
 * Groth, Stefan. 2020. „Rezension von Im Dorf vor der Stadt: Die Baugenossenschaft Neubühl, 1929–2000, von E. La Roche“. Schweizerisches Archiv für Volkskunde.   
 * Groth, Stefan. 2020. „Rezension von Curated Stories: The Uses and Abuses of Storytelling, von S. Fernandes“. Fabula: Zeitschrift für Erzählforschung. doi:10.1515/fabula-2020-0019.   
 * Groth, Stefan. 2020. „Rezension von Die professionelle Praxis der Ausbilder. Eine kulturanthropologische Analyse, von A. Bahl“. Bayerisches Jahrbuch für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. https://www.kbl.badw.de/kbl-digital/rezensionsportal/aktuelle-rezensionen/ansicht/detail/4979.html.   
