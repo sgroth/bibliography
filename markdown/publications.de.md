@@ -2,17 +2,12 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2021-11-29
+Version: 2021-12-1
 
 ## Beiträge im Erscheinen und in Vorbereitung
-* Groth, Stefan, Sarah May, und Johannes Müske, Hrsg. 2022. Morality as Organizational Practice. In Vorbereitung.   
-* Groth, Stefan. o. J. „Mainstreaming Heritages: Diversity and Abstract Heritage Values as Strategic Resources in EU External Relations“. In Vorbereitung für eine Special Issue des Journal of Cultural Policy.   
-* Groth, Stefan. o. J. „Narrative der Selbstoptimierung: Semiotische Perspektiven“. Zeitschrift für Semiotik. In Vorbereitung für eine Special Issue über Selbstoptimierung.   
-* Groth, Stefan. o. J. „Narrating Time and Other Europes: Discursive Constructions of Temporality in Narratives about Europe by non-European Actors“. Herausgegeben von Anna Weichselbraun und Stefan Groth. Semiotic Review. Special Issue: Temporality. In Vorbereitung.   
-* Groth, Stefan. o. J. „Truthy and Sticky Stories of Euroscepticism. Narratological Approaches to Plausibility and Communicabilty in Digital Truth-Making“. In Vorbereitung. Ethnologia Europaea Special Issue Digital Truth-Making, herausgegeben von Christoph Bareither, Dennis Eckhardt, Alexander Harder.   
-* Groth, Stefan. o. J. „Selbstoptimierung und Navigational Capacity“. In Optimierung des Selbst, herausgegeben von Loreen Dalski, Kirsten Flöter, Lisa Keil, Kathrin Lohse, Lucas Sand, und Annabelle Schülein. In Vorbereitung.   
-* Groth, Stefan. o. J. „Alltag und Erfahrung“. In Erfahrung. Kulturanalytische Positionen, herausgegeben von Barbara Sieferle und Martina Röthl. Münster: Waxmann. Zur Publikation eingereicht.   
-* Groth, Stefan. 2021. „Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen zu normativen Dimensionen des kleinen Wohnens“. Hessische Blätter für Volks- und Kulturforschung. Im Druck. Special Issue Wohnen jenseits der Normen. Historische und aktuelle Perspektive, herausgegeben von Manfred Seifert. 
+* Groth, Stefan. o. J. „Truthy and Sticky Stories of Euroscepticism. Narratological Approaches to Plausibility and Communicabilty in Digital Truth-Making“. Journal Article. In Vorbereitung.   
+* Groth, Stefan. o. J. „Alltag und Erfahrung“. In Erfahrung. Kulturanalytische Positionen, herausgegeben von Barbara Sieferle und Martina Röthl. Zur Publikation angenommen.   
+* Groth, Stefan. 2022. „Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen zu normativen Dimensionen des kleinen Wohnens“. In Wohnen jenseits der Normen, herausgegeben von Manfred Seifert und Thomas Schindler. Bd. 56. Hessische Blätter für Volks- und Kulturforschung. Marburg: Jonas Verlag. Im Druck. 
 
 ## Monographien
 * Groth, Stefan. 2012. Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property. Bd. 4. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press. doi:10.4000/books.gup.608. 
