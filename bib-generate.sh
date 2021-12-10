@@ -20,11 +20,13 @@ chmod 777 markdown
 
 # create markdown version
 ruby publications.rb
+ruby publications.en.rb
 
-cp publications.de.md publications.en.md
-sed -i '' -e 's/Zur[[:space:]]Publikation[[:space:]]eingereicht/Submitted for publication/g; s/In[[:space:]]Vorbereitung/In preparation/g; s/Rezension[[:space:]]von/Review of/g; s/herausgegeben[[:space:]]von/edited by/g; s/} von/} by/g; s/Im[[:space:]]Druck/In print/g; s/Sondernummer/special issue/g; s/Zur[[:space:]]Publikation[[:space:]]angenommen/Accepted for publication/g' publications.en.md
+#cp publications.de.md publications.en.md
+# sed -i '' -e 's/Zur[[:space:]]Publikation[[:space:]]eingereicht/Submitted for publication/g; s/In[[:space:]]Vorbereitung/In preparation/g; s/Rezension[[:space:]]von/Review of/g; s/herausgegeben[[:space:]]von/edited by/g; s/} von/} by/g; s/Im[[:space:]]Druck/In print/g; s/Sondernummer/special issue/g; s/Zur[[:space:]]Publikation[[:space:]]angenommen/Accepted for publication/g' publications.en.md
 
 mv publications.de.md markdown/
+mv publications.en.md markdown/
 
 # create en.bib and replace strings
 # cp sgroth-bibliography.bib sgroth-bibliography.en.bib
@@ -38,8 +40,8 @@ latexmk -pdf publications.en.tex
 # delete en.bib
 # rm sgroth-bibliography.en.bib
 # delete markdown files
-rm publications.de.markdown
 rm publications.de.md
+rm publications.en.md
 # move pdf to subdirectory
 mv publications.de.pdf pdf/
 mv publications.en.pdf pdf/
