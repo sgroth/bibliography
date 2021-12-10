@@ -2,12 +2,13 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2021-12-1
+Version: 2021-12-10
 
 ## Beiträge im Erscheinen und in Vorbereitung
-* Groth, Stefan. o. J. „Truthy and Sticky Stories of Euroscepticism. Narratological Approaches to Plausibility and Communicabilty in Digital Truth-Making“. Journal Article. In Vorbereitung.   
-* Groth, Stefan. o. J. „Alltag und Erfahrung“. In Erfahrung. Kulturanalytische Positionen, herausgegeben von Barbara Sieferle und Martina Röthl. Zur Publikation angenommen.   
-* Groth, Stefan. 2022. „Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen zu normativen Dimensionen des kleinen Wohnens“. In Wohnen jenseits der Normen, herausgegeben von Manfred Seifert und Thomas Schindler. Bd. 56. Hessische Blätter für Volks- und Kulturforschung. Marburg: Jonas Verlag. Im Druck. 
+* Groth, Stefan. 2022. „Rezension von Ausgrenzungsapparat Schule: Wie unser Bildungssystem soziale Spaltungen verschärft von S. Wellgraf“. Bayerisches Jahrbuch für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. Submitted for publication.   
+* Groth, Stefan. o. J. „Truthy and Sticky Stories of Euroscepticism. Narratological Approaches to Plausibility and Communicabilty in Digital Truth-Making“. Journal Article. Submitted for publication.   
+* Groth, Stefan. o. J. „Alltag und Erfahrung“. In Erfahrung. Kulturanalytische Positionen, herausgegeben von Barbara Sieferle und Martina Röthl. Accepted for publication.   
+* Groth, Stefan. 2022. „Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen zu normativen Dimensionen des kleinen Wohnens“. In Wohnen jenseits der Normen, herausgegeben von Manfred Seifert und Thomas Schindler. Bd. 56. Hessische Blätter für Volks- und Kulturforschung. Marburg: Jonas Verlag. In print. 
 
 ## Monographien
 * Groth, Stefan. 2012. Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property. Bd. 4. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press. doi:10.4000/books.gup.608. 
@@ -83,6 +84,7 @@ Version: 2021-12-1
 * Groth, Stefan. 2009. „Kulturen im Gespräch: Interview mit Valdimar Hafstein“. Kulturen 2/2009: 40–47. 
 
 ## Rezensionen
+* Groth, Stefan. 2022. „Rezension von Ausgrenzungsapparat Schule: Wie unser Bildungssystem soziale Spaltungen verschärft von S. Wellgraf“. Bayerisches Jahrbuch für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. Submitted for publication.   
 * Groth, Stefan. 2021. „Rezension von Humanisierung der Arbeit. Aufbrüche und Konflikte in der rationalisierten Arbeitswelt des 20. Jahrhunderts, herausgegeben von N. Kleinöder, S. Müller und K. Uhl“. Zeitschrift für Volkskunde.   
 * Groth, Stefan. 2020. „Rezension von Im Dorf vor der Stadt: Die Baugenossenschaft Neubühl, 1929–2000, von E. La Roche“. Schweizerisches Archiv für Volkskunde.   
 * Groth, Stefan. 2020. „Rezension von Curated Stories: The Uses and Abuses of Storytelling, von S. Fernandes“. Fabula: Zeitschrift für Erzählforschung. doi:10.1515/fabula-2020-0019.   
