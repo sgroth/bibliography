@@ -33,7 +33,7 @@
 %--------------------
 
 \usepackage{hyphenat}
-\hyphenation{hous-ing em-pi-risch-kul-tur-wis-sen-schaft-lich-en }
+%\hyphenation{hous-ing em-pi-risch-kul-tur-wis-sen-schaft-lich-en }
 
 % Version Control
 \usepackage{gitfile-info}
@@ -46,19 +46,25 @@
 \fancyfoot{}
 \rfoot{\thepage}
 \lfoot{\textcolor{gray}{{\footnotesize\texttt{Version \gfiGetCommitAbr, \gfiGetYear--\gfiGetMonth--\gfiGetDay, \href{https://github.com/sgroth/bibliography}{https://github.com/sgroth/bibliography}}}}} % adds version control information
-
+%bibannotesep=\addperiod\addspace
 % Bibliography
-\usepackage[authordate,notes,backend=biber,isbn=false,annotation,giveninits=false,defernumbers=true,sorting=ydnt]{biblatex-chicago}
+\usepackage[authordate,notes,backend=biber,isbn=false,annotation=bib,doi=only,url=false,bibannotesep=period,giveninits=false,defernumbers=true,sorting=ydnt]{biblatex-chicago}
 \makeatletter
 \AtEveryBibitem{
   \global\undef\bbx@lasthash}
 \makeatother
 
+\DeclareFieldFormat{doi}{
+  \mkbibacro{DOI}\addcolon\space
+  \ifhyperref
+    {\href{https://doi.org/#1}{\nolinkurl{#1}}}
+    {\nolinkurl{#1}}}
+
 % Filter for papers both in journals and edited volumes
-\defbibfilter{papers}{
-  type=article or
-  type=incollection
-}
+%\defbibfilter{papers}{
+%  type=article or
+%  type=incollection
+%}
 
 % Filter for entries either inpreparation OR notaccepted
 \defbibfilter{vorbereitung}{
