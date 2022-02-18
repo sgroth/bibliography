@@ -2,13 +2,16 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2021-12-10
+Version: 2022-2-18
 
 ## Submitted Publications and Publications in Preparation
+* Groth, Stefan. n.d. “Populäre Narrative Des Politischen: Europaskeptizismus Aus Sicht Der Empirischen Kulturwissenschaft.” Journal Article. In preparation.   
+* Groth, Stefan. n.d. “Selbstoptimierung Und Navigational Capacity.” In Optimierung Des Selbst, edited by Loreen Dalski, Kirsten Flöter, Lisa Keil, Kathrin Lohse, Lucas Sand, and Annabelle Schülein. Submitted for publication.   
+* Groth, Stefan. 2022. “Review of Digitale Arbeitskulturen. Rahmungen, Effekte, Herausforderungen Hrsg. Von D. Eckhardt Et Al.” Bayerisches Jahrbuch Für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. Submitted for publication.   
 * Groth, Stefan. 2022. “Review of Ausgrenzungsapparat Schule: Wie Unser Bildungssystem Soziale Spaltungen Verschärft Von S. Wellgraf.” Bayerisches Jahrbuch Für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. Submitted for publication.   
 * Groth, Stefan. n.d. “Truthy and Sticky Stories of Euroscepticism. Narratological Approaches to Plausibility and Communicabilty in Digital Truth-Making.” Journal Article. Submitted for publication.   
 * Groth, Stefan. n.d. “Alltag Und Erfahrung.” In Erfahrung. Kulturanalytische Positionen, edited by Barbara Sieferle and Martina Röthl. Accepted for publication.   
-* Groth, Stefan. 2022. “Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen Zu Normativen Dimensionen Des Kleinen Wohnens.” In Wohnen Jenseits Der Normen, edited by Manfred Seifert and Thomas Schindler. Vol. 56. Hessische Blätter Für Volks- Und Kulturforschung. Marburg: Jonas Verlag. In print. 
+* Groth, Stefan. 2021. “Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen Zu Normativen Dimensionen Des Kleinen Wohnens.” In Wohnen Jenseits Der Normen, edited by Manfred Seifert and Thomas Schindler, 56:73–87. Hessische Blätter Für Volks- Und Kulturforschung. Marburg: Jonas Verlag. In print. 
 
 ## Monographs
 * Groth, Stefan. 2012. Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property. Vol. 4. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press. doi:10.4000/books.gup.608. 
@@ -32,7 +35,7 @@ Version: 2021-12-10
 * Groth, Stefan. 2019. “Vergleiche Als Antizipierende Und Relationale Praxis.” Zeitschrift Für Volkskunde 115 (2): 238–59. Peer Reviewed.   
 * Groth, Stefan. 2020. “Implicit Ethics: Normative Claims to Culture in Multilateral Negotiations.” Journal of Linguistic Anthropology 30 (2): 179–95. doi:10.1111/jola.12258. Peer Reviewed. Zuerst online publiziert am 01.12.2019.   
 * Groth, Stefan. 2019. “Political Narratives / Narrations of the Political. An Introduction.” Edited by Stefan Groth. Narrative Culture 6 (1). Special Issue: Political Narratives / Narrations of the Political: 1–18. doi:10.13110/narrcult.6.1.0001. Peer Reviewed.   
-* Groth, Stefan. 2018. “Entstehungskontext, Materialität Und Sprachspezifik. Elemente Einer Empirisch’=Kulturwissenschaftlichen Quellenkritik Von Dokumenten in Politischen Prozessen.” Schweizerisches Archiv Für Volkskunde 114 (1): 57–75. https://www.e-periodica.ch/digbib/view?pid=sav-001:2018:114#62. Peer reviewed.   
+* Groth, Stefan. 2018. “Entstehungskontext, Materialität Und Sprachspezifik. Elemente Einer Empirisch-Kulturwissenschaftlichen Quellenkritik Von Dokumenten in Politischen Prozessen.” Schweizerisches Archiv Für Volkskunde 114 (1): 57–75. https://www.e-periodica.ch/digbib/view?pid=sav-001:2018:114#62. Peer reviewed.   
 * Groth, Stefan. 2018. “Einfache Formen, Komplexe Prozesse. Sprichwörter Und Redewendungen in Multilateralen Verhandlungen.” Edited by Silke Meyer. Fabula: Zeitschrift Für Erzählforschung 59 (1-2). Special Issue: Narrationsanalyse: 27–49. doi:10.1515/fabula-2018-0003. Peer reviewed.   
 * Groth, Stefan, and Yonca Krahn. 2017. “Sensing Athletes: Sensory Dimensions of Recreational Endurance Sports.” Journal of Ethnology and Folkloristics 11 (2): 3–23. doi:10.1515/jef-2017-0011. Peer reviewed.   
 * Groth, Stefan. 2015. “Common Ground and Missing Links: German Volkskunde and Language.” AJEC: Anthropological Journal of European Cultures 24 (1): 24–41. doi:10.3167/ajec.2015.240103. Peer reviewed.   
@@ -84,8 +87,9 @@ Version: 2021-12-10
 * Groth, Stefan. 2009. “Kulturen Im Gespräch: Interview Mit Valdimar Hafstein.” Kulturen 2/2009: 40–47. 
 
 ## Reviews
+* Groth, Stefan. 2022. “Review of Digitale Arbeitskulturen. Rahmungen, Effekte, Herausforderungen Hrsg. Von D. Eckhardt Et Al.” Bayerisches Jahrbuch Für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. Submitted for publication.   
 * Groth, Stefan. 2022. “Review of Ausgrenzungsapparat Schule: Wie Unser Bildungssystem Soziale Spaltungen Verschärft Von S. Wellgraf.” Bayerisches Jahrbuch Für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. Submitted for publication.   
-* Groth, Stefan. 2021. “Review of Humanisierung Der Arbeit. Aufbrüche Und Konflikte in Der Rationalisierten Arbeitswelt Des 20. Jahrhunderts, Edited by N. Kleinöder, S. Müller Und K. Uhl.” Zeitschrift Für Volkskunde.   
+* Groth, Stefan. 2021. “Review of Humanisierung Der Arbeit. Aufbrüche Und Konflikte in Der Rationalisierten Arbeitswelt Des 20. Jahrhunderts, Edited by N. Kleinöder, S. Müller Und K. Uhl.” Zeitschrift Für Volkskunde. doi:10.31244/zfvk/2021/02.28.   
 * Groth, Stefan. 2020. “Review of Im Dorf Vor Der Stadt: Die Baugenossenschaft Neubühl, 1929–2000, Von E. La Roche.” Schweizerisches Archiv Für Volkskunde.   
 * Groth, Stefan. 2020. “Review of Curated Stories: The Uses and Abuses of Storytelling, Von S. Fernandes.” Fabula: Zeitschrift Für Erzählforschung. doi:10.1515/fabula-2020-0019.   
 * Groth, Stefan. 2020. “Review of Die Professionelle Praxis Der Ausbilder. Eine Kulturanthropologische Analyse, Von A. Bahl.” Bayerisches Jahrbuch Für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. https://www.kbl.badw.de/kbl-digital/rezensionsportal/aktuelle-rezensionen/ansicht/detail/4979.html.   
