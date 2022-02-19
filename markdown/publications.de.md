@@ -2,7 +2,7 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2022-2-18
+Version: 2022-2-19
 
 ## Beiträge im Erscheinen und in Vorbereitung
 * Groth, Stefan, Sarah May, und Johannes Müske, Hrsg. 2022. Morality as Organizational Practice. (Tagungsband 19. Kommissionstagung Arbeitskulturen). Freiburger Studien zur Kulturanthropologie. Münster: Waxmann. In preparation.   
@@ -11,7 +11,7 @@ Version: 2022-2-18
 * Groth, Stefan. 2022. „Selbstoptimierung und Navigational Capacity“. In Optimierung des Selbst, herausgegeben von Loreen Dalski, Kirsten Flöter, Lisa Keil, Kathrin Lohse, Lucas Sand, und Annabelle Schülein. Bielefeld: transcript. Submitted for publication.   
 * Groth, Stefan. 2022. „Rezension von Digitale Arbeitskulturen. Rahmungen, Effekte, Herausforderungen hrsg. von D. Eckhardt et al“. Bayerisches Jahrbuch für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. Submitted for publication.   
 * Groth, Stefan. 2022. „Rezension von Ausgrenzungsapparat Schule: Wie unser Bildungssystem soziale Spaltungen verschärft von S. Wellgraf“. Bayerisches Jahrbuch für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. Submitted for publication.   
-* Groth, Stefan. 2023. „Truthy and Sticky Stories of Euroscepticism. Narratological Approaches to Plausibility and Communicabilty in Digital Truth-Making“. Journal Article. In preparation.   
+* Groth, Stefan. 2023. „Truthy and Sticky Stories of Euroscepticism. Narratological Approaches to Plausibility and Communicabilty in Digital Truth-Making“. Journal Article. Submitted for publication.   
 * Groth, Stefan. o. J. „Alltag und Erfahrung“. In Erfahrung. Kulturanalytische Positionen, herausgegeben von Barbara Sieferle und Martina Röthl. Accepted for publication.   
 * Groth, Stefan. 2021. „Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen zu normativen Dimensionen des kleinen Wohnens“. In Wohnen jenseits der Normen, herausgegeben von Manfred Seifert und Thomas Schindler, 56:73–87. Hessische Blätter für Volks- und Kulturforschung. Marburg: Jonas Verlag. In print. 
 

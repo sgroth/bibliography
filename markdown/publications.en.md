@@ -2,10 +2,12 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2022-2-18
+Version: 2022-2-19
 
 ## Submitted Publications and Publications in Preparation
+* Groth, Stefan, Sarah May, and Johannes Müske, eds. 2022. Morality as Organizational Practice. (Tagungsband 19. Kommissionstagung Arbeitskulturen). Freiburger Studien Zur Kulturanthropologie. Münster: Waxmann. In preparation.   
 * Groth, Stefan. n.d. “Populäre Narrative Des Politischen: Europaskeptizismus Aus Sicht Der Empirischen Kulturwissenschaft.” Journal Article. In preparation.   
+* Groth, Stefan. 2023. “Kontext Und Politisches Erzählen.” In Politisches Erzählen. Tagungsband 11. Tagung Der Kommission Für Erzählforschung Innerhalb Der Deutschen Gesellschaft Für Volkskunde, edited by Sabine Wienker-Piepho. Vol. 4. Freiburger Studien Zur Kulturanthropologie. Waxmann. Submitted for publication.   
 * Groth, Stefan. n.d. “Selbstoptimierung Und Navigational Capacity.” In Optimierung Des Selbst, edited by Loreen Dalski, Kirsten Flöter, Lisa Keil, Kathrin Lohse, Lucas Sand, and Annabelle Schülein. Submitted for publication.   
 * Groth, Stefan. 2022. “Review of Digitale Arbeitskulturen. Rahmungen, Effekte, Herausforderungen Hrsg. Von D. Eckhardt Et Al.” Bayerisches Jahrbuch Für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. Submitted for publication.   
 * Groth, Stefan. 2022. “Review of Ausgrenzungsapparat Schule: Wie Unser Bildungssystem Soziale Spaltungen Verschärft Von S. Wellgraf.” Bayerisches Jahrbuch Für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. Submitted for publication.   
