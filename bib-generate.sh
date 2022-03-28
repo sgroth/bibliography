@@ -7,7 +7,7 @@ git commit -m "updated bib data"
 # sync with git
 git push origin master
 # get vc info (pythonw)
-pythonw gfi-run.py
+python3 gfi-run.py
 # delete contents of pdf and markdown
 rm -rf markdown
 rm -rf pdf
