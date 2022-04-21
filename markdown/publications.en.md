@@ -2,21 +2,21 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2022-3-29
+Version: 2022-4-21
 
 ## Submitted Publications and Publications in Preparation
 * Groth, Stefan. n.d. “Promise as Contingent and Anticipatory Practice.” In Versprechen Als Kulturelle Konfigurationen in Politischen Kontexten, edited by Cornelia Eisler and Katharina Schuchardt. ISGV Digital. Studien Zur Landesgeschichte Und Kulturanthropologie. Dresden: Institut für Sächsische Geschichte und Volkskunde. In preparation.   
 * Groth, Stefan. n.d. “Mainstreaming Heritages: Diversity and Abstract Heritage Values as Strategic Resources in EU External Relations.” Journal Article. In preparation for a Special Issue.   
-* May, Sarah, Johannes Müske, and Stefan Groth, eds. n.d. Morality as Organizational Practice. (Tagungsband 19. Kommissionstagung Arbeitskulturen). Freiburger Studien Zur Kulturanthropologie. Münster: Waxmann. In preparation.   
+* Groth, Stefan, Sarah May, and Johannes Müske. n.d. “Morality as Organizational Practice: Themes, Methods, Approaches.” In Morality as Organizational Practice (= Tagungsband 19. Kommissionstagung Arbeitskulturen), edited by Sarah May, Johannes Müske, and Stefan Groth. Freiburger Studien Zur Kulturanthropologie. Münster: Waxmann. In preparation.   
+* May, Sarah, Johannes Müske, and Stefan Groth, eds. n.d. Morality as Organizational Practice (Tagungsband 19. Kommissionstagung Arbeitskulturen). Freiburger Studien Zur Kulturanthropologie. Münster: Waxmann. In preparation.   
 * Groth, Stefan. n.d. “Populäre Narrative Des Politischen: Europaskeptizismus Aus Sicht Der Empirischen Kulturwissenschaft.” Journal Article. In preparation.   
 * Groth, Stefan. n.d. “Kontext Und Politisches Erzählen.” In Politisches Erzählen. Tagungsband 11. Tagung Der Kommission Für Erzählforschung Innerhalb Der Deutschen Gesellschaft Für Volkskunde, edited by Sabine Wienker-Piepho. Vol. 4. Freiburger Studien Zur Kulturanthropologie. Waxmann. Submitted for publication.   
 * Groth, Stefan. n.d. “‘Truthy’ and ‘Sticky’ Stories of Euroscepticism. Narratological Approaches to Appropriateness in Digital Contexts.” Journal Article. Submitted for publication.   
-* Groth, Stefan. n.d. “Review Digitale Arbeitskulturen. Rahmungen, Effekte, Herausforderungen Ed. by D. Eckhardt Et Al.” Bayerisches Jahrbuch Für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. Accepted for publication.   
-* Groth, Stefan. n.d. “Review Ausgrenzungsapparat Schule: Wie Unser Bildungssystem Soziale Spaltungen Verschärft by S. Wellgraf.” Bayerisches Jahrbuch Für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. Accepted for publication.   
-* Groth, Stefan. n.d. “Review Fixing and Circulating the Popular Ed. by J. Müske Et Al.” Österreichische Zeitschrift Für Volkskunde. Accepted for publication.   
-* Groth, Stefan. n.d. “Selbstoptimierung Und Navigational Capacity.” In Optimierung Des Selbst, edited by Loreen Dalski, Kirsten Flöter, Lisa Keil, Kathrin Lohse, Lucas Sand, and Annabelle Schülein. Bielefeld: transcript. Accepted for publication.   
 * Groth, Stefan. n.d. “Alltag Und Erfahrung.” In Erfahrung. Kulturanalytische Positionen, edited by Barbara Sieferle and Martina Röthl. Accepted for publication.   
-* Groth, Stefan. 2021. “Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen Zu Normativen Dimensionen Des Kleinen Wohnens.” In Wohnen Jenseits Der Normen, edited by Manfred Seifert and Thomas Schindler, 56:73–87. Hessische Blätter Für Volks- Und Kulturforschung. Marburg: Jonas Verlag. In print. 
+* Groth, Stefan. 2022. “Selbstoptimierung Und Navigational Capacity.” In Optimierung Des Selbst, edited by Loreen Dalski, Kirsten Flöter, Lisa Keil, Kathrin Lohse, Lucas Sand, and Annabelle Schülein. Bielefeld: transcript. In print.   
+* Groth, Stefan. 2022. “Review Digitale Arbeitskulturen. Rahmungen, Effekte, Herausforderungen Ed. by D. Eckhardt Et Al.” Bayerisches Jahrbuch Für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. Accepted for publication.   
+* Groth, Stefan. 2022. “Review Ausgrenzungsapparat Schule: Wie Unser Bildungssystem Soziale Spaltungen Verschärft by S. Wellgraf.” Bayerisches Jahrbuch Für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. Accepted for publication.   
+* Groth, Stefan. 2022. “Review Fixing and Circulating the Popular Ed. by J. Müske Et Al.” Österreichische Zeitschrift Für Volkskunde. Accepted for publication. 
 
 ## Monographs
 * Groth, Stefan. 2012. Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property. Vol. 4. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press. doi:10.4000/books.gup.608. 
@@ -60,6 +60,7 @@ Version: 2022-3-29
 * Groth, Stefan. 2009. “Kulturen Im Gespräch: Interview Mit Valdimar Hafstein.” Kulturen 2/2009: 40–47. 
 
 ## Contributions to Edited Volumes
+* Groth, Stefan. 2021. “Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen Zu Normativen Dimensionen Des Kleinen Wohnens.” In Wohnen Jenseits Der Normen, edited by Manfred Seifert and Thomas Schindler, 56:73–87. Hessische Blätter Für Volks- Und Kulturforschung. Marburg: Jonas Verlag.   
 * Groth, Stefan. 2021. “Sprechen Als Gesellschaftliche Teilhabe. Zur Verknüpfung Von Sprache Und Citizenship.” In Sprache Und Cultural Citizenship, edited by Stefan Groth, 10–37. Zürich: Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen. doi:10.5167/uzh-197442.   
 * Groth, Stefan. 2021. “Kontingente Praxen, Antizipation Als Kompetenz.” In Planen, Hoffen, Fürchten: Die Gegenwart Der Zukunft Im Alltag, edited by Ruth Dorothea Eggel, Fabio Freiberg, Andrea Graf, Dagmar Hänel, Victoria Huszka, Ove Sutter, and Kerstin Wolff, 13:203–16. Bonner Beiträge Zur Alltagskulturforschung. Münster: Waxmann.   
 * Groth, Stefan. 2020. “Work-Life-Balance, Entgrenzung Und Orientierungen an Der Mitte.” In Vernetzt, Entgrenzt, Prekär? Kulturwissenschaftliche Perspektiven Auf Arbeit Im Wandel, edited by Stefan Groth, Sarah May, and Johannes Müske, 17:205–25. Arbeit Und Alltag: Beiträge Zur Ethnografischen Arbeitskulturenforschung. Campus.   
@@ -92,9 +93,9 @@ Version: 2022-3-29
 * Groth, Stefan. 2009. “Kulturen Im Gespräch: Interview Mit Valdimar Hafstein.” Kulturen 2/2009: 40–47. 
 
 ## Reviews
-* Groth, Stefan. n.d. “Review Digitale Arbeitskulturen. Rahmungen, Effekte, Herausforderungen Ed. by D. Eckhardt Et Al.” Bayerisches Jahrbuch Für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. Accepted for publication.   
-* Groth, Stefan. n.d. “Review Ausgrenzungsapparat Schule: Wie Unser Bildungssystem Soziale Spaltungen Verschärft by S. Wellgraf.” Bayerisches Jahrbuch Für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. Accepted for publication.   
-* Groth, Stefan. n.d. “Review Fixing and Circulating the Popular Ed. by J. Müske Et Al.” Österreichische Zeitschrift Für Volkskunde. Accepted for publication.   
+* Groth, Stefan. 2022. “Review Digitale Arbeitskulturen. Rahmungen, Effekte, Herausforderungen Ed. by D. Eckhardt Et Al.” Bayerisches Jahrbuch Für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. Accepted for publication.   
+* Groth, Stefan. 2022. “Review Ausgrenzungsapparat Schule: Wie Unser Bildungssystem Soziale Spaltungen Verschärft by S. Wellgraf.” Bayerisches Jahrbuch Für Volkskunde. München: Institut für Volkskunde, Kommission für bayerische Landesgeschichte bei der Bayerischen Akademie der Wissenschaften. Accepted for publication.   
+* Groth, Stefan. 2022. “Review Fixing and Circulating the Popular Ed. by J. Müske Et Al.” Österreichische Zeitschrift Für Volkskunde. Accepted for publication.   
 * Groth, Stefan. 2021. “Review of Humanisierung Der Arbeit. Aufbrüche Und Konflikte in Der Rationalisierten Arbeitswelt Des 20. Jahrhunderts, Edited by N. Kleinöder, S. Müller Und K. Uhl.” Zeitschrift Für Volkskunde. doi:10.31244/zfvk/2021/02.28.   
 * Groth, Stefan. 2020. “Review of Im Dorf Vor Der Stadt: Die Baugenossenschaft Neubühl, 1929–2000, Von E. La Roche.” Schweizerisches Archiv Für Volkskunde.   
 * Groth, Stefan. 2020. “Review of Curated Stories: The Uses and Abuses of Storytelling, Von S. Fernandes.” Fabula: Zeitschrift Für Erzählforschung. doi:10.1515/fabula-2020-0019.   
