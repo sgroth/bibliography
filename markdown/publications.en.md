@@ -48,6 +48,7 @@ Version: 2022-4-21
 * Groth, Stefan. 2011. “Perspectives of Differentiation: Negotiating Traditional Knowledge on the International Level.” Journal of Ethnology and Folkloristics 4 (1): 7–24. http://www.jef.ee/index.php/journal/article/view/1. Peer reviewed. 
 
 ## Journal Articles
+* Groth, Stefan. 2021. “Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen Zu Normativen Dimensionen Des Kleinen Wohnens.” Edited by Manfred Seifert and Thomas Schindler. Hessische Blätter Für Volks- Und Kulturforschung 56. Wohnen jenseits der Normen: 73–87.   
 * Groth, Stefan. 2021. “Code Und Kommunikative Kartografien.” Kuckuck. Notizen Zur Alltagskultur 2021 (1): 38–41.   
 * Groth, Stefan. 2020. “Technical Discourse and Normative Affirmations: Implicit Justice Claims in Multilateral Negotiations.” Global Cooperation Quarterly 1: 13–14.   
 * Groth, Stefan. 2020. “Mitte Und Mittelmass: Zwischen Privilegierter Gleichheit Und Kompetitiver Differenz.” SAGW-Bulletin 1. Special Issue Ungleichheit – Inégalité: 45–47. doi:10.5281/zenodo.3716156.   
@@ -60,7 +61,6 @@ Version: 2022-4-21
 * Groth, Stefan. 2009. “Kulturen Im Gespräch: Interview Mit Valdimar Hafstein.” Kulturen 2/2009: 40–47. 
 
 ## Contributions to Edited Volumes
-* Groth, Stefan. 2021. “Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen Zu Normativen Dimensionen Des Kleinen Wohnens.” In Wohnen Jenseits Der Normen, edited by Manfred Seifert and Thomas Schindler, 56:73–87. Hessische Blätter Für Volks- Und Kulturforschung. Marburg: Jonas Verlag.   
 * Groth, Stefan. 2021. “Sprechen Als Gesellschaftliche Teilhabe. Zur Verknüpfung Von Sprache Und Citizenship.” In Sprache Und Cultural Citizenship, edited by Stefan Groth, 10–37. Zürich: Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen. doi:10.5167/uzh-197442.   
 * Groth, Stefan. 2021. “Kontingente Praxen, Antizipation Als Kompetenz.” In Planen, Hoffen, Fürchten: Die Gegenwart Der Zukunft Im Alltag, edited by Ruth Dorothea Eggel, Fabio Freiberg, Andrea Graf, Dagmar Hänel, Victoria Huszka, Ove Sutter, and Kerstin Wolff, 13:203–16. Bonner Beiträge Zur Alltagskulturforschung. Münster: Waxmann.   
 * Groth, Stefan. 2020. “Work-Life-Balance, Entgrenzung Und Orientierungen an Der Mitte.” In Vernetzt, Entgrenzt, Prekär? Kulturwissenschaftliche Perspektiven Auf Arbeit Im Wandel, edited by Stefan Groth, Sarah May, and Johannes Müske, 17:205–25. Arbeit Und Alltag: Beiträge Zur Ethnografischen Arbeitskulturenforschung. Campus.   
