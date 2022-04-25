@@ -2,14 +2,14 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2022-4-21
+Version: 2022-4-25
 
 ## Beiträge im Erscheinen und in Vorbereitung
 * Groth, Stefan. o. J. „Promise as Contingent and Anticipatory Practice“. In Versprechen als kulturelle Konfigurationen in politischen Kontexten, herausgegeben von Cornelia Eisler und Katharina Schuchardt. ISGV digital. Studien zur Landesgeschichte und Kulturanthropologie. Dresden: Institut für Sächsische Geschichte und Volkskunde. In preparation.   
 * Groth, Stefan. o. J. „Mainstreaming Heritages: Diversity and Abstract Heritage Values as Strategic Resources in EU External Relations“. Journal Article. In preparation for a Special Issue.   
 * Groth, Stefan, Sarah May, und Johannes Müske. o. J. „Morality as Organizational Practice: Themes, Methods, Approaches“. In Morality as Organizational Practice (= Tagungsband 19. Kommissionstagung Arbeitskulturen), herausgegeben von Sarah May, Johannes Müske, und Stefan Groth. Freiburger Studien zur Kulturanthropologie. Münster: Waxmann. In preparation.   
 * May, Sarah, Johannes Müske, und Stefan Groth, Hrsg. o. J. Morality as Organizational Practice (= Tagungsband 19. Kommissionstagung Arbeitskulturen). Freiburger Studien zur Kulturanthropologie. Münster: Waxmann. In preparation.   
-* Groth, Stefan. o. J. „Populäre Narrative des Politischen: Europaskeptizismus aus Sicht der Empirischen Kulturwissenschaft“. Journal Article. In preparation.   
+* Groth, Stefan. o. J. „Populäre Narrative des Politischen: Europaskeptizismus aus Sicht der Empirischen Kulturwissenschaft“. Journal Article. Submitted for publication.   
 * Groth, Stefan. o. J. „Kontext und politisches Erzählen“. In Politisches Erzählen. Tagungsband 11. Tagung der Kommission für Erzählforschung innerhalb der Deutschen Gesellschaft für Volkskunde, herausgegeben von Sabine Wienker-Piepho. Bd. 4. Freiburger Studien zur Kulturanthropologie. Waxmann. Submitted for publication.   
 * Groth, Stefan. o. J. „‘Truthy’ and ‘Sticky’ Stories of Euroscepticism. Narratological Approaches to Appropriateness in Digital Contexts“. Journal Article. Submitted for publication.   
 * Groth, Stefan. o. J. „Alltag und Erfahrung“. In Erfahrung. Kulturanalytische Positionen, herausgegeben von Barbara Sieferle und Martina Röthl. Accepted for publication.   
