@@ -61,18 +61,24 @@
     {\nolinkurl{#1}}}
 
 % Filter for papers both in journals and edited volumes
-\defbibfilter{papers}{
-  type=article or
-  type=incollection
-}
+% \defbibfilter{papers}{
+%   type=article or
+%   type=incollection
+% }
 
 % Filter for entries either inpreparation OR notaccepted
-\defbibfilter{vorbereitung}{
-  keyword=inpreparation or
-  keyword=notaccepted or
-  keyword=submitted or
-  keyword=inprint
-}
+% \defbibfilter{vorbereitung}{
+%   keyword=inpreparation or
+%   keyword=notaccepted or
+%   keyword=submitted or
+%   keyword=inprint
+% }
+
+% Filter for entries either accepted OR inprint
+% \defbibfilter{accepted}{
+%   keyword=accepted or
+%   keyword=inprint
+% }
 
 \addbibresource{sgroth-bibliography.bib}
 
@@ -92,15 +98,15 @@
 
 % Print segmented bibliographies und Beitr\"age in Arbeit
 \printbibliography[keyword=pre,title={Eingereichte Beitr\"age und Beitr\"age in Vorbereitung}]
-%\printbibliography[filter=vorbereitung,notkeyword=mitte,notkeyword=pre,title={Zur Publikation angenommene Beitr\"age und Beitr\"age im Druck}] 
-\printbibliography[type=book,notkeyword=pre,notkeyword=inprint,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,notkeyword=miszelle,keyword=monography,title={Monographien}]
-\printbibliography[type=book,notkeyword=pre,notkeyword=inprint,notkeyword=miszelle,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,keyword=editedvolume,title={Herausgeberschaften}]
-\printbibliography[keyword=specialissue,notkeyword=pre,notkeyword=inprint,notkeyword=inpreparation,title={Sondernummern von Zeitschriften}]
-\printbibliography[nottype=periodical,notkeyword=pre,notkeyword=inprint,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,keyword=peerreview,title={Peer Reviewed Papers}]
-\printbibliography[type=article,nottype=periodical,notkeyword=inprint,notkeyword=pre,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=miszelle,notkeyword=submitted,notkeyword=peerreview,title={Zeitschriftenaufsätze}]
-\printbibliography[type=incollection,notkeyword=pre,notkeyword=inprint,notkeyword=notaccepted,notkeyword=submitted,notkeyword=inpreparation,notkeyword=miszelle,title={Aufs\"atze in Sammelb\"anden}]
-\printbibliography[keyword=miszelle,notkeyword=pre,notkeyword=inprint,notkeyword=inpreparation,title={Miszellen und graue Literatur}]
-\printbibliography[type=review,notkeyword=pre,notkeyword=inprint,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,notkeyword=miszelle,title={Rezensionen}]
+\printbibliography[keyword=accepted,title={Zur Publikation angenommene Beitr\"age und Beitr\"age im Druck}]
+\printbibliography[type=book,notkeyword=pre,notkeyword=accepted,notkeyword=miszelle,keyword=monography,title={Monographien}]
+\printbibliography[type=book,notkeyword=pre,notkeyword=accepted,keyword=editedvolume,title={Herausgeberschaften}]
+\printbibliography[keyword=specialissue,notkeyword=accepted,notkeyword=pre,title={Sondernummern von Zeitschriften}]
+\printbibliography[nottype=periodical,notkeyword=pre,notkeyword=accepted,keyword=peerreview,title={Peer Reviewed Papers}]
+\printbibliography[type=article,nottype=periodical,notkeyword=accepted,notkeyword=pre,notkeyword=miszelle,notkeyword=peerreview,title={Zeitschriftenaufsätze}]
+\printbibliography[type=incollection,notkeyword=pre,notkeyword=accepted,notkeyword=miszelle,title={Aufs\"atze in Sammelb\"anden}]
+\printbibliography[keyword=miszelle,notkeyword=pre,notkeyword=accepted,title={Miszellen und graue Literatur}]
+\printbibliography[type=review,notkeyword=pre,notkeyword=accepted,notkeyword=miszelle,title={Rezensionen}]
 
 %--------------------
 \input{cv/presentations.de}
