@@ -43,7 +43,6 @@ Version: 2022-10-11
 * Groth, Stefan. 2011. “Perspectives of Differentiation: Negotiating Traditional Knowledge on the International Level.” Journal of Ethnology and Folkloristics 4 (1): 7–24. http://www.jef.ee/index.php/journal/article/view/1. Peer reviewed. 
 
 ## Journal Articles
-* Groth, Stefan. 2023. “Populäre Narrative Des Politischen: Europaskeptizismus Aus Sicht Der Empirischen Kulturwissenschaft.” Schweizerisches Archiv Für Volkskunde 118 (1). Journal Article. Accepted for publication.   
 * Groth, Stefan. 2021. “Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen Zu Normativen Dimensionen Des Kleinen Wohnens.” Edited by Manfred Seifert and Thomas Schindler. Hessische Blätter Für Volks- Und Kulturforschung 56. Wohnen jenseits der Normen: 73–87.   
 * Groth, Stefan. 2021. “Code Und Kommunikative Kartografien.” Kuckuck. Notizen Zur Alltagskultur 2021 (1): 38–41.   
 * Groth, Stefan. 2020. “Technical Discourse and Normative Affirmations: Implicit Justice Claims in Multilateral Negotiations.” Global Cooperation Quarterly 1: 13–14.   
