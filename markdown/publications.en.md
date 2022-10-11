@@ -2,12 +2,11 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2022-9-20
+Version: 2022-10-11
 
 ## Submitted Publications and Publications in Preparation
 * Esguerra, Alejandro, Katja Freistein, and Stefan Groth. n.d. “International Organizations and the Importance of Practices: The Contingent Performativity of Negotiations and Documents.” Journal Article. In preparation.   
 * Groth, Stefan. n.d. “Narratives of Europe: A Relational Approach to EU–Ukraine Narrations in German Online Debate.” Journal Article. In preparation.   
-* Groth, Stefan. n.d. “Mainstreaming Heritages: Diversity and Abstract Heritage Values as Strategic Resources in EU External Relations.” Journal Article. Submitted for pulication.   
 * Groth, Stefan, Sarah May, and Johannes Müske. n.d. “Morality as Organizational Practice: Themes, Methods, Approaches.” In Morality as Organizational Practice (= Tagungsband 19. Kommissionstagung Arbeitskulturen), edited by Sarah May, Johannes Müske, and Stefan Groth. Freiburger Studien Zur Kulturanthropologie. Münster: Waxmann. In preparation.   
 * May, Sarah, Johannes Müske, and Stefan Groth, eds. n.d. Morality as Organizational Practice (= Tagungsband 19. Kommissionstagung Arbeitskulturen). Freiburger Studien Zur Kulturanthropologie. Münster: Waxmann. In preparation.   
 * Groth, Stefan. n.d. “Aesthetic Felicity: The Poetics of Fact Checking and Counter-Narratives.” In . In preparation for an edited volume.   
@@ -61,7 +60,7 @@ Version: 2022-9-20
 * Groth, Stefan. 2022. “Versprechen Als Kontingente Praxis: Dimensionen Des Versprechens in Multilateralen Verhandlungen.” In Versprechen Als Kulturelle Konfigurationen in Politischen Kontexten, edited by Cornelia Eisler and Katharina Schuchardt. ISGV Digital. Studien Zur Landesgeschichte Und Kulturanthropologie. Dresden: Institut für Sächsische Geschichte und Volkskunde. Accepted for publication.   
 * Groth, Stefan. n.d. “Kontext Und Politisches Erzählen.” In Politisches Erzählen. Tagungsband 11. Tagung Der Kommission Für Erzählforschung Innerhalb Der Deutschen Gesellschaft Für Volkskunde, edited by Sabine Wienker-Piepho. Vol. 4. Freiburger Studien Zur Kulturanthropologie. Waxmann. Submitted for publication.   
 * Groth, Stefan. n.d. “Alltag Und Erfahrung.” In Erfahrung. Kulturanalytische Positionen, edited by Barbara Sieferle and Martina Röthl. Accepted for publication.   
-* Groth, Stefan. 2022. “Selbstoptimierung Und Navigational Capacity.” In Optimierung Des Selbst, edited by Loreen Dalski, Kirsten Flöter, Lisa Keil, Kathrin Lohse, Lucas Sand, and Annabelle Schülein. Bielefeld: transcript. In print.   
+* Groth, Stefan. 2022. “Selbstoptimierung Und Navigational Capacity.” In Optimierung Des Selbst, edited by Loreen Dalski, Kirsten Flöter, Lisa Keil, Kathrin Lohse, Lucas Sand, and Annabelle Schülein. Bielefeld: transcript.   
 * Groth, Stefan. 2021. “Sprechen Als Gesellschaftliche Teilhabe. Zur Verknüpfung Von Sprache Und Citizenship.” In Sprache Und Cultural Citizenship, edited by Stefan Groth, 10–37. Zürich: Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen. doi:10.5167/uzh-197442.   
 * Groth, Stefan. 2021. “Kontingente Praxen, Antizipation Als Kompetenz.” In Planen, Hoffen, Fürchten: Die Gegenwart Der Zukunft Im Alltag, edited by Ruth Dorothea Eggel, Fabio Freiberg, Andrea Graf, Dagmar Hänel, Victoria Huszka, Ove Sutter, and Kerstin Wolff, 13:203–16. Bonner Beiträge Zur Alltagskulturforschung. Münster: Waxmann.   
 * Groth, Stefan. 2020. “Work-Life-Balance, Entgrenzung Und Orientierungen an Der Mitte.” In Vernetzt, Entgrenzt, Prekär? Kulturwissenschaftliche Perspektiven Auf Arbeit Im Wandel, edited by Stefan Groth, Sarah May, and Johannes Müske, 17:205–25. Arbeit Und Alltag: Beiträge Zur Ethnografischen Arbeitskulturenforschung. Campus.   
