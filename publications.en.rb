@@ -57,7 +57,7 @@ peerreviewedarticle = bib['@article[keywords!~ notaccepted && keywords^=peerrevi
 end
 
 # Process other articles
-article = bib['@article[ keywords!~ peerreview && keywords!~ notaccepted && keywords!~pre]'].reverse_each.map do |e|
+article = bib['@article[ keywords!~ peerreview && keywords!~ notaccepted && keywords!~pre && keywords!~accepted]'].reverse_each.map do |e|
   "* #{cp.render(:bibliography, id: e.key)[0]}"
 end
 
