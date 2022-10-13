@@ -2,10 +2,9 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2022-10-11
+Version: 2022-10-13
 
 ## Beiträge im Erscheinen und in Vorbereitung
-* Groth, Stefan. 2022. „Ästhetik des Mittelstandes?“ Décodage. Blog der SAGW (Schweizerische Akademie der Geistes- und Sozialwissenschaften), Oktober. SAGW. http://www.sagw.ch/decodage.   
 * Esguerra, Alejandro, Katja Freistein, und Stefan Groth. o. J. „International Organizations and the Importance of Practices: The Contingent Performativity of Negotiations and Documents“. Journal Article. In preparation.   
 * Groth, Stefan. o. J. „Narratives of Europe: A Relational Approach to EU–Ukraine Narrations in German Online Debate“. Journal Article. In preparation.   
 * Groth, Stefan, und Sarah May. o. J. „Morality as Organizational Practice: Themes, Methods, Approaches“. In Morality as Organizational Practice (= Tagungsband 19. Kommissionstagung Arbeitskulturen), herausgegeben von Sarah May, Stefan Groth, und Johannes Müske. Freiburger Studien zur Kulturanthropologie. Münster: Waxmann. In preparation.   
@@ -45,6 +44,7 @@ Version: 2022-10-11
 
 ## Zeitschriftenaufsätze
 * Groth, Stefan. 2023. „Populäre Narrative des Politischen: Europaskeptizismus aus Sicht der Empirischen Kulturwissenschaft“. Schweizerisches Archiv für Volkskunde 118 (1). Journal Article. Accepted for publication.   
+* Groth, Stefan. 2022. „Ästhetik des Mittelstandes?“ Décodage. Blog der SAGW (Schweizerische Akademie der Geistes- und Sozialwissenschaften), Oktober. SAGW. https://www.sagw.ch/sagw/aktuell/blog/details/news/aesthetik-des-mittelstandes-reduktion-im-wohnen-als-distinktion.   
 * Groth, Stefan. 2021. „Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen zu normativen Dimensionen des kleinen Wohnens“. Herausgegeben von Manfred Seifert und Thomas Schindler. Hessische Blätter für Volks- und Kulturforschung 56. Wohnen jenseits der Normen: 73–87.   
 * Groth, Stefan. 2021. „Code und kommunikative Kartografien“. Kuckuck. Notizen zur Alltagskultur 2021 (1): 38–41.   
 * Groth, Stefan. 2020. „Technical Discourse and Normative Affirmations: Implicit Justice Claims in Multilateral Negotiations“. Global Cooperation Quarterly 1: 13–14.   
@@ -89,6 +89,7 @@ Version: 2022-10-11
 * Groth, Stefan. 2010. „Perspektiven der Differenzierung: Multiple Ausdeutungen von traditionellem Wissen indigener Gemeinschaften in WIPO-Verhandlungen“. In Die Konstituierung von Cultural Property: Forschungsperspektiven, herausgegeben von Regina F. Bendix, Kilian Bizer, und Stefan Groth, 1:177–95. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press. doi:10.4000/books.gup.513. 
 
 ## Miszellen
+* Groth, Stefan. 2022. „Ästhetik des Mittelstandes?“ Décodage. Blog der SAGW (Schweizerische Akademie der Geistes- und Sozialwissenschaften), Oktober. SAGW. https://www.sagw.ch/sagw/aktuell/blog/details/news/aesthetik-des-mittelstandes-reduktion-im-wohnen-als-distinktion.   
 * Groth, Stefan. 2020. „Nicht ohne Zynismus – Sind aller guten Dinge wirklich drei?“ UZH Magazin 1: 8.   
 * Groth, Stefan, Patrick Müller, Anna Suppa, Christian Ritter, Basil Rogger, und Irene Vögeli, Hrsg. 2018. Wissensorte. Ethnografische / künstlerische Erkundungen. Zürich. Publikation aus dem Projektseminar Wissensorte – ReVisiting Black Mountain College (Master), HS/FS 2017/2018. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft (Kooperationsprojekt mit der Zürcher Hochschule der Künste, ZHdK), Universität Zürich.   
 * Groth, Stefan. 2009. „Kulturen im Gespräch: Interview mit Valdimar Hafstein“. Kulturen 2/2009: 40–47. 

@@ -2,7 +2,7 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2022-10-11
+Version: 2022-10-13
 
 ## Submitted Publications and Publications in Preparation
 * Esguerra, Alejandro, Katja Freistein, and Stefan Groth. n.d. “International Organizations and the Importance of Practices: The Contingent Performativity of Negotiations and Documents.” Journal Article. In preparation.   
@@ -43,6 +43,7 @@ Version: 2022-10-11
 * Groth, Stefan. 2011. “Perspectives of Differentiation: Negotiating Traditional Knowledge on the International Level.” Journal of Ethnology and Folkloristics 4 (1): 7–24. http://www.jef.ee/index.php/journal/article/view/1. Peer reviewed. 
 
 ## Journal Articles
+* Groth, Stefan. 2022. “Ästhetik Des Mittelstandes?” Décodage. Blog Der SAGW (Schweizerische Akademie Der Geistes- Und Sozialwissenschaften), October. SAGW. https://www.sagw.ch/sagw/aktuell/blog/details/news/aesthetik-des-mittelstandes-reduktion-im-wohnen-als-distinktion.   
 * Groth, Stefan. 2021. “Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen Zu Normativen Dimensionen Des Kleinen Wohnens.” Edited by Manfred Seifert and Thomas Schindler. Hessische Blätter Für Volks- Und Kulturforschung 56. Wohnen jenseits der Normen: 73–87.   
 * Groth, Stefan. 2021. “Code Und Kommunikative Kartografien.” Kuckuck. Notizen Zur Alltagskultur 2021 (1): 38–41.   
 * Groth, Stefan. 2020. “Technical Discourse and Normative Affirmations: Implicit Justice Claims in Multilateral Negotiations.” Global Cooperation Quarterly 1: 13–14.   
@@ -56,7 +57,7 @@ Version: 2022-10-11
 * Groth, Stefan. 2009. “Kulturen Im Gespräch: Interview Mit Valdimar Hafstein.” Kulturen 2/2009: 40–47. 
 
 ## Contributions to Edited Volumes
-* Groth, Stefan. 2022. “Versprechen Als Kontingente Praxis: Dimensionen Des Versprechens in Multilateralen Verhandlungen.” In Versprechen Als Kulturelle Konfigurationen in Politischen Kontexten, edited by Cornelia Eisler and Katharina Schuchardt. ISGV Digital. Studien Zur Landesgeschichte Und Kulturanthropologie. Dresden: Institut für Sächsische Geschichte und Volkskunde. Accepted for publication.   
+* Groth, Stefan. 2022. “Versprechen Als Kontingente Praxis: Dimensionen Des Versprechens in Multilateralen Verhandlungen.” In Versprechen Als Kulturelle Konfigurationen in Politischen Kontexten, edited by Cornelia Eisler and Katharina Schuchardt. ISGV Digital. Studien Zur Landesgeschichte Und Kulturanthropologie. Dresden: Institut für Sächsische Geschichte und Volkskunde. In print.   
 * Groth, Stefan. n.d. “Kontext Und Politisches Erzählen.” In Politisches Erzählen. Tagungsband 11. Tagung Der Kommission Für Erzählforschung Innerhalb Der Deutschen Gesellschaft Für Volkskunde, edited by Sabine Wienker-Piepho. Vol. 4. Freiburger Studien Zur Kulturanthropologie. Waxmann. Submitted for publication.   
 * Groth, Stefan. n.d. “Alltag Und Erfahrung.” In Erfahrung. Kulturanalytische Positionen, edited by Barbara Sieferle and Martina Röthl. Accepted for publication.   
 * Groth, Stefan. 2022. “Selbstoptimierung Und Navigational Capacity.” In Optimierung Des Selbst, edited by Loreen Dalski, Kirsten Flöter, Lisa Keil, Kathrin Lohse, Lucas Sand, and Annabelle Schülein. Bielefeld: transcript.   
@@ -87,6 +88,7 @@ Version: 2022-10-11
 * Groth, Stefan. 2010. “Perspektiven Der Differenzierung: Multiple Ausdeutungen Von Traditionellem Wissen Indigener Gemeinschaften in WIPO-Verhandlungen.” In Die Konstituierung Von Cultural Property: Forschungsperspektiven, edited by Regina F. Bendix, Kilian Bizer, and Stefan Groth, 1:177–95. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press. doi:10.4000/books.gup.513. 
 
 ## Miscellany
+* Groth, Stefan. 2022. “Ästhetik Des Mittelstandes?” Décodage. Blog Der SAGW (Schweizerische Akademie Der Geistes- Und Sozialwissenschaften), October. SAGW. https://www.sagw.ch/sagw/aktuell/blog/details/news/aesthetik-des-mittelstandes-reduktion-im-wohnen-als-distinktion.   
 * Groth, Stefan. 2020. “Nicht Ohne Zynismus – Sind Aller Guten Dinge Wirklich Drei?” UZH Magazin 1: 8.   
 * Groth, Stefan, Patrick Müller, Anna Suppa, Christian Ritter, Basil Rogger, and Irene Vögeli, eds. 2018. Wissensorte. Ethnografische / Künstlerische Erkundungen. Zürich. Publikation aus dem Projektseminar Wissensorte – ReVisiting Black Mountain College (Master), HS/FS 2017/2018. Populäre Kulturen, ISEK - Institut für Sozialanthropologie und Empirische Kulturwissenschaft (Kooperationsprojekt mit der Zürcher Hochschule der Künste, ZHdK), Universität Zürich.   
 * Groth, Stefan. 2009. “Kulturen Im Gespräch: Interview Mit Valdimar Hafstein.” Kulturen 2/2009: 40–47. 
