@@ -2,7 +2,7 @@
 \documentclass[a4paper]{article}
 
 \RequirePackage[l2tabu, orthodox]{nag}
-
+\DeclareUnicodeCharacter{308}{XXXXXXXXXXX}
 \usepackage[english]{babel}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
@@ -48,7 +48,7 @@
 \lfoot{\textcolor{gray}{{\footnotesize\texttt{Version \gfiGetCommitAbr, \gfiGetYear--\gfiGetMonth--\gfiGetDay, \href{https://github.com/sgroth/bibliography}{https://github.com/sgroth/bibliography}}}}} % adds version control information
 %bibannotesep=\addperiod\addspace
 % Bibliography
-\usepackage[authordate,notes,backend=biber,isbn=false,annotation=bib,doi=only,url=false,bibannotesep=period,giveninits=false,defernumbers=true,sorting=ydnt]{biblatex-chicago}
+\usepackage[authordate,notes,backend=bibtex,isbn=false,annotation=bib,doi=only,url=false,bibannotesep=period,giveninits=false,defernumbers=true,sorting=ydnt]{biblatex-chicago}
 \makeatletter
 \AtEveryBibitem{
   \global\undef\bbx@lasthash}
@@ -92,7 +92,7 @@
 
 % Print segmented bibliographies
 \printbibliography[keyword=pre,title={Submitted Publications and Publications in Preparation}] 
-\printbibliography[keyword=accepted,title={Accepted Publications and Publicatons in Print}]
+\printbibliography[keyword=accepted,title={Accepted Publications and Publications in Print}]
 \printbibliography[type=book,notkeyword=pre,notkeyword=inprint,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,notkeyword=miszelle,keyword=monography,title={Monographies}]
 \printbibliography[type=book,notkeyword=pre,notkeyword=inprint,notkeyword=miszelle,notkeyword=notaccepted,notkeyword=inpreparation,notkeyword=submitted,keyword=editedvolume,title={Edited Volumes}]
 \printbibliography[keyword=specialissue,notkeyword=pre,notkeyword=inprint,notkeyword=inpreparation,title={Special Issues}]
