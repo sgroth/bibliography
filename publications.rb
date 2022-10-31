@@ -36,6 +36,11 @@ inpreparation = bib['@*[keywords~=pre]'].reverse_each.map do |e|
   "* #{cp.render(:bibliography, id: e.key)[0]}"
 end
 
+# Process entries with keyword "accepted"
+accepted = bib['@*[keywords~=accepted]'].reverse_each.map do |e|
+  "* #{cp.render(:bibliography, id: e.key)[0]}"
+end
+
 # Process entries with keyword "monography"
 monography = bib['@book[keywords!=notaccepted  && keywords!=miszelle &&  keywords!=pre && keywords=monography]'].reverse_each.map do |e|
   "* #{cp.render(:bibliography, id: e.key)[0]}"
@@ -84,6 +89,8 @@ File.open( 'publications.de.md', "w" ) do |file|
   file.puts "# Schriftenverzeichnis\nDr. Stefan Groth  \n[https://www.stefangroth.com](https://www.stefangroth.com)\n\n"
   file.puts "Version: " + current_time + "\n\n## Beiträge im Erscheinen und in Vorbereitung"
   file.puts inpreparation.join("  \n")
+  file.puts "\n## Zur Publikation angenommene Beiträge und Beiträge im Druck"
+  file.puts accepted.join("  \n")
   file.puts "\n## Monographien"
   file.puts monography.join("  \n")
   file.puts "\n## Herausgeberschaften"
