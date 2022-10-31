@@ -1,14 +1,14 @@
-% !TEX TS-program = pdflatex
+% !TEX TS-program = pdflatexmk
 \documentclass[a4paper]{article}
 
 \RequirePackage[l2tabu, orthodox]{nag}
-
+\DeclareUnicodeCharacter{308}{XXXXXXXXXXX}
 \usepackage[ngerman]{babel}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 
 % Fonts and Typography
-\usepackage[osf]{ebgaramond} % Garamond for rm
+\usepackage[osf]{ebgaramond} % Garamond for rm% !BIB program = 
 %\usepackage[osf]{roboto} % SourceSansPro for ss
 \usepackage[]{AlegreyaSans}
 %\usepackage{cochineal}
@@ -48,7 +48,7 @@
 \lfoot{\textcolor{gray}{{\footnotesize\texttt{Version \gfiGetCommitAbr, \gfiGetYear--\gfiGetMonth--\gfiGetDay, \href{https://github.com/sgroth/bibliography}{https://github.com/sgroth/bibliography}}}}} % adds version control information
 
 % Bibliography
-\usepackage[authordate,notes,backend=biber,isbn=false,annotation=bib,doi=only,url=false,bibannotesep=period,giveninits=false,defernumbers=true,sorting=ydnt]{biblatex-chicago}
+\usepackage[authordate,notes,backend=bibtex,isbn=false,annotation=bib,doi=only,url=false,bibannotesep=period,giveninits=false,defernumbers=true,sorting=ydnt]{biblatex-chicago}
 \makeatletter
 \AtEveryBibitem{
   \global\undef\bbx@lasthash}
@@ -97,7 +97,7 @@
 \nocite{*} % includes all entries from my personal bibliography
 
 % Print segmented bibliographies und Beitr\"age in Arbeit
-\printbibliography[keyword=pre,title={Eingereichte Beitr\"age und Beitr\"age in Vorbereitung}]
+\printbibliography[keyword=pre,title={Eingereichte Beiträge und Beiträge in Vorbereitung}]
 \printbibliography[keyword=accepted,title={Zur Publikation angenommene Beitr\"age und Beitr\"age im Druck}]
 \printbibliography[type=book,notkeyword=pre,notkeyword=accepted,notkeyword=miszelle,keyword=monography,title={Monographien}]
 \printbibliography[type=book,notkeyword=pre,notkeyword=accepted,keyword=editedvolume,title={Herausgeberschaften}]
