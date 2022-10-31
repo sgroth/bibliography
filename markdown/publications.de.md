@@ -11,6 +11,14 @@ Version: 2022-10-31
 * Groth, Stefan. o. J. „Aesthetic Felicity: The Poetics of Fact Checking and Counter-Narratives“. In . In preparation.   
 * Groth, Stefan. 2023. „‘Truthy’ and ‘Sticky’ Stories of Euroscepticism. Narratological Approaches to Appropriateness in Digital Contexts“. Ethnologia Europaea. Submitted for publication. 
 
+## Zur Publikation angenommene Beiträge und Beiträge im Druck
+* Groth, Stefan. o. J. „Prognose und Utopie: ‘Crypto Twitter’ als populärkultureller Finanz- und Zukunftsdiskurs“. In Zukunftsentwürfe in der Populärkultur. Interdisziplinäre Perspektiven, herausgegeben von Michael Fischer und Markus Tauschek. Populäre Kultur und Musik. Münster: Waxmann. Accepted for publication.   
+* Groth, Stefan. 2023. „Populäre Narrative des Politischen: Euroskeptizismus aus Sicht der Empirischen Kulturwissenschaft“. Schweizerisches Archiv für Volkskunde 118 (1). In print.   
+* Groth, Stefan. 2022. „Versprechen als kontingente Praxis: Dimensionen des Versprechens in multilateralen Verhandlungen“. In Versprechen als kulturelle Konfigurationen in politischen Kontexten, herausgegeben von Cornelia Eisler und Katharina Schuchardt. ISGV digital. Studien zur Landesgeschichte und Kulturanthropologie. Dresden: Institut für Sächsische Geschichte und Volkskunde. In print.   
+* Groth, Stefan. o. J. „Kontext und politisches Erzählen“. In Politisches Erzählen. Tagungsband 11. Tagung der Kommission für Erzählforschung innerhalb der Deutschen Gesellschaft für Volkskunde, herausgegeben von Sabine Wienker-Piepho. Freiburger Studien zur Kulturanthropologie. Waxmann. Accepted for publication.   
+* Groth, Stefan. o. J. „Alltag als Konstante der Erfahrung?“ In Erfahrung: Kulturanalytische Relationierungen - Positionen und Zugänge der Europäischen Ethnologie, herausgegeben von Barbara Sieferle und Martina Röthl. Waxmann. In print.   
+* Groth, Stefan. 2023. „Mainstreaming Heritages: Diversity and Abstract Heritage Values as Strategic Resources in EU External Relations“. International Journal of Cultural Policy 29 (1). doi:10.1080/10286632.2022.2141726. Peer reviewed. In print. 
+
 ## Monographien
 * Groth, Stefan. 2012. Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property. Bd. 4. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press. doi:10.4000/books.gup.608. 
 
