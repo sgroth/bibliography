@@ -36,8 +36,8 @@ inpreparation = bib['@*[keywords~=pre]'].reverse_each.map do |e|
   "* #{cp.render(:bibliography, id: e.key)[0]}"
 end
 
-# Process entries with keyword "inpreparation"
-inpreparation = bib['@*[keywords~=accepted]'].reverse_each.map do |e|
+# Process entries with keyword "accepted"
+accepted = bib['@*[keywords~=accepted]'].reverse_each.map do |e|
   "* #{cp.render(:bibliography, id: e.key)[0]}"
 end
 
@@ -90,6 +90,8 @@ File.open( 'publications.en.md', "w" ) do |file|
   file.puts "# List of Publications\nDr. Stefan Groth  \n[https://www.stefangroth.com](https://www.stefangroth.com)\n\n"
   file.puts "Version: " + current_time + "\n\n## Submitted Publications and Publications in Preparation"
   file.puts inpreparation.join("  \n")
+  file.puts "\n## Accepted Publications and Publicatons in Print"
+  file.puts accepted.join("  \n")
   file.puts "\n## Monographs"
   file.puts monography.join("  \n")
   file.puts "\n## Edited Volumes"
