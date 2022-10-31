@@ -21,7 +21,7 @@ bib = BibTeX.open('sgroth-bibliography.bib').convert(:latex2,:latex)
 CSL::Style.root = "csl/"
 
 # Create a new processor with the desired style, # format, and locale.
-cp = CiteProc::Processor.new style: 'unknown', format: 'text', locale: 'de'
+cp = CiteProc::Processor.new style: 'chicago-notitlecase', format: 'text', locale: 'de'
 
 # sortorder = cp.engine.style.bibliography > 'sort' > 'key'
 # puts sortorder
