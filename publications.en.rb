@@ -36,6 +36,12 @@ inpreparation = bib['@*[keywords~=pre]'].reverse_each.map do |e|
   "* #{cp.render(:bibliography, id: e.key)[0]}"
 end
 
+# Process entries with keyword "inpreparation"
+inpreparation = bib['@*[keywords~=accepted]'].reverse_each.map do |e|
+  "* #{cp.render(:bibliography, id: e.key)[0]}"
+end
+
+
 # Process entries with keyword "monography"
 monography = bib['@book[keywords!=notaccepted  && keywords!=miszelle &&  keywords!=pre && keywords=monography]'].reverse_each.map do |e|
   "* #{cp.render(:bibliography, id: e.key)[0]}"
