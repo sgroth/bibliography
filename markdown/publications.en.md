@@ -5,6 +5,13 @@ Dr. Stefan Groth
 Version: 2022-10-31
 
 ## Submitted Publications and Publications in Preparation
+* Groth, Stefan. n.d. “Narratives of Europe: A Relational Approach to EU–Ukraine Narrations in German Online Debate.” In preparation.   
+* Groth, Stefan, and Sarah May. 2023. “Morality as Organizational Practice: Themes, Methods, Approaches.” In Morality as Organizational Practice, edited by Sarah May, Stefan Groth, and Johannes Müske. Freiburger Studien zur Kulturanthropologie. Münster: Waxmann. In preparation.   
+* May, Sarah, Stefan Groth, and Johannes Müske, eds. 2023. Morality as Organizational Practice. Freiburger Studien zur Kulturanthropologie. Münster: Waxmann. In preparation.   
+* Groth, Stefan. n.d. “Aesthetic Felicity: The Poetics of Fact Checking and Counter-Narratives.” In . In preparation.   
+* Groth, Stefan. 2023. “‘Truthy’ and ‘Sticky’ Stories of Euroscepticism. Narratological Approaches to Appropriateness in Digital Contexts.” Ethnologia Europaea. Submitted for publication. 
+
+## Accepted Publications and Publicatons in Print
 * Groth, Stefan. n.d. “Prognose und Utopie: ‘Crypto Twitter‘ als populärkultureller Finanz- und Zukunftsdiskurs.” In Zukunftsentwürfe in der Populärkultur. Interdisziplinäre Perspektiven, edited by Michael Fischer and Markus Tauschek. Populäre Kultur und Musik. Münster: Waxmann. Accepted for publication.   
 * Groth, Stefan. 2023. “Populäre Narrative des Politischen: Euroskeptizismus aus Sicht der Empirischen Kulturwissenschaft [Popular Narratives of the Political: Euroscepticism from the Perspective of Empirical Cultural Studies].” Schweizerisches Archiv für Volkskunde 118 (1). In print.   
 * Groth, Stefan. 2022. “Versprechen als kontingente Praxis: Dimensionen des Versprechens in multilateralen Verhandlungen.” In Versprechen als kulturelle Konfigurationen in politischen Kontexten, edited by Cornelia Eisler and Katharina Schuchardt. ISGV digital. Studien zur Landesgeschichte und Kulturanthropologie. Dresden: Institut für Sächsische Geschichte und Volkskunde. In print.   
