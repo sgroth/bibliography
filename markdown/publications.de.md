@@ -2,7 +2,7 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2023-5-24
+Version: 2023-6-8
 
 ## Beiträge im Erscheinen und in Vorbereitung
 * Groth, Stefan. o. J. „The Poetics of Fact Checking and Counter-Narratives“. AllegraLab. In preparation for publication in a thematic thread on Populist Mediations: Aesthetics and the Politics of Affect in (Digital) Media.   
@@ -68,6 +68,7 @@ Version: 2023-5-24
 * Groth, Stefan, und Sarah May. 2023. „Morality as Organizational Practice: Negotiating, Performing, and Navigating Moral Standards in Contexts of Work“. In Morality as Organizational Practice, herausgegeben von Sarah May und Stefan Groth. Freiburger Studien zur Kulturanthropologie. Münster: Waxmann. In print.   
 * Groth, Stefan. 2023. „Versprechen als kontingente Praxis: Dimensionen des Versprechens in multilateralen Verhandlungen“. In Versprechen als kulturelle Konfigurationen in politischen Kontexten, herausgegeben von Cornelia Eisler und Katharina Schuchardt. ISGV digital. Studien zur Landesgeschichte und Kulturanthropologie. Dresden: Institut für Sächsische Geschichte und Volkskunde. In print.   
 * Groth, Stefan. o. J. „Kontext und politisches Erzählen“. In Politisches Erzählen. Tagungsband 11. Tagung der Kommission für Erzählforschung innerhalb der Deutschen Gesellschaft für Volkskunde, herausgegeben von Sabine Wienker-Piepho. Freiburger Studien zur Kulturanthropologie. Münster: Waxmann. Accepted for publication.   
+* Groth, Stefan. 2023. „Dell Hymes, Folklore’s Nature and the Sun’s Myth“. In Reading Matters: An Unfestschrift for Regina Bendix, herausgegeben von Ulrich Marzolph, 151–55. Göttingen: Göttingen University Press. doi:10.17875/gup2023-2261.   
 * Groth, Stefan. 2023. „Alltag als Konstante der Erfahrung“. In Erfahrung – Kulturanalytische Relationierungen, herausgegeben von Barbara Sieferle und Martina Röthl, 27–43. Münster: Waxmann.   
 * Groth, Stefan. 2022. „Selbstoptimierung und Navigational Capacity“. In Optimierung des Selbst, herausgegeben von Loreen Dalski, Kirsten Flöter, Lisa Keil, Kathrin Lohse, Lucas Sand, und Annabelle Schülein, 107–21. Bielefeld: transcript.   
 * Groth, Stefan. 2021. „Sprechen als gesellschaftliche Teilhabe. Zur Verknüpfung von Sprache und Citizenship“. In Sprache und Cultural Citizenship, herausgegeben von Stefan Groth, 10–37. Zürich: Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen. doi:10.5167/uzh-197442.   
