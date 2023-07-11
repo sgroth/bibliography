@@ -2,7 +2,7 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2023-6-8
+Version: 2023-7-11
 
 ## Submitted Publications and Publications in Preparation
 * Groth, Stefan. n.d. “Narratives of Europe: A Relational Approach to EU–Ukraine Narrations in German Online Debate.” In preparation.   

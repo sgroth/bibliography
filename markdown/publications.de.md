@@ -2,10 +2,10 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2023-6-8
+Version: 2023-7-11
 
 ## Beiträge im Erscheinen und in Vorbereitung
-* Groth, Stefan. o. J. „The Poetics of Fact Checking and Counter-Narratives“. AllegraLab. In preparation for publication in a thematic thread on Populist Mediations: Aesthetics and the Politics of Affect in (Digital) Media.   
+* Groth, Stefan. o. J. „The Poetics of Fact Checking and Counter-Narratives“. AllegraLab. Submitted for publication in a thematic thread on Populist Mediations: Aesthetics and the Politics of Affect in (Digital) Media.   
 * Groth, Stefan. o. J. „Narratives of Europe: A Relational Approach to EU–Ukraine Narrations in German Online Debate“. Journal article. In preparation.   
 * Groth, Stefan. 2023. „‘Truthy’ and ‘Sticky’ Stories of Euroscepticism. Narratological Approaches to Appropriateness in Digital Contexts“. Ethnologia Europaea. Peer reviewed. Accepted with revisions.   
 * Freistein, Katja, Frank Gadinger, und Stefan Groth. o. J. „Narratives in International Relations“. Journal article. In preparation. 
@@ -14,8 +14,6 @@ Version: 2023-6-8
 * Groth, Stefan. o. J. „Prognose und Utopie: ‘Crypto Twitter’ als populärkultureller Finanz- und Zukunftsdiskurs“. In Zukunftsentwürfe in der Populärkultur. Interdisziplinäre Perspektiven, herausgegeben von Michael Fischer und Markus Tauschek. Populäre Kultur und Musik. Münster: Waxmann. Accepted for publication.   
 * Groth, Stefan, und Sarah May. 2023. „Morality as Organizational Practice: Negotiating, Performing, and Navigating Moral Standards in Contexts of Work“. In Morality as Organizational Practice, herausgegeben von Sarah May und Stefan Groth. Freiburger Studien zur Kulturanthropologie. Münster: Waxmann. In print.   
 * May, Sarah, und Stefan Groth, Hrsg. 2023. Morality as Organizational Practice. Freiburger Studien zur Kulturanthropologie. Münster: Waxmann. In print.   
-* Groth, Stefan. 2023. „Populäre Narrative des Politischen: Euroskeptizismus aus Sicht der Empirischen Kulturwissenschaft“. Schweizerisches Archiv für Volkskunde 118 (1): 33–48. In print.   
-* Groth, Stefan. 2023. „Versprechen als kontingente Praxis: Dimensionen des Versprechens in multilateralen Verhandlungen“. In Versprechen als kulturelle Konfigurationen in politischen Kontexten, herausgegeben von Cornelia Eisler und Katharina Schuchardt. ISGV digital. Studien zur Landesgeschichte und Kulturanthropologie. Dresden: Institut für Sächsische Geschichte und Volkskunde. In print.   
 * Groth, Stefan. o. J. „Kontext und politisches Erzählen“. In Politisches Erzählen. Tagungsband 11. Tagung der Kommission für Erzählforschung innerhalb der Deutschen Gesellschaft für Volkskunde, herausgegeben von Sabine Wienker-Piepho. Freiburger Studien zur Kulturanthropologie. Münster: Waxmann. Accepted for publication. 
 
 ## Monographien
@@ -49,7 +47,7 @@ Version: 2023-6-8
 * Groth, Stefan. 2011. „Perspectives of Differentiation: Negotiating Traditional Knowledge on the International Level“. Journal of Ethnology and Folkloristics 4 (1): 7–24. http://www.jef.ee/index.php/journal/article/view/1. Peer reviewed. 
 
 ## Zeitschriftenaufsätze
-* Groth, Stefan. 2023. „Populäre Narrative des Politischen: Euroskeptizismus aus Sicht der Empirischen Kulturwissenschaft“. Schweizerisches Archiv für Volkskunde 118 (1): 33–48. In print.   
+* Groth, Stefan. 2023. „Populäre Narrative des Politischen: Euroskeptizismus aus Sicht der Empirischen Kulturwissenschaft“. Schweizerisches Archiv für Volkskunde 118 (1): 33–48. doi:10.33057/chronos.1744/33-48.   
 * Groth, Stefan. 2022. „Ästhetik des Mittelstandes?“ Décodage. Blog der SAGW (Schweizerische Akademie der Geistes- und Sozialwissenschaften), Oktober. SAGW. https://www.sagw.ch/sagw/aktuell/blog/details/news/aesthetik-des-mittelstandes-reduktion-im-wohnen-als-distinktion.   
 * Groth, Stefan. 2021. „Ästhetik, Nachhaltigkeit, Begrenzung: Anmerkungen zu normativen Dimensionen des kleinen Wohnens“. Herausgegeben von Manfred Seifert und Thomas Schindler. Hessische Blätter für Volks- und Kulturforschung 56. Wohnen jenseits der Normen: 73–87.   
 * Groth, Stefan. 2021. „Code und kommunikative Kartografien“. Kuckuck. Notizen zur Alltagskultur 2021 (1): 38–41.   
@@ -66,7 +64,7 @@ Version: 2023-6-8
 ## Aufsätze in Sammelbänden
 * Groth, Stefan. o. J. „Prognose und Utopie: ‘Crypto Twitter’ als populärkultureller Finanz- und Zukunftsdiskurs“. In Zukunftsentwürfe in der Populärkultur. Interdisziplinäre Perspektiven, herausgegeben von Michael Fischer und Markus Tauschek. Populäre Kultur und Musik. Münster: Waxmann. Accepted for publication.   
 * Groth, Stefan, und Sarah May. 2023. „Morality as Organizational Practice: Negotiating, Performing, and Navigating Moral Standards in Contexts of Work“. In Morality as Organizational Practice, herausgegeben von Sarah May und Stefan Groth. Freiburger Studien zur Kulturanthropologie. Münster: Waxmann. In print.   
-* Groth, Stefan. 2023. „Versprechen als kontingente Praxis: Dimensionen des Versprechens in multilateralen Verhandlungen“. In Versprechen als kulturelle Konfigurationen in politischen Kontexten, herausgegeben von Cornelia Eisler und Katharina Schuchardt. ISGV digital. Studien zur Landesgeschichte und Kulturanthropologie. Dresden: Institut für Sächsische Geschichte und Volkskunde. In print.   
+* Groth, Stefan. 2023. „Versprechen als kontingente Praxis: Dimensionen des Versprechens in multilateralen Verhandlungen“. In Versprechen als kulturelle Konfigurationen in politischen Kontexten: Interdisziplinäre Zugänge und Perspektiven, herausgegeben von Cornelia Eisler und Katharina Schuchardt, 110–21. ISGV digital. Studien zur Landesgeschichte und Kulturanthropologie. Dresden: 	.   
 * Groth, Stefan. o. J. „Kontext und politisches Erzählen“. In Politisches Erzählen. Tagungsband 11. Tagung der Kommission für Erzählforschung innerhalb der Deutschen Gesellschaft für Volkskunde, herausgegeben von Sabine Wienker-Piepho. Freiburger Studien zur Kulturanthropologie. Münster: Waxmann. Accepted for publication.   
 * Groth, Stefan. 2023. „Dell Hymes, Folklore’s Nature and the Sun’s Myth“. In Reading Matters: An Unfestschrift for Regina Bendix, herausgegeben von Ulrich Marzolph, 151–55. Göttingen: Göttingen University Press. doi:10.17875/gup2023-2261.   
 * Groth, Stefan. 2023. „Alltag als Konstante der Erfahrung“. In Erfahrung – Kulturanalytische Relationierungen, herausgegeben von Barbara Sieferle und Martina Röthl, 27–43. Münster: Waxmann.   
