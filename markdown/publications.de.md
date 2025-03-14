@@ -2,24 +2,19 @@
 Dr. Stefan Groth  
 [https://www.stefangroth.com](https://www.stefangroth.com)
 
-Version: 2023-7-11
+Version: 2025-3-14
 
 ## Beiträge im Erscheinen und in Vorbereitung
-* Groth, Stefan. o. J. „The Poetics of Fact Checking and Counter-Narratives“. AllegraLab. Submitted for publication in a thematic thread on Populist Mediations: Aesthetics and the Politics of Affect in (Digital) Media.   
-* Groth, Stefan. o. J. „Narratives of Europe: A Relational Approach to EU–Ukraine Narrations in German Online Debate“. Journal article. In preparation.   
-* Groth, Stefan. 2023. „‘Truthy’ and ‘Sticky’ Stories of Euroscepticism. Narratological Approaches to Appropriateness in Digital Contexts“. Ethnologia Europaea. Peer reviewed. Accepted with revisions.   
-* Freistein, Katja, Frank Gadinger, und Stefan Groth. o. J. „Narratives in International Relations“. Journal article. In preparation. 
+
 
 ## Zur Publikation angenommene Beiträge und Beiträge im Druck
-* Groth, Stefan. o. J. „Prognose und Utopie: ‘Crypto Twitter’ als populärkultureller Finanz- und Zukunftsdiskurs“. In Zukunftsentwürfe in der Populärkultur. Interdisziplinäre Perspektiven, herausgegeben von Michael Fischer und Markus Tauschek. Populäre Kultur und Musik. Münster: Waxmann. Accepted for publication.   
-* Groth, Stefan, und Sarah May. 2023. „Morality as Organizational Practice: Negotiating, Performing, and Navigating Moral Standards in Contexts of Work“. In Morality as Organizational Practice, herausgegeben von Sarah May und Stefan Groth. Freiburger Studien zur Kulturanthropologie. Münster: Waxmann. In print.   
-* May, Sarah, und Stefan Groth, Hrsg. 2023. Morality as Organizational Practice. Freiburger Studien zur Kulturanthropologie. Münster: Waxmann. In print.   
-* Groth, Stefan. o. J. „Kontext und politisches Erzählen“. In Politisches Erzählen. Tagungsband 11. Tagung der Kommission für Erzählforschung innerhalb der Deutschen Gesellschaft für Volkskunde, herausgegeben von Sabine Wienker-Piepho. Freiburger Studien zur Kulturanthropologie. Münster: Waxmann. Accepted for publication. 
+
 
 ## Monographien
 * Groth, Stefan. 2012. Negotiating Tradition: The Pragmatics of International Deliberations on Cultural Property. Bd. 4. Göttingen Studies in Cultural Property. Göttingen: Göttingen University Press. doi:10.4000/books.gup.608. 
 
 ## Herausgeberschaften
+* May, Sarah, Stefan Groth, und Johannes Müske, Hrsg. 2023. Morality as Organizational Practice. Freiburger Studien zur Kulturanthropologie. Münster: Waxmann.   
 * Groth, Stefan, Hrsg. 2021. Sprache und Cultural Citizenship. Zürich: Institut für Sozialanthropologie und Empirische Kulturwissenschaft – Populäre Kulturen. doi:10.5167/uzh-197443.   
 * Groth, Stefan, Sarah May, und Johannes Müske, Hrsg. 2020. Vernetzt, entgrenzt, prekär? Kulturwissenschaftliche Perspektiven auf Arbeit im Wandel. Bd. 17. Arbeit und Alltag: Beiträge zur ethnografischen Arbeitskulturenforschung. Campus.   
 * Groth, Stefan, und Christian Ritter, Hrsg. 2019. Zusammen arbeiten. Praktiken der Koordination und Kooperation in kollaborativen Prozessen. Kultur und soziale Praxis. Bielefeld: Transcript.   
@@ -32,6 +27,8 @@ Version: 2023-7-11
 * Groth, Stefan, Hrsg. 2019. „Narrative Culture“. Special Issue: Political Narratives / Narrations of the Political. Peer Reviewed. 
 
 ## Peer Reviewed Papers
+* Freistein, Katja, Frank Gadinger, und Stefan Groth. 2024. „Studying Narratives in International Relations“. International Studies Perspectives ekae019. doi:10.1093/isp/ekae019. Peer reviewed.   
+* Groth, Stefan. 2023. „‘Truthy’ and ‘Sticky’ Stories of Euroscepticism. Narratological Approaches to Appropriateness in Digital Contexts“. Ethnologia Europaea 53 (2): 1–20. doi:10.16995/ee.8844. Peer reviewed.   
 * Groth, Stefan. 2023. „Mainstreaming Heritages: Diversity and Abstract Heritage Values as Strategic Resources in EU External Relations“. Herausgegeben von Viktorija L. A. Čeginskas und Tuuli Lähdesmäki. International Journal of Cultural Policy 29 (1). Special Issue Heritage Diplomacy: Policy, Praxis and Power: 23–33. doi:10.1080/10286632.2022.2141726. Peer reviewed.   
 * Groth, Stefan. 2020. „Comparison as Reflective and Affective Practice: Orientations Towards the Middle in Recreational Road Cycling“. Herausgegeben von Stefan Groth. Cultural Analysis 18 (1). Special Issue: Comparison as Social and Cultural Practice: 63–75. https://www.ocf.berkeley.edu/ culturalanalysis/volume18_1/vol18_1_Groth.html. Peer Reviewed.   
 * Groth, Stefan. 2019. „Comparisons as Anticipatory and Relational Practice“. Journal for European Ethnology and Cultural Analysis (JEECA) 4 (2): 188–208. Peer Reviewed. Englische Version von Vergleiche als antizipierende und relationale Praxis (2019).   
@@ -62,10 +59,10 @@ Version: 2023-7-11
 * Groth, Stefan. 2009. „Kulturen im Gespräch: Interview mit Valdimar Hafstein“. Kulturen 2/2009: 40–47. 
 
 ## Aufsätze in Sammelbänden
-* Groth, Stefan. o. J. „Prognose und Utopie: ‘Crypto Twitter’ als populärkultureller Finanz- und Zukunftsdiskurs“. In Zukunftsentwürfe in der Populärkultur. Interdisziplinäre Perspektiven, herausgegeben von Michael Fischer und Markus Tauschek. Populäre Kultur und Musik. Münster: Waxmann. Accepted for publication.   
-* Groth, Stefan, und Sarah May. 2023. „Morality as Organizational Practice: Negotiating, Performing, and Navigating Moral Standards in Contexts of Work“. In Morality as Organizational Practice, herausgegeben von Sarah May und Stefan Groth. Freiburger Studien zur Kulturanthropologie. Münster: Waxmann. In print.   
-* Groth, Stefan. 2023. „Versprechen als kontingente Praxis: Dimensionen des Versprechens in multilateralen Verhandlungen“. In Versprechen als kulturelle Konfigurationen in politischen Kontexten: Interdisziplinäre Zugänge und Perspektiven, herausgegeben von Cornelia Eisler und Katharina Schuchardt, 110–21. ISGV digital. Studien zur Landesgeschichte und Kulturanthropologie. Dresden: 	.   
-* Groth, Stefan. o. J. „Kontext und politisches Erzählen“. In Politisches Erzählen. Tagungsband 11. Tagung der Kommission für Erzählforschung innerhalb der Deutschen Gesellschaft für Volkskunde, herausgegeben von Sabine Wienker-Piepho. Freiburger Studien zur Kulturanthropologie. Münster: Waxmann. Accepted for publication.   
+* Groth, Stefan. 2024. „Prognose und Utopie: ‘Crypto Twitter’ als populärkultureller Finanz- und Zukunftsdiskurs“. In Zukunftsentwürfe in der Populärkultur. Interdisziplinäre Perspektiven, herausgegeben von Michael Fischer und Markus Tauschek. Populäre Kultur und Musik. Münster: Waxmann.   
+* Groth, Stefan, und Sarah May. 2023. „Morality as Organizational Practice: Negotiating, Performing, and Navigating Moral Standards in Contexts of Work“. In Morality as Organizational Practice, herausgegeben von Sarah May und Stefan Groth. Freiburger Studien zur Kulturanthropologie. Münster: Waxmann.   
+* Groth, Stefan. 2023. „Versprechen als kontingente Praxis: Dimensionen des Versprechens in multilateralen Verhandlungen“. In Versprechen als kulturelle Konfigurationen in politischen Kontexten: Interdisziplinäre Zugänge und Perspektiven, herausgegeben von Cornelia Eisler und Katharina Schuchardt, 110–21. ISGV digital. Studien zur Landesgeschichte und Kulturanthropologie. Dresden: Institut für Sächsische Geschichte und Volkskunde.   
+* Groth, Stefan. 2024. „Kontext und politisches Erzählen“. In Politisches Erzählen: Narrative, Genres. Strategien, herausgegeben von Sabine Wienker-Piepho und Adrian Pollak, 15–43. Freiburg: Universität Freiburg.   
 * Groth, Stefan. 2023. „Dell Hymes, Folklore’s Nature and the Sun’s Myth“. In Reading Matters: An Unfestschrift for Regina Bendix, herausgegeben von Ulrich Marzolph, 151–55. Göttingen: Göttingen University Press. doi:10.17875/gup2023-2261.   
 * Groth, Stefan. 2023. „Alltag als Konstante der Erfahrung“. In Erfahrung – Kulturanalytische Relationierungen, herausgegeben von Barbara Sieferle und Martina Röthl, 27–43. Münster: Waxmann.   
 * Groth, Stefan. 2022. „Selbstoptimierung und Navigational Capacity“. In Optimierung des Selbst, herausgegeben von Loreen Dalski, Kirsten Flöter, Lisa Keil, Kathrin Lohse, Lucas Sand, und Annabelle Schülein, 107–21. Bielefeld: transcript.   
